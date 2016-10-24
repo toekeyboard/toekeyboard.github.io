@@ -1,3 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+  <meta charset="utf-8" />
+  <title></title>
+  <style>
+   * {
+    margin: 0;
+    padding: 0;
+   }
+   
+   body {
+    font-family: "微软雅黑, arial, helvetica, sans-serif";
+    font-size: 1em;
+    //background: #ccc;
+   }
+   
+   table {
+    width: 360px;
+    margin: 50px auto;
+    background: #fff;
+    text-align: center;
+    border-width: 2px 0 0 2px;
+    border-color: #ccc;
+    border-style: solid;
+   }
+   
+   table tr td,
+   table tr th {
+    padding: 20px 40px;
+    text-align: center;
+    border-width: 0 2px 2px 0;
+    border-color: #ccc;
+    border-style: solid;
+   }
+   
+   table tr td.today {
+    background: green;
+    color: #fff;
+   }
+
+   table tr td.third {
+    background: #f90;
+    color: #fff;
+   }
+  </style>
+ </head>
+
+
+
+
+
+
+ <body>
+
+
+
+
+
+
+
+
 <!--
 <a href="https://github.com/toekeyboard/toekeyboard"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/forkme_right_white_ffffff.png?raw=true" alt="Fork me on GitHub" data-canonical-src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/forkme_right_white_ffffff.png?raw=true"></a>
 -->
@@ -18,7 +81,133 @@
 
 <br>&nbsp
 
+
+
+
 <br>3rd Tuesday of every month at 7pm.
+
+
+
+
+  <script>
+   //判断当前年份是否是闰年(闰年2月份有29天，平年2月份只有28天)
+
+
+   function isLeap(year) {
+    return year % 4 == 0 ? (year % 100 != 0 ? 1 : (year % 400 == 0 ? 1 : 0)) : 0;
+   }
+
+
+    var i, k,
+    today = new Date(), //获取当前日期
+    today = new Date(2016,10,23),
+    //today = new Date(2016,9,23),
+    //today = new Date(2016,9,18),
+
+    //today = new Date(October 24, 2016 10:13:00),
+    //today = new Date(2016,9,23),
+    //today = new Date(2016,10,23,10,15,0),
+
+    y = today.getFullYear(), //获取日期中的年份
+    m = today.getMonth(), //获取日期中的月份(需要注意的是：月份是从0开始计算，获取的值比正常月份的值少1)
+    d = today.getDate(), //获取日期中的日(方便在建立日期表格时高亮显示当天)
+    firstday = new Date(y, m, 1), //获取当月的第一天
+    dayOfWeek = firstday.getDay(), //判断第一天是星期几(返回[0-6]中的一个，0代表星期天，1代表星期一，以此类推)
+    days_per_month = new Array(31, 28 + isLeap(y), 31, 30, 31, 30, 31, 31, 30, 31, 30, 31), //创建月份数组
+    str_nums = Math.ceil((dayOfWeek + days_per_month[m]) / 7); //确定日期表格所需的行数
+
+    //dayOfWeek == 
+
+    /*
+     if (dayOfWeek == 0) {
+	     document.write('<td class="today">' + date + '</td>')
+     } else if (date == 18) {
+	     document.write('<td class="third">' + date + "<br>@7pm" + '</td>')
+     } else {
+	     document.write('<td>' + date + '</td>'); //高亮显示当天
+     }
+*/
+
+
+function getTuesday() {
+    //var d = new Date(),
+    var d = today,
+        month = d.getMonth(),
+        tuesdays= [];
+
+    d.setDate(1);
+
+    // Get the first Tuesday in the month
+    while (d.getDay() !== 2) {
+        d.setDate(d.getDate() + 1);
+    }
+
+    // Get all the other Tuesdays in the month
+    while (d.getMonth() === month) {
+        tuesdays.push(new Date(d.getTime()));
+        d.setDate(d.getDate() + 7);
+    }
+
+    return tuesdays[2];
+}
+
+
+
+   document.write("<table cellspacing='0'>"); //打印表格第一行(显示星期)
+
+    //document.write('<tr>' + today + '</tr>')
+    //document.write('<tr>' + today.getDay() + '</tr>')
+
+    var thirdTues = getTuesday().getDate();
+    //document.write('<tr>' + thirdTues + '</tr>');
+    //document.write('<tr>' + getTuesday().getDate() + '</tr>');
+    //document.write('<tr>' + getTuesday().getDate() + '</tr>');
+    //document.write('<tr>' + getTuesday().getDate() + '</tr>');
+
+   //document.write("<table cellspacing='0'><tr><th>日</th><th>一</th><th>二</th><th>三</th><th>四</th><th>五</th><th>六</th></tr>"); //打印表格第一行(显示星期)
+   for (i = 0; i < str_nums; i += 1) { //二维数组创建日期表格
+    document.write('<tr>');
+    for (k = 0; k < 7; k++) {
+     var idx = 7 * i + k; //为每个表格创建索引,从0开始
+     var date = idx - dayOfWeek + 1; //将当月的1号与星期进行匹配
+     (date <= 0 || date > days_per_month[m]) ? date = '&nbsp;': date = idx - dayOfWeek + 1; //索引小于等于0或者大于月份最大值就用空表格代替
+
+     if ( (date == d) && (date == thirdTues) ) {
+	     document.write('<td class="today">' + date + "<br>@7pm" + '</td>');
+     }
+     else if (date == d) {
+	     document.write('<td class="today">' + date + '</td>');
+     //} else if (date == "18") {
+     } else if (date == thirdTues) {
+     //} else if (date == getTuesday().getDate()) {
+	     document.write('<td class="third">' + date + "<br>@7pm" + '</td>');
+     } else {
+	     document.write('<td>' + date + '</td>'); //高亮显示当天
+     }
+
+     //date == d ? document.write('<td class="today">' + date + '</td>') : document.write('<td>' + date + '</td>'); //高亮显示当天
+     //date == 18 ? document.write('<td class="third">' + date + '</td>'): 0; //高亮显示当天
+    }
+    document.write('</tr>');
+   }
+   document.write('</table>');
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 <a href="http://www.openstreetmap.org/?mlat=43.83305&mlon=-79.30594" target="_blank">Food court in this mall</a>
@@ -32,6 +221,7 @@
 
 <hr>
 
+<!--
 <br><b>Applications:</b>
 <br>Typing
 <br>Emailing
@@ -45,3 +235,10 @@
 <br>Checkers
 <br>Poker
 <br>Casino games (Roulette, Blackjack)   (Probability and chance)
+
+-->
+
+
+ </body>
+
+</html>

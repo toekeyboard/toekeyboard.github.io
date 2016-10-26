@@ -95,10 +95,6 @@
 
 
 
-<br>
-<br>3rd Tuesday of every month at 7pm.
-<br><a href="http://board.net/p/toekeyboard" target="_blank">http://board.net/p/toekeyboard</a>
-<br>
 
 
 
@@ -193,7 +189,14 @@ function getTuesday() {
      //} else if (date == "18") {
      } else if (date == thirdTues) {
      //} else if (date == getTuesday().getDate()) {
-	     document.write('<td class="third">' + date + "<br>@7pm" + '</td>');
+	     document.write('<td class="third">' + date + 
+			     "
+			     //<br>@7pm
+<br>
+<br>3rd Tuesday of every month at 7pm.
+<br><a href="http://board.net/p/toekeyboard" target="_blank">http://board.net/p/toekeyboard</a>
+<br>
+			     " + '</td>');
      } else {
 	     document.write('<td>' + date + '</td>'); //高亮显示当天
      }

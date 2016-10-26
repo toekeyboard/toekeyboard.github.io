@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -79.30594,
+	  43.83305
+        ]
+      },
+      "properties": {
+        "marker-symbol": "Point",
+        "name": "3rd Tuesday of every month at 7pm",
+        "address": "Food Court"
+      }
+    },
+  ]
+}

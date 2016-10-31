@@ -1,0 +1,45 @@
+digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+#    node [shape=circle];
+    edge [arrowsize=0.8];
+
+    graph [label="Sinugboanong Binisaya", labelloc=top, fontsize=30];
+
+
+ Pagsugod ->A
+A ->B
+A ->K
+B ->D
+B ->E
+K->G
+K->H
+D ->I
+D ->L
+E ->M
+empty1 [label="",width=.1,style=invis]
+E -> empty1 [style=invis];
+
+
+Pagsugod ->N
+N ->NG
+N ->O
+NG ->P
+NG ->R
+O ->S
+O ->T
+P ->U
+P ->W
+R ->Y
+empty2 [label="",width=.1,style=invis]
+R -> empty2 [style=invis];
+
+
+
+
+#	 empty1 [label="",width=.1,style=invis]
+#	 V -> empty1 [style=invis];
+
+
+}

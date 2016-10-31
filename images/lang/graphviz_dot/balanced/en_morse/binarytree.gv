@@ -1,0 +1,55 @@
+digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    
+    graph [label="English - Morse Code", labelloc=top, fontsize=30];
+
+    Start -> E;
+    E -> I;
+    E -> A;
+    I -> S;
+    I -> U;
+    A -> R;
+    A -> W;
+    S -> H;
+    S -> V;
+    U -> F;
+
+#    U -> "..--";
+    empty1 [label="",width=.1,style=invis]
+    U -> empty1 [style=invis];
+
+    R -> L;
+
+#    R -> ".-.-";
+    empty2 [label="",width=.1,style=invis]
+    R -> empty2 [style=invis];
+
+    W -> P;
+    W -> J;
+
+    Start -> T;
+    T -> N;
+    T -> M;
+    N -> D;
+    N -> K;
+    M -> G;
+    M -> O;
+    D -> B;
+    D -> X;
+    K -> C;
+    K -> Y;
+    G -> Z;
+    G -> Q;
+
+#    O -> "---.";
+    empty3 [label="",width=.1,style=invis]
+    O -> empty3 [style=invis];
+#    O -> "----";
+    empty4 [label="",width=.1,style=invis]
+    O -> empty4 [style=invis];
+
+}

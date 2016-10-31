@@ -1,0 +1,49 @@
+digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+#    node [shape=circle];
+    edge [arrowsize=0.8];
+
+    graph [label="Deutsch", labelloc=top, fontsize=30];
+
+
+Anfang ->A
+A->B
+A->C
+B->D
+B->E
+C->F
+C->G
+D->H
+D->I
+E->J
+E->K
+F->L
+F->M
+G->N
+G->O
+
+Anfang->P
+P->Q
+P->R
+Q->S
+Q->T
+R->U
+R->V
+S->W
+S->X
+T->Y
+T->Z
+U->Ä
+U->Ö
+V->Ü
+V->ß
+
+
+
+#empty1 [label="",width=.1,style=invis]
+#V -> empty1 [style=invis];
+
+
+}

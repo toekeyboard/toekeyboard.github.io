@@ -12,7 +12,10 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        ".": "<a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' target='_blank'><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true'></a>"
+
+        ".": "<a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true'><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' width='50%'></a>"
+
+        ".": "<a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' target='_blank'><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' width='50%'></a>"
       }
     }
   ]

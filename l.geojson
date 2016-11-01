@@ -19,5 +19,22 @@
 
       }
     }
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-122.17241,
+		37.44288
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "7pm / 19h00",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=37.44288&mlon=-122.17241' target='_blank'>-122.17241, 37.44288</a>"
+      }
+    }
+
   ]
 }

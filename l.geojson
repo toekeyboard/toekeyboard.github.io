@@ -34,6 +34,23 @@
         ".": "7pm / 19h00",
         "..": "<a href='http://www.openstreetmap.org/?mlat=37.44288&mlon=-122.17241' target='_blank'>-122.17241, 37.44288</a>"
       }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		34.810290,
+		32.066014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "7pm / 19h00",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=32.066014&mlon=34.810290' target='_blank'>32.066014, 34.810290</a>"
+      }
     }
 
   ]

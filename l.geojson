@@ -32,7 +32,8 @@
       "properties": {
         "marker-symbol": "bar",
         ".": "7pm / 19h00",
-        "..": "<a href='http://www.openstreetmap.org/?mlat=37.44288&mlon=-122.17241' target='_blank'>-122.17241, 37.44288</a>"
+        "..": "<a href='http://www.openstreetmap.org/?mlat=37.44288&mlon=-122.17241' target='_blank'>-122.17241, 37.44288</a>",
+        "...": "Silicon Valley"
       }
     },
 
@@ -48,9 +49,31 @@
       "properties": {
         "marker-symbol": "bar",
         ".": "7pm / 19h00",
-        "..": "<a href='http://www.openstreetmap.org/?mlat=32.066014&mlon=34.810290' target='_blank'>32.066014, 34.810290</a>"
+        "..": "<a href='http://www.openstreetmap.org/?mlat=32.066014&mlon=34.810290' target='_blank'>32.066014, 34.810290</a>",
+        "...": "Silicon Wadi"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		114.110174,
+		22.555612
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "7pm / 19h00",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=22.555612&mlon=114.110174' target='_blank'>22.555612, 114.110174</a>",
+        "...": "Shenzhen Hi-Tech Industrial Park - Shenzhen, Guangdong"
       }
     }
+
+
+
+
 
   ]
 }

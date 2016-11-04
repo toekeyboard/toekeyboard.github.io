@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "point",
+        "marker-symbol": "bar",
         ".": "7pm / 19h00",
         "..": "<a href='http://www.openstreetmap.org/?mlat=43.83305&mlon=-79.30594' target='_blank'>-79.30594,43.83305</a>",
         "...": "<a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' target='_blank'><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' width=100%></a>"

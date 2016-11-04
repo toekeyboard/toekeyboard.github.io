@@ -42,7 +42,7 @@
     color: #fff;
    }
 
-   table tr td.third {
+   table tr td.meet {
     background: #f90;
     color: #fff;
    }
@@ -119,7 +119,7 @@
      if (dayOfWeek == 0) {
 	     document.write('<td class="today">' + date + '</td>')
      } else if (date == 18) {
-	     document.write('<td class="third">' + date + "<br>@7pm" + '</td>')
+	     document.write('<td class="meet">' + date + "<br>@7pm" + '</td>')
      } else {
 	     document.write('<td>' + date + '</td>'); //高亮显示当天
      }
@@ -177,23 +177,23 @@ function getTuesday() {
      //} else if (date == "18") {
      } else if (date == thirdTues) {
      //} else if (date == getTuesday().getDate()) {
-	     //document.write('<td class="third">' + date + "<br>@7pm" + '</td>');
-	     //document.write('<td class="third">' + date + "<br><a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' target='_blank'>@7pm</a>" + '</td>');
+	     //document.write('<td class="meet">' + date + "<br>@7pm" + '</td>');
+	     //document.write('<td class="meet">' + date + "<br><a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' target='_blank'>@7pm</a>" + '</td>');
 
-	     document.write('<td class="third">' + date + 
+	     document.write('<td class="meet">' + date + 
 			     "<br><a href='https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson' target='_blank'>@7pm</a>" 
 			     + '</td>');
 
 			     //<a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' target='_blank'>
 
 
-	     //document.write('<td class="third">' + date + "<br>3rd Tuesday of every month at 7pm.<br><a href='http://board.net/p/toekeyboard' target='_blank'>http://board.net/p/toekeyboard</a>" + '</td>');
+	     //document.write('<td class="meet">' + date + "<br>3rd Tuesday of every month at 7pm.<br><a href='http://board.net/p/toekeyboard' target='_blank'>http://board.net/p/toekeyboard</a>" + '</td>');
      } else {
 	     document.write('<td>' + date + '</td>'); //高亮显示当天
      }
 
      //date == d ? document.write('<td class="today">' + date + '</td>') : document.write('<td>' + date + '</td>'); //高亮显示当天
-     //date == 18 ? document.write('<td class="third">' + date + '</td>'): 0; //高亮显示当天
+     //date == 18 ? document.write('<td class="meet">' + date + '</td>'): 0; //高亮显示当天
     }
     document.write('</tr>');
    }

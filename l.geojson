@@ -84,7 +84,7 @@
         "marker-symbol": "bar",
         ".": "7pm / 19h00",
         "..": "<a href='http://www.openstreetmap.org/?mlat=37.264294&mlon=126.997525' target='_blank'>37.264294, 126.997525</a>",
-        "...": "Suwon, Korea or Samsung Digital City"
+        "...": "수원 | Suwon, Korea or Samsung Digital City"
       }
     },
 
@@ -101,7 +101,7 @@
         "marker-symbol": "bar",
         ".": "7pm / 19h00",
         "..": "<a href='http://www.openstreetmap.org/?mlat=24.809503&mlon=120.975551' target='_blank'>24.809503, 120.975551</a>",
-        "...": "Hsinchu Science Park - Hsinchu City"
+        "...": "新竹科學工業園區 | https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E7%A7%91%E5%AD%B8%E5%B7%A5%E6%A5%AD%E5%9C%92%E5%8D%80  | Hsinchu Science Park - Hsinchu City"
       }
     },
 
@@ -203,7 +203,7 @@
         "marker-symbol": "bar",
         ".": "7pm / 19h00",
         "..": "<a href='http://www.openstreetmap.org/?mlat=36.034078&mlon=140.132598' target='_blank'>36.034078, 140.132598</a>",
-        "...": "筑波研究学園都市|Tsukuba Science City, Japan"
+        "...": "筑波研究学園都市 | https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E7%A0%94%E7%A9%B6%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82 | Tsukuba Science City, Japan"
       }
     }
   ]

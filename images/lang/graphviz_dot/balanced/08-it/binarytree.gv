@@ -1,0 +1,75 @@
+digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+#    node [shape=circle];
+    edge [arrowsize=0.8];
+
+    graph [label="Italiano", labelloc=top, fontsize=30];
+
+
+
+Inizio ->A
+A ->B
+A ->C
+B ->D
+B ->E
+C ->F
+C ->G
+D ->H
+D ->I
+E ->L
+E ->M
+F ->N
+F ->O
+G ->P
+G ->Q
+H ->R
+empty1 [label="",width=.1,style=invis]
+H -> empty1 [style=invis];
+
+Inizio ->S
+S ->T
+S ->U
+T ->V
+T ->Z
+U ->à
+U ->è
+V ->é
+V ->ì
+Z ->í 
+Z ->î
+ à->ò
+ à->ó
+ è->ù
+ è->ú
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

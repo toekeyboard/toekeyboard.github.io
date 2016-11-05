@@ -1,0 +1,47 @@
+digraph G {
+#    nodesep=0.3
+#    ranksep=0.2
+#    margin=0.1
+#    node [shape=circle]
+    #node [shape=circle, color=blue];
+#    edge [arrowsize=0.8]
+
+    #label="English"
+    #labelloc=top
+    #labeljust=left
+
+    graph [label="Español", labelloc=top, fontsize=30];
+
+    Comienzo -> A
+    A -> B
+    A -> C
+    B -> D
+    B -> E
+    C -> F
+    C -> G
+    D -> H
+    D -> I
+    E -> J
+    E -> K
+    F -> L
+    F -> M
+    G -> N
+    
+    empty1 [label="",width=.1,style=invis]
+    G -> empty1 [style=invis]
+
+    Comienzo -> Ñ 
+    Ñ -> O
+    Ñ -> P
+    O -> Q
+    O -> R
+    P -> S
+    P -> T
+    Q -> U
+    Q -> V
+    R -> W
+    R -> X
+    S -> Y
+    S -> Z
+
+}

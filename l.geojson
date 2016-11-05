@@ -202,8 +202,8 @@
       "properties": {
         "marker-symbol": "bar",
         ".": "7pm / 19h00",
-        "..": "<a href='http://www.openstreetmap.org/?mlat=36.034078&mlon=140.132598' target='_blank'>36.034078, 140.132598</a>",
-        "...": "筑波研究学園都市 | <a href='https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E7%A0%94%E7%A9%B6%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82'>a</a> | Tsukuba Science City, Japan"
+        "..": "<a href='http://www.openstreetmap.org/?mlat=36.034078&mlon=140.132598' target='_blank'>36.034078, 140.132598</a> a",
+        "...": "筑波研究学園都市 | https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E7%A0%94%E7%A9%B6%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82| Tsukuba Science City, Japan"
       }
     }
   ]

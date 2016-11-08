@@ -116,7 +116,7 @@
       "properties": {
         "marker-symbol": "bar",
         ".": "7pm / 19h00",
-        "..": "<a href='http://www.openstreetmap.org/?mlat=19.213692&mlon=72.848921' target='_blank'>72.848921, 19.213692</a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=19.213692&mlon=72.848921' target='_blank'>19.213692,72.848921</a>",
         "...": "Mumbai"
       }
     },

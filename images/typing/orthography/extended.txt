@@ -1,0 +1,41 @@
+1                       L R R R R 
+2                       L L R R R 
+3                       L L L R R 
+4                       L L L L R 
+5                       L L L L L 
+
+6                       R L L L L 
+7                       R R L L L 
+8                       R R R L L 
+9                       R R R R L 
+0                       R R R R R 
+
+ENTER                   R hold for 2 secs
+Backspace        	L hold for 2 secs
+SPACE                   L and R at same time
+On/Off                  L and R at same time, hold for 3 secs
+
+Period [.]              L R L R L R 
+Semicolon [;]           R L R L R L 
+Comma [,]               R R L L R R 
+Question Mark [?]       L L R R L L 
+Exclamation Point [!]   R L R L R R 
+
+At Sign [@]             L R R L R L 
+Hashtag [#]             R L L R L R
+
+Plus [+]           	L R L R L 
+Minus [-]  		R L L L L R 
+Divide [/]   		R L L R L 
+Multiply [*]            L R R L R
+
+Parenthesis open [(]    R L R R L 
+Parenthesis close [)]   R L R R L R 
+Apostrophe [']          L R R R R L 
+Ampersand [&]           L R L L L 
+Colon [:]               R R R L L L 
+Double Dash [=]         R L L L R 
+
+Underscore [_]          L L R R L R 
+Quotation mark ["]      L L L R L L R 
+

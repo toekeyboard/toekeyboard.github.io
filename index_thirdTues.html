@@ -240,7 +240,7 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
 */
 
 
-function getTuesdays() {
+function getTuesday() {
     //var d = new Date(),
     var d = today,
         month = d.getMonth(),
@@ -259,7 +259,7 @@ function getTuesdays() {
         d.setDate(d.getDate() + 7);
     }
 
-    return tuesdays;
+    return tuesdays[2];
     //http://www.java2s.com/Tutorial/JavaScript/0220__Array/Returnanarrayfromafunction.htm
 }
 
@@ -270,31 +270,7 @@ function getTuesdays() {
     //document.write('<tr>' + today + '</tr>')
     //document.write('<tr>' + today.getDay() + '</tr>')
 
-    //var thirdTues = getTuesdays()[2].getDate();
-
-	var gTues = getTuesdays();
-	var Tues = new Array(5);
-	Tues[0] = gTues[0].getDate();
-	Tues[1] = gTues[1].getDate();
-	Tues[2] = gTues[2].getDate();
-	Tues[3] = gTues[3].getDate();
-	
-	Tues[4] = -1;
-	if (gTues.length == 5) {
-	Tues[4] = gTues[4].getDate();
-	}
-/*
-	var Tues = new Array(5);
-	Tues[0] = getTuesdays()[0].getDate();
-	Tues[1] = getTuesdays()[1].getDate();
-	Tues[2] = getTuesdays()[2].getDate();
-	Tues[3] = getTuesdays()[3].getDate();
-	
-	if (getTuesdays().length == 5) {
-	Tues[4] = getTuesdays()[4].getDate();
-	}
-*/
-
+    var thirdTues = getTuesday().getDate();
     //document.write('<tr>' + thirdTues + '</tr>');
     //document.write('<tr>' + getTuesday().getDate() + '</tr>');
     //document.write('<tr>' + getTuesday().getDate() + '</tr>');
@@ -308,14 +284,7 @@ function getTuesdays() {
      var date = idx - dayOfWeek + 1; //将当月的1号与星期进行匹配
      (date <= 0 || date > days_per_month[m]) ? date = '&nbsp;': date = idx - dayOfWeek + 1; //索引小于等于0或者大于月份最大值就用空表格代替
 
-     if ( 
-	//(date == d) && (date == thirdTues)
-	(date == d) && (date == Tues[0]) ||
-	(date == d) && (date == Tues[1]) ||
-	(date == d) && (date == Tues[2]) ||
-	(date == d) && (date == Tues[3]) ||
-	(date == d) && (date == Tues[4])
-		     ) {
+     if ( (date == d) && (date == thirdTues) ) {
 	     document.write('<td class="today">' + date + 
 			     "<br><a href='https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson' target='_blank'>7pm/19h</a>" + 
 			     "<br><br><a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#1674927471' target='_blank'>chat</a>" +
@@ -324,14 +293,7 @@ function getTuesdays() {
      else if (date == d) {
 	     document.write('<td class="today">' + date + '</td>');
      //} else if (date == "18") {
-     } else if ( 
-	       //(date == thirdTues)
-	       (date == Tues[0]) ||
-	       (date == Tues[1]) ||
-	       (date == Tues[2]) ||
-	       (date == Tues[3]) ||
-	       (date == Tues[4])
-	       ){
+     } else if (date == thirdTues) {
      //} else if (date == getTuesday().getDate()) {
 	     //document.write('<td class="meet">' + date + "<br>@7pm" + '</td>');
 	     //document.write('<td class="meet">' + date + "<br><a href='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/mall/DSC03368.JPG?raw=true' target='_blank'>@7pm</a>" + '</td>');

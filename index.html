@@ -214,6 +214,7 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
     //today = new Date(2016,10,23),
     //today = new Date(2016,9,23),
     //today = new Date(2016,9,18),
+    //today = new Date(2015,11,18),
 
     //today = new Date(October 24, 2016 10:13:00),
     //today = new Date(2016,9,23),
@@ -274,10 +275,17 @@ function getTuesdays() {
 
 	var gTues = getTuesdays();
 	var Tues = new Array(5);
+	//Tues[0] = -1;
 	Tues[0] = gTues[0].getDate();
-	Tues[1] = gTues[1].getDate();
+
+	Tues[1] = -1;
+	//Tues[1] = gTues[1].getDate();
+
+	//Tues[2] = -1;
 	Tues[2] = gTues[2].getDate();
-	Tues[3] = gTues[3].getDate();
+	
+	Tues[3] = -1;
+	//Tues[3] = gTues[3].getDate();
 	
 	Tues[4] = -1;
 	if (gTues.length == 5) {

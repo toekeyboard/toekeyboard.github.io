@@ -284,7 +284,10 @@ function getTuesday() {
      (date <= 0 || date > days_per_month[m]) ? date = '&nbsp;': date = idx - dayOfWeek + 1; //索引小于等于0或者大于月份最大值就用空表格代替
 
      if ( (date == d) && (date == thirdTues) ) {
-	     document.write('<td class="today">' + date + "<br>@7pm" + '</td>');
+	     document.write('<td class="today">' + date + 
+			     "<br><a href='https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson' target='_blank'>7pm/19h</a>" + 
+			     "<br><br><a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#1674927471' target='_blank'>chat</a>" +
+			     '</td>');
      }
      else if (date == d) {
 	     document.write('<td class="today">' + date + '</td>');

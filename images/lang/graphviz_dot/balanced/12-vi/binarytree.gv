@@ -1,0 +1,51 @@
+digraph G {
+#    nodesep=0.3
+#    ranksep=0.2
+#    margin=0.1
+#    node [shape=circle]
+    #node [shape=circle, color=blue];
+#    edge [arrowsize=0.8]
+
+    #label="English"
+    #labelloc=top
+    #labeljust=left
+
+    graph [label="Tiếng Việt", labelloc=top, fontsize=30];
+
+"Khởi đầu"->A
+A->Ă
+A->Â
+Ă->B
+Ă->C
+Â->D
+Â->Đ
+B->E
+B->Ê
+C->G
+C->H
+D->I
+D->K
+Đ->L
+Đ->M
+
+"Khởi đầu"->N
+N->O
+N->Ô
+O->Ơ
+O->P
+Ô->Q
+Ô->R
+Ơ->S
+Ơ->T
+P->U
+P->Ư
+Q->V
+Q->X
+R->Y
+empty1 [label="",width=.1,style=invis]
+R -> empty1 [style=invis]
+
+    #empty1 [label="",width=.1,style=invis]
+    #G -> empty1 [style=invis]
+
+}

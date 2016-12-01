@@ -1,0 +1,53 @@
+digraph G {
+#    nodesep=0.3
+#    ranksep=0.2
+#    margin=0.1
+#    node [shape=circle]
+    #node [shape=circle, color=blue];
+#    edge [arrowsize=0.8]
+
+    #label="English"
+    #labelloc=top
+    #labeljust=left
+
+    graph [label="日本語 - 1", labelloc=top, fontsize=30];
+
+"開始"->い
+い->に
+い->ち
+に->と
+に->な
+ち->す
+ち->て
+と->く
+と->ひ
+な->は
+な->れ
+す->り
+す->ね
+て->せ
+て->ま
+
+
+"開始"->か
+か->み
+か->も
+み->し
+み->の
+も->き
+も->ら
+し->こ
+し->さ
+の->そ
+の->ん
+き->つ
+き->た
+ら->る
+ら->ぬ
+
+
+
+    #empty1 [label="",width=.1,style=invis]
+    #G -> empty1 [style=invis]
+
+}

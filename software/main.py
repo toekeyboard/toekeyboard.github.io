@@ -47,16 +47,19 @@ key_codes = {
     "rllr" : "x",
     "rlrr" : "y",
     "rrll" : "z",
+
     "lrrrr" : "1",
     "llrrr" : "2",
     "lllrr" : "3",
     "llllr" : "4",
     "lllll" : "5",
+
     "rllll" : "6",
     "rrlll" : "7",
     "rrrll" : "8",
     "rrrrl" : "9",
     "rrrrr" : "0",
+
 
     #filler so not undefined
     "" : "",
@@ -66,8 +69,27 @@ key_codes = {
     "rrrr" : "[dah]",
 
     "lrlrlr" : ".", #full_stop
+    "rlrlrl" : ";", #semicolon
     "rrllrr" : ",", #comma
     "rrllrr" : "?", #question_mark
+    "rlrlrr" : "!", 
+    "lrrlrl" : "@",
+    "rllrlr" : "#",
+
+    "lrlrl" : "+",
+    "rllllr" : "-",
+    "rllrl" : "/",
+    "lrrlr" : "*",
+
+    "rlrrl" : "(",
+    "rlrrlr" : ")",
+    "lrrrrl" : "'",
+    "lrlll" : "&",
+    "rrrlll" : ":",
+    "rlllr" : "=",
+    "llrrlr" : "_",
+    "lllrllr" : "\"",
+
 }
 
 

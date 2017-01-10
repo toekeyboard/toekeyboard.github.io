@@ -1,0 +1,55 @@
+pkill ssh-agent
+pgrep ssh-agent
+
+eval $(ssh-agent)
+ssh-add ./id_rsa_toekeyboard
+ssh-add -l
+
+
+pushd ..
+pwd
+
+git add . && git commit -a -m "."
+#sleep 1
+git push -u origin master
+
+git add . && git commit -a -m "."
+#sleep 1
+git push -u origin master
+
+popd
+
+
+pkill ssh-agent
+pgrep ssh-agent
+
+
+
+#git init
+#git add . && git commit -a -m "."
+#git remote add origin git@github.com:toekeyboard/toekeyboard.github.io.git
+#git push -u origin master
+#git remote set-url origin git@github.com:toekeyboard/toekeyboard.github.io
+
+
+
+#~/.ssh
+#no password
+#ssh-keygen -t rsa -C "toekeyboard"
+
+# ssh -T -ai ~/.ssh/id_rsa_toekeyboard git@github.com
+
+##signup
+#github.com	-> Sign-up
+#https://github.com/join?source=header-home
+
+#Username: toekeyboard
+#Email: toekeyboard@mailinator.com
+#		https://www.mailinator.com/inbox2.jsp?public_to=ydl123#/#public_maildirdiv
+#Password: toekeyboard123
+
+#New Repository
+
+#Settings -> SSH and GPG Keys -> New SSH key
+#./ssh$cat id_rsa.pub
+

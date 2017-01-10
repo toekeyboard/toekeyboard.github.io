@@ -1,0 +1,113 @@
+digraph G {
+#    nodesep=0.3
+#    ranksep=0.2
+#    margin=0.1
+#    node [shape=circle]
+#    node [shape=circle, color=blue];
+#    edge [arrowsize=0.8]
+
+    #label="English"
+    #labelloc=top
+    #labeljust=left
+
+    #graph [label="English", labelloc=top, labeljust=right, fontsize=30];
+
+
+#http://stackoverflow.com/questions/1938200/how-to-change-default-font-size-for-graphviz#1960887
+    graph [label="Music", labelloc=top, fontsize=30];
+    node [fontsize=9];
+    #edge [fontsize=20];
+
+
+
+
+
+
+
+
+    Start -> Stop
+
+    Stop -> "Previous Track"
+    Stop -> "Rewind 5 sec"
+
+
+    "Previous Track" -> "Volume Down"
+    #line break
+    #"Previous Track" -> "Volume \n Down"
+
+
+    empty1 [label="",width=.1,style=invis]
+    "Previous Track" -> empty1 [style=invis]
+
+
+    "Rewind 5 sec" -> Record
+    "Rewind 5 sec" -> "Rewind 10 sec"
+
+
+
+
+
+    Start -> "Play/Pause"
+
+    "Play/Pause" -> "Fast Forward 5 sec"
+    "Play/Pause" -> "Next Track"
+
+
+    "Fast Forward 5 sec" -> "Fast Forward 10 sec"
+    empty2 [label="",width=.1,style=invis]
+    "Fast Forward 5 sec" -> empty2 [style=invis]
+
+
+
+    empty3 [label="",width=.1,style=invis]
+    "Next Track" -> empty3 [style=invis]
+
+    "Next Track" -> "Volume Up"
+
+
+
+
+
+
+
+
+#    empty1 [label="",width=.1,style=invis]
+#    G -> empty1 [style=invis]
+#    empty2 [label="",width=.1,style=invis]
+#    G -> empty2 [style=invis]
+
+#    empty3 [label="",width=.1,style=invis]
+#    T -> empty3 [style=invis]
+#    empty4 [label="",width=.1,style=invis]
+#    T -> empty4 [style=invis]
+}
+
+
+
+
+# ----Music
+#on/off - 2 secs
+#
+#                                  Start
+#                         /                     \
+#                       Stop                  Play/Pause
+#                    /        \            /             \
+#                Previous     Rewind     Fast Forward    Next
+#                /              \                           \
+#        Volume Down          Record                      Volume Up
+#
+#
+#
+#
+#
+#                                Start
+#                         /                 \
+#                       Stop              Play/Pause
+#                    /        \         /             \
+#                Rewind     Record     Mix       Fast Forward
+#                /                                       \
+#        Volume Down                                     Volume Up
+
+
+
+

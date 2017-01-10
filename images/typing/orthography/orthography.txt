@@ -96,12 +96,30 @@ https://en.wikipedia.org/wiki/Morse_code#Letters.2C_numbers.2C_punctuation.2C_pr
 
 
 # ----Music
+#on/off - 2 secs
 
-                Start
-         /                 \
-       Stop              Play/Pause
-    /        \         /             \
-Rewind     Record     Mix	Fast Forward
+				  Start
+			 /     		       \
+		       Stop                  Play/Pause
+		    /        \       	  /             \
+		Previous     Rewind	Fast Forward	Next
+		/              \                           \
+	Volume Down          Record                      Volume Up
+
+
+
+
+
+				Start
+			 /                 \
+		       Stop              Play/Pause
+		    /        \         /             \
+		Rewind     Record     Mix	Fast Forward
+		/                                       \
+	Volume Down                                     Volume Up
+
+
+
 
 
 

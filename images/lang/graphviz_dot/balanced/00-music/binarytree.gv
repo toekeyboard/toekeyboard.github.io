@@ -54,8 +54,9 @@ digraph G {
 
 
     "Fast Forward 5 sec" -> "Fast Forward 10 sec"
-    empty2 [label="",width=.1,style=invis]
-    "Fast Forward 5 sec" -> empty2 [style=invis]
+    "Fast Forward 5 sec" -> "Loop"
+#    empty2 [label="",width=.1,style=invis]
+#    "Fast Forward 5 sec" -> empty2 [style=invis]
 
 
 

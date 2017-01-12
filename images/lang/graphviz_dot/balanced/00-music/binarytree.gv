@@ -27,21 +27,21 @@ digraph G {
 
     Start -> Stop
 
-    Stop -> "Previous Track"
-    Stop -> "Rewind 5 sec"
+    Stop -> "Previous \n Track"
+    Stop -> "Rewind \n 5 sec"
 
 
-    "Previous Track" -> "Volume Down"
+    "Previous \n Track" -> "Volume \n Down"
     #line break
     #"Previous Track" -> "Volume \n Down"
 
 
     empty1 [label="",width=.1,style=invis]
-    "Previous Track" -> empty1 [style=invis]
+    "Previous \n Track" -> empty1 [style=invis]
 
 
-    "Rewind 5 sec" -> Record
-    "Rewind 5 sec" -> "Rewind 10 sec"
+    "Rewind \n 5 sec" -> Record
+    "Rewind \n 5 sec" -> "Rewind \n 10 sec"
 
 
 
@@ -49,21 +49,21 @@ digraph G {
 
     Start -> "Play/Pause"
 
-    "Play/Pause" -> "Fast Forward 5 sec"
-    "Play/Pause" -> "Next Track"
+    "Play/Pause" -> "Fast Forward \n 5 sec"
+    "Play/Pause" -> "Next \n Track"
 
 
-    "Fast Forward 5 sec" -> "Fast Forward 10 sec"
-    "Fast Forward 5 sec" -> "Loop"
+    "Fast Forward \n 5 sec" -> "Fast Forward \n 10 sec"
+    "Fast Forward \n 5 sec" -> "Loop"
 #    empty2 [label="",width=.1,style=invis]
 #    "Fast Forward 5 sec" -> empty2 [style=invis]
 
 
 
     empty3 [label="",width=.1,style=invis]
-    "Next Track" -> empty3 [style=invis]
+    "Next \n Track" -> empty3 [style=invis]
 
-    "Next Track" -> "Volume Up"
+    "Next \n Track" -> "Volume Up"
 
 
 

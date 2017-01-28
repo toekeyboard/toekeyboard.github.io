@@ -1,0 +1,3 @@
+# Don't ignore .gitignore
+#!.gitignore
+.*.swp

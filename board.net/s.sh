@@ -2,6 +2,10 @@ mv txt txt_old
 
 wget http://board.net/p/1674927471/export/txt
 
+fldiff txt txt_old
+
+sleep 1
+
 git add . && git commit -a -m "."
 
 #git init

@@ -262,6 +262,42 @@
 	"...": "Food court, Denison Centre, 1661 Denison St, Markham, ON",
 	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.83305|-79.30594' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.83305|-79.30594</a>"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -75.735029,
+	  45.386990
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=45.386990&mlon=-75.735029' target='_blank'>45.386990,-75.735029</a>",
+	"...": "Food court, Westgate Shopping Centre, 1309 Carling Ave, Ottawa, ON",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.386990|-75.735029' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.386990|-75.735029</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -73.647846,
+	  45.528360
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=45.528360&mlon=-73.647846' target='_blank'>45.528360,-73.647846</a>",
+	"...": "Food court, Rockland Centre, 2305 Chemin Rockland, Montréal, QC",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.528360|-73.647846' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.528360|-73.647846</a>"
+      }
     }
 
   ]

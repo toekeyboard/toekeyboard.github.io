@@ -215,6 +215,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+	  -80.5280716,
+	  43.496835
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=43.496835&mlon=-80.5280716' target='_blank'>43.496835,-80.5280716</a>",
+	"...": "Food court, Conestoga Mall, 550 King St N, Waterloo, ON",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.496835|-80.5280716' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.496835|-80.5280716</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -122.998772,
+	  49.225414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=49.225414&mlon=-122.998772' target='_blank'>49.225414,-122.998772</a>",
+	"...": "Food court, Metropolis at Metrotown, 4700 Kingsway #604, Burnaby, BC",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#49.225414|-122.998772' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#49.225414|-122.998772</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
 	  -79.30594,
 	  43.83305
         ]
@@ -228,22 +264,5 @@
       }
     },
 
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-	  -80.5280716,
-	  43.496835
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
-        "..": "<a href='http://www.openstreetmap.org/?mlat=43.496835&mlon=-80.5280716' target='_blank'>43.496835,-80.5280716</a>",
-	"...": "Food court, Conestoga Mall, 550 King St N, Waterloo, ON",
-	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.496835|-80.5280716' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.496835|-80.5280716</a>"
-      }
-    }
   ]
 }

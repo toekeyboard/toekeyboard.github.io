@@ -1,29 +1,3 @@
-https://github.com/morsecodedichotomicsearch/morsecodedichotomicsearch
-https://reddit.com/user/morsecodedichotomics
-http://imgur.com/user/morsecodedichotomicsearch
-	http://imgur.com/user/morsecodedichotomicsearch/submitted
-http://board.net/p/morsecodedichotomicsearch
-
-https://www.reddit.com/r/translation
-
-
-
-
-#morsecodedichotomicsearch.txt
-Morse Code Tree: Dichotomic Search & Mnemonics  (Multi-lingual)
-
-
-# main.py:
-  Toe Keyboard  
-  Clavier pour les orteils  
-  Zehe Tastatur  
-
-
-
-
-
-
-
 # ----Universal
 https://en.wikipedia.org/wiki/Dichotomic_search
 https://en.wikipedia.org/wiki/Dichotomic_search#/media/File:Morse_code_tree3.png
@@ -35,18 +9,17 @@ https://en.wikipedia.org/wiki/Morse_code#Letters.2C_numbers.2C_punctuation.2C_pr
 3			L L L R R 
 4			L L L L R 
 5			L L L L L 
+
 6			R L L L L 
 7			R R L L L 
 8			R R R L L 
 9			R R R R L 
 0			R R R R R 
 
+ENTER			R (hold for 2 secs)
+Backspace		L (hold for 2 secs)
 SPACE			L and R at same time
-ENTER			R hold for 2 secs
-Delete/Backspace	L hold for 2 secs
-On/Off			L and R at same time, hold for 5+ secs
-
-
+On/Off			L and R at same time (hold for 2 secs)
 
 Period [.] 		L R L R L R 
 Semicolon [;] 		R L R L R L  
@@ -57,12 +30,10 @@ Exclamation Point [!]	R L R L R R 
 At Sign [@]		L R R L R L 
 Hashtag [#]		R L L R L R			(made up. opposite @ sign)
 
-
 Plus/Add sign [+]		L R L R L 
 Hyphen/Minus/Subtract Sign [-] 	R L L L L R  
 Slash/Fraction/Divide Bar [/] 	R L L R L  
 Multiply [*]			L R R L R (made up. opposite divide sign)
-
 
 Parenthesis open [(] 	R L R R L 
 Parenthesis close [)] 	R L R R L R  
@@ -70,7 +41,6 @@ Apostrophe [']		L R R R R L 
 Ampersand [&]		L R L L L 
 Colon [:] 		R R R L L L  
 Double Dash [=] 	R L L L R  
-
 
 Underscore [_]		L L R R L R 
 Quotation mark ["]	L L L R L L R 
@@ -158,8 +128,9 @@ Every individual attains superpowers using really wicked hip vibrations furiousl
 Eagles idle attentively searching ugly ravens while high vortexes fluctuate - like - popping jazz
 
 TNMDKGOBXCYZQ.-
-The naughty men do killing games over breakfast x-raying children yearning zoo quests . -
-Talking numbers means dealing kids grief only because x-rated children yell zero quips
+The nasty men do killing games over breakfast x-raying children yearning zoo quests . -
+Talking numbers means dealing kids grief only because x-rated children yell zero quips . -
+The ninga master does karate grips on bad x-ray children yelling zealous quarrels . -
 
 
            Start (goofy)
@@ -4742,4 +4713,13 @@ https://en.wikipedia.org/wiki/Sorbian_languages
 ├─────┼──────────┼────────────┼──────
 │ 295 │ Kanuri   │ Kanuri     │ kr   
 └─────┴──────────┴────────────┴──────
+
+
+
+
+
+
+
+
+
 

@@ -15,9 +15,5 @@ git add . && git commit -a -m "."
 #meld txt txt_old
 
 
-
-
-
-
-#http://board.net/p/1674927471/timeslider
-#curl http://board.net/p/1674927471/<version>/export/txt
+#http://board.net/p/toekeyboard/timeslider
+#curl http://board.net/p/toekeyboard/<version>/export/txt

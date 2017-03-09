@@ -310,30 +310,30 @@ ne fonction pas.    boites vide
 */
 
 
-function getTuesdays() {
-    //var d = new Date(),
-    var d = today,
-        month = d.getMonth(),
-        tuesdays= [];
+    function getTuesdays() {
+        //var d = new Date(),
+        var d = today,
+            month = d.getMonth(),
+            tuesdays= [];
 
-    d.setDate(1);
-
-    // Get the first Tuesday in the month
-    while (d.getDay() !== 2) {
-        d.setDate(d.getDate() + 1);
+        d.setDate(1);
+    
+        // Get the first Tuesday in the month
+        while (d.getDay() !== 2) {
+            d.setDate(d.getDate() + 1);
+        }
+    
+        // Get all the other Tuesdays in the month
+        while (d.getMonth() === month) {
+            tuesdays.push(new Date(d.getTime()));
+            d.setDate(d.getDate() + 7);
+        }
+    
+        return tuesdays;
+        //http://www.java2s.com/Tutorial/JavaScript/0220__Array/Returnanarrayfromafunction.htm
     }
-
-    // Get all the other Tuesdays in the month
-    while (d.getMonth() === month) {
-        tuesdays.push(new Date(d.getTime()));
-        d.setDate(d.getDate() + 7);
-    }
-
-    return tuesdays;
-    //http://www.java2s.com/Tutorial/JavaScript/0220__Array/Returnanarrayfromafunction.htm
-}
-
-
+    
+    
 
    document.write("<table cellspacing='0'>"); //打印表格第一行(显示星期)
 
@@ -342,27 +342,27 @@ function getTuesdays() {
 
     //var thirdTues = getTuesdays()[2].getDate();
 
-	var gTues = getTuesdays();
-	var Tues = new Array(5);
-	Tues[0] = -1;
-	//Tues[0] = gTues[0].getDate();
-
-	Tues[1] = -1;
-	//Tues[1] = gTues[1].getDate();
-
-	//Tues[2] = -1;
-	Tues[2] = gTues[2].getDate();
-	
-	Tues[3] = -1;
-	//Tues[3] = gTues[3].getDate();
-	
-	Tues[4] = -1;
-	//if (gTues.length == 5) {
-	//Tues[4] = gTues[4].getDate();
-	//}
-
+    var gTues = getTuesdays();
+    var Tues = new Array(5);
+    Tues[0] = -1;
+    //Tues[0] = gTues[0].getDate();
+    
+    Tues[1] = -1;
+    //Tues[1] = gTues[1].getDate();
+    
+    //Tues[2] = -1;
+    Tues[2] = gTues[2].getDate();
+    
+    Tues[3] = -1;
+    //Tues[3] = gTues[3].getDate();
+    
+    Tues[4] = -1;
+    //if (gTues.length == 5) {
+    //Tues[4] = gTues[4].getDate();
+    //}
+    
 /*
-	var Tues = new Array(5);
+    	var Tues = new Array(5);
 	Tues[0] = getTuesdays()[0].getDate();
 	Tues[1] = getTuesdays()[1].getDate();
 	Tues[2] = getTuesdays()[2].getDate();
@@ -644,6 +644,11 @@ https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercont
 	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/opensource-logo.jpeg?raw=true" width="10%" />
 </a>
 
+<br>
+<br><a href="https://en.wikipedia.org/wiki/Intel_High_Definition_Audio"target="_blank">Intel_High_Definition_Audio</a>
+<br><a href="http://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf"target="_blank">high-definition-audio-specification.pdf</a>
+<br><a href="https://github.com/toekeyboard/toekeyboard.github.io/tree/master/alsa-tools-gui/alsa-tools-1.1.0/hdajackretask" target="_blank">hdajackretask</a>
+
 
 
 
@@ -752,6 +757,10 @@ https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercont
 
 
 
+<br>
+<hr>
+<br>
+
 
 
 
@@ -761,12 +770,6 @@ https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercont
 	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/US2077426-1.png?raw=true" width="33%" />
 </a>
 
-
-<br><a href="https://en.wikipedia.org/wiki/Intel_High_Definition_Audio"target="_blank">Intel_High_Definition_Audio</a>
-
-<br><a href="http://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf"target="_blank">high-definition-audio-specification.pdf</a>
-
-<br><a href="https://github.com/toekeyboard/toekeyboard.github.io/tree/master/alsa-tools-gui/alsa-tools-1.1.0/hdajackretask" target="_blank">hdajackretask</a>
 
 <br><a href="https://en.wikipedia.org/wiki/Velostat" target="_blank">Velostat</a>
 <br><a href="http://www.caplinq.com/blog/linqstat-volume-conductive-film-for-emf-shielding_37/" target="_blank">Linqstat</a>

@@ -866,6 +866,10 @@ clearpathrobotics.com]]></description>
             </Placemark>
             <Placemark>
                 <name>Maplesoft</name>
+                <description><![CDATA[
+
+
+]]></description>
                 <LookAt>
                     <longitude>-80.5476267109</longitude>
                     <latitude>43.5061005315</latitude>
@@ -888,6 +892,10 @@ clearpathrobotics.com]]></description>
             </Placemark>
             <Placemark>
                 <name>Aeryon Labs</name>
+                <description><![CDATA[
+
+
+]]></description>
                 <LookAt>
                     <longitude>-80.5420833300</longitude>
                     <latitude>43.4993918627</latitude>
@@ -913,7 +921,10 @@ clearpathrobotics.com]]></description>
                 <description><![CDATA[mar 20,2017 -6-9pm          wlu robotics club       concourse
 
 fb.com/lauriobotics
-robotracing.wordpress.com]]></description>
+robotracing.wordpress.com
+
+
+]]></description>
                 <LookAt>
                     <longitude>-80.5291882314</longitude>
                     <latitude>43.4735467666</latitude>
@@ -929,61 +940,6 @@ robotracing.wordpress.com]]></description>
                 </Style>
                 <Point>
                     <coordinates>-80.5291882314,43.4735467666</coordinates>
-                </Point>
-                <ExtendedData xmlns:mx="http://marble.kde.org">
-                    <mx:OsmPlacemarkData id="0"/>
-                </ExtendedData>
-            </Placemark>
-            <Placemark>
-                <name>Definition Financial, 103 Bauer Place, Suite 1, Waterloo</name>
-                <description><![CDATA[<br>http://www.definesuccess.ca
-<br>http://www.eventbrite.ca/o/definition-financial-7713981513?s=32281822
-
-
-]]></description>
-                <LookAt>
-                    <longitude>-80.5302434712</longitude>
-                    <latitude>43.4961031053</latitude>
-                    <altitude>0.0000000000</altitude>
-                    <range>106.4782048973</range>
-                </LookAt>
-                <Style>
-                    <IconStyle>
-                        <Icon>
-                            <href>/usr/share/marble/data/bitmaps/bookmark.png</href>
-                        </Icon>
-                    </IconStyle>
-                </Style>
-                <Point>
-                    <coordinates>-80.5302434712,43.4961031053</coordinates>
-                </Point>
-                <ExtendedData xmlns:mx="http://marble.kde.org">
-                    <mx:OsmPlacemarkData id="0"/>
-                </ExtendedData>
-            </Placemark>
-            <Placemark>
-                <name>Velocity Garage</name>
-                <description><![CDATA[<br>The Tannery, 151 Charles St W Suite# 199, Kitchener
-<br>velocity.uwaterloo.ca
-
-<br>miragevr.ca
-<br>fb.com / twitter.com            @entermirage
-]]></description>
-                <LookAt>
-                    <longitude>-80.4984900844</longitude>
-                    <latitude>43.4511597070</latitude>
-                    <altitude>0.0000000000</altitude>
-                    <range>285.3615993300</range>
-                </LookAt>
-                <Style>
-                    <IconStyle>
-                        <Icon>
-                            <href>/usr/share/marble/data/bitmaps/bookmark.png</href>
-                        </Icon>
-                    </IconStyle>
-                </Style>
-                <Point>
-                    <coordinates>-80.4984900844,43.4511597070</coordinates>
                 </Point>
                 <ExtendedData xmlns:mx="http://marble.kde.org">
                     <mx:OsmPlacemarkData id="0"/>

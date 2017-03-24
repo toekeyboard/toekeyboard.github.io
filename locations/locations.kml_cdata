@@ -1014,4 +1014,27 @@ robotracing.wordpress.com]]></description>
             </Placemark>
         </Folder>
     </Document>
-</kml> 
+</kml> p.m.]]></description>
+                <LookAt>
+                    <longitude>-80.4923855538</longitude>
+                    <latitude>43.4517352760</latitude>
+                    <altitude>0.0000000000</altitude>
+                    <range>212.9564097945</range>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <Icon>
+                            <href>/usr/share/marble/data/bitmaps/bookmark.png</href>
+                        </Icon>
+                    </IconStyle>
+                </Style>
+                <Point>
+                    <coordinates>-80.4923855538,43.4517352760</coordinates>
+                </Point>
+                <ExtendedData xmlns:mx="http://marble.kde.org">
+                    <mx:OsmPlacemarkData id="0"/>
+                </ExtendedData>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

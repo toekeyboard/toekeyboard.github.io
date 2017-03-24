@@ -842,8 +842,7 @@
             </Placemark>
             <Placemark>
                 <name>Clearpath Robotics</name>
-                <description><![CDATA[1425 Strasburg Rd, Suite 2A, Kitchener
-clearpathrobotics.com]]></description>
+                <description>1425 Strasburg Rd, Suite 2A, Kitchener. clearpathrobotics.com</description>
                 <LookAt>
                     <longitude>-80.4695615081</longitude>
                     <latitude>43.4028728142</latitude>
@@ -888,10 +887,7 @@ clearpathrobotics.com]]></description>
             </Placemark>
             <Placemark>
                 <name>Lauriobotics</name>
-                <description><![CDATA[mar 20,2017 -6-9pm          wlu robotics club       concourse
-
-fb.com/lauriobotics
-robotracing.wordpress.com]]></description>
+                <description>mar 20,2017 -6-9pm          wlu robotics club       concourse fb.com/lauriobotics robotracing.wordpress.com</description>
                 <LookAt>
                     <longitude>-80.5291882314</longitude>
                     <latitude>43.4735467666</latitude>
@@ -914,8 +910,7 @@ robotracing.wordpress.com]]></description>
             </Placemark>
             <Placemark>
                 <name>Definition Financial, 103 Bauer Place, Suite 1, Waterloo</name>
-                <description><![CDATA[<br>http://www.definesuccess.ca
-<br>http://www.eventbrite.ca/o/definition-financial-7713981513?s=32281822]]></description>
+                <description>http://www.definesuccess.ca http://www.eventbrite.ca/o/definition-financial-7713981513?s=32281822</description>
                 <LookAt>
                     <longitude>-80.5302434712</longitude>
                     <latitude>43.4961031053</latitude>
@@ -938,11 +933,7 @@ robotracing.wordpress.com]]></description>
             </Placemark>
             <Placemark>
                 <name>Velocity Garage</name>
-                <description><![CDATA[<br>The Tannery, 151 Charles St W Suite# 199, Kitchener
-<br>velocity.uwaterloo.ca
-
-<br>miragevr.ca
-<br>fb.com / twitter.com            @entermirage]]></description>
+                <description>The Tannery, 151 Charles St W Suite# 199, Kitchener. velocity.uwaterloo.ca miragevr.ca fb.com / twitter.com            @entermirage</description>
                 <LookAt>
                     <longitude>-80.4984900844</longitude>
                     <latitude>43.4511597070</latitude>
@@ -965,9 +956,7 @@ robotracing.wordpress.com]]></description>
             </Placemark>
             <Placemark>
                 <name>Waterloo Public Library Board</name>
-                <description><![CDATA[<br>http://www.wpl.ca/your-library/about/library-board
-<br>Regular Waterloo Public Library Board meetings are held on the 4th Wednesday of the month at 5:00pm in the Main Library’s Board Room on the Dupont St. level.
-<br>mar 22,2017]]></description>
+                <description>http://www.wpl.ca/your-library/about/library-board    Regular Waterloo Public Library Board meetings are held on the 4th Wednesday of the month at 5:00pm in the Main Library’s Board Room on the Dupont St. level. mar 22,2017</description>
                 <LookAt>
                     <longitude>-80.5245338642</longitude>
                     <latitude>43.4659125869</latitude>
@@ -990,8 +979,7 @@ robotracing.wordpress.com]]></description>
             </Placemark>
             <Placemark>
                 <name>Grand River Accessibility Advisory Committee</name>
-                <description><![CDATA[<br>http://calendar.wilmot.ca/townshipcalendar
-<br>March 23, 2017 1:30 p.m. - 3:50 p.m.]]></description>
+                <description>http://calendar.wilmot.ca/townshipcalendar March 23, 2017 1:30 p.m. - 3:50 p.m.</description>
                 <LookAt>
                     <longitude>-80.4923855538</longitude>
                     <latitude>43.4517352760</latitude>
@@ -1014,4 +1002,27 @@ robotracing.wordpress.com]]></description>
             </Placemark>
         </Folder>
     </Document>
-</kml> 
+</kml> p.m.]]></description>
+                <LookAt>
+                    <longitude>-80.4923855538</longitude>
+                    <latitude>43.4517352760</latitude>
+                    <altitude>0.0000000000</altitude>
+                    <range>212.9564097945</range>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <Icon>
+                            <href>/usr/share/marble/data/bitmaps/bookmark.png</href>
+                        </Icon>
+                    </IconStyle>
+                </Style>
+                <Point>
+                    <coordinates>-80.4923855538,43.4517352760</coordinates>
+                </Point>
+                <ExtendedData xmlns:mx="http://marble.kde.org">
+                    <mx:OsmPlacemarkData id="0"/>
+                </ExtendedData>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

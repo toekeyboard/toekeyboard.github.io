@@ -28,7 +28,7 @@ http://harrywood.co.uk/maps/examples/leaflet/kml.view.html
          }).addTo(map);
          map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
                                                              
-         var kmlLayer = new L.KML("shopping.kml", {async: true});
+         var kmlLayer = new L.KML("shoppping.kml", {async: true});
                                                               
          kmlLayer.on("loaded", function(e) { 
             map.fitBounds(e.target.getBounds());

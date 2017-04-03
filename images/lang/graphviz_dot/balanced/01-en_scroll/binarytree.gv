@@ -13,14 +13,14 @@ digraph G {
     #graph [label="English", labelloc=top, labeljust=right, fontsize=30];
     graph [label="English - Scroll", labelloc=top, fontsize=30];
 
-    Start -> "Left - Scroll backwards through alphabet. \n 1 tap - scroll backward by 1 letter. \n 1 sec hold - scroll backward by 3 letters. \n 1.5 sec hold - scroll backward by 6 letters."
+    Start -> "Left - Scroll backwards through alphabet. \n \n 1 tap - scroll backward by 1 letter. \n 1 sec hold - scroll backward by 3 letters. \n 1.5 sec hold - scroll backward by 6 letters. \n 2 sec hold - Backspace"
 
 #    empty1 [label="",width=.1,style=invis]
 #    G -> empty1 [style=invis]
 #    empty2 [label="",width=.1,style=invis]
 #    G -> empty2 [style=invis]
 
-    Start -> "Right - Scroll forwards through alphabet. \n 1 tap - scroll forward by 1 letter. \n 1 sec hold - scroll forward by 3 letters. \n 1.5 sec hold - scroll forward by 6 letters."
+    Start -> "Right - Scroll forwards through alphabet. \n \n 1 tap - scroll forward by 1 letter. \n 1 sec hold - scroll forward by 3 letters. \n 1.5 sec hold - scroll forward by 6 letters. \n 2 sec hold - Enter"
 
 #    empty3 [label="",width=.1,style=invis]
 #    T -> empty3 [style=invis]

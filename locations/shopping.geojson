@@ -1,0 +1,624 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.335139507,
+                    43.8259611835
+                ]
+            },
+            "properties": {
+                "name": "CArobotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3367924133,
+                    43.8246294878
+                ]
+            },
+            "properties": {
+                "name": "Sulon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.336565212,
+                    43.8248753797
+                ]
+            },
+            "properties": {
+                "name": "wired messenger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3266703887,
+                    43.8230612948
+                ]
+            },
+            "properties": {
+                "name": "QNAP systems"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3352528278,
+                    43.8209568509
+                ]
+            },
+            "properties": {
+                "name": "Pars Robotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.358240299,
+                    43.8255693842
+                ]
+            },
+            "properties": {
+                "name": "Ainova Robotics / Crosswing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2407925883,
+                    43.8776047739
+                ]
+            },
+            "properties": {
+                "name": "rbotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.259685968,
+                    43.8795156529
+                ]
+            },
+            "properties": {
+                "name": "the village hive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4301897211,
+                    43.7972630384
+                ]
+            },
+            "properties": {
+                "name": "Exceed Robotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3437036088,
+                    43.8238185039
+                ]
+            },
+            "properties": {
+                "name": "hipstreet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3301319982,
+                    43.838572967
+                ]
+            },
+            "properties": {
+                "name": "york angels investors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3277079915,
+                    43.8357315682
+                ]
+            },
+            "properties": {
+                "name": "Asus Computer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3263445862,
+                    43.8326306093
+                ]
+            },
+            "properties": {
+                "name": "General Motros Canada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3212468196,
+                    43.8391462115
+                ]
+            },
+            "properties": {
+                "name": "ncix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3236544702,
+                    43.8418374893
+                ]
+            },
+            "properties": {
+                "name": "woodforsheep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3271582183,
+                    43.8400479268
+                ]
+            },
+            "properties": {
+                "name": "dr robot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3282188715,
+                    43.8408265313
+                ]
+            },
+            "properties": {
+                "name": "#2 - Cable specialist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3279537235,
+                    43.840881183
+                ]
+            },
+            "properties": {
+                "name": "kukri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.323143092,
+                    43.842411224
+                ]
+            },
+            "properties": {
+                "name": "Medical Orthopedics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3198273534,
+                    43.8405581774
+                ]
+            },
+            "properties": {
+                "name": "ajuvia / bodyryzm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3523369405,
+                    43.7621613605
+                ]
+            },
+            "properties": {
+                "name": "Neuronicworks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3337279264,
+                    43.8184661844
+                ]
+            },
+            "properties": {
+                "name": "IBM / Venturelab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3283885307,
+                    43.8236367846
+                ]
+            },
+            "properties": {
+                "name": "Wireless Accessories"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.328557149,
+                    43.8225510491
+                ]
+            },
+            "properties": {
+                "name": "105 gibson centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3699799874,
+                    43.8656416198
+                ]
+            },
+            "properties": {
+                "name": "Buttonville flying club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2295705315,
+                    43.8845257165
+                ]
+            },
+            "properties": {
+                "name": "Open Office Hours"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3060684062,
+                    43.8331282737
+                ]
+            },
+            "properties": {
+                "name": "Wearable Computing - Toe Keyboard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3058600967,
+                    43.8331829101
+                ]
+            },
+            "properties": {
+                "name": "Wireless Community Network"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3652794024,
+                    43.8619644237
+                ]
+            },
+            "properties": {
+                "name": "Epson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3648815257,
+                    43.8613292193
+                ]
+            },
+            "properties": {
+                "name": "Workers Equipment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3808499439,
+                    43.8573235508
+                ]
+            },
+            "properties": {
+                "name": "Newegg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3824808681,
+                    43.86446878
+                ]
+            },
+            "properties": {
+                "name": "Startup Drinks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3553628912,
+                    43.832957005
+                ]
+            },
+            "properties": {
+                "name": "Immigrantimes.org / Bronte Bay Accountant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2827478506,
+                    43.8684533756
+                ]
+            },
+            "properties": {
+                "name": "Immigrant Youth Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5285351783,
+                    43.485795724
+                ]
+            },
+            "properties": {
+                "name": "Kik Interactive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5509761142,
+                    43.480144643
+                ]
+            },
+            "properties": {
+                "name": "Textnow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4949847883,
+                    43.4515210278
+                ]
+            },
+            "properties": {
+                "name": "oakandrumble.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5175662794,
+                    43.4830478458
+                ]
+            },
+            "properties": {
+                "name": "nuvation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4695615081,
+                    43.4028728142
+                ]
+            },
+            "properties": {
+                "name": "Clearpath Robotics",
+                "description": "1425 Strasburg Rd, Suite 2A, Kitchener\nclearpathrobotics.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.54208333,
+                    43.4993918627
+                ]
+            },
+            "properties": {
+                "name": "Aeryon Labs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5291882314,
+                    43.4735467666
+                ]
+            },
+            "properties": {
+                "name": "Lauriobotics",
+                "description": "mar 20,2017 -6-9pm          wlu robotics club       concourse\n\nfb.com/lauriobotics\nrobotracing.wordpress.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5302434712,
+                    43.4961031053
+                ]
+            },
+            "properties": {
+                "name": "Definition Financial, 103 Bauer Place, Suite 1, Waterloo",
+                "description": "<br>http://www.definesuccess.ca\n<br>http://www.eventbrite.ca/o/definition-financial-7713981513?s=32281822"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4984900844,
+                    43.451159707
+                ]
+            },
+            "properties": {
+                "name": "Velocity Garage",
+                "description": "<br>The Tannery, 151 Charles St W Suite# 199, Kitchener\n<br>velocity.uwaterloo.ca\n\n<br>miragevr.ca\n<br>fb.com / twitter.com            @entermirage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5245338642,
+                    43.4659125869
+                ]
+            },
+            "properties": {
+                "name": "Waterloo Public Library Board",
+                "description": "<br>http://www.wpl.ca/your-library/about/library-board\n<br>Regular Waterloo Public Library Board meetings are held on the 4th Wednesday of the month at 5:00pm in the Main Library’s Board Room on the Dupont St. level.\n<br>mar 22,2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4923855538,
+                    43.451735276
+                ]
+            },
+            "properties": {
+                "name": "Grand River Accessibility Advisory Committee",
+                "description": "<br>http://calendar.wilmot.ca/townshipcalendar\n<br>March 23, 2017 1:30 p.m. - 3:50 p.m."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5254932476,
+                    43.464080789
+                ]
+            },
+            "properties": {
+                "name": "DevHouse / Boltmade / Shopify",
+                "description": "<br>57 Erb St W, Waterloo\n<br>https://www.meetup.com/es/DevHouse-Waterloo/events/238558930/\n<br>mar 27,2017\n\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4950306527,
+                    43.4515981499
+                ]
+            },
+            "properties": {
+                "name": "305 King st w",
+                "description": "<br>Mappedin\n<br>                                        305 King St W #700, Kitchener\n<br>                                        mappedin.com\n<br>\n<br>sweettooth\n<br>                                        305 King St. W Suite 901 Kitchener\n<br>                                         https://www.sweettoothrewards.com\n<br>\n<br>Square Canada\n<br>                                        305 King St W Ste 904, Kitchener\n<br>                                        squareup.com\n\n"
+            }
+        }
+    ]
+}

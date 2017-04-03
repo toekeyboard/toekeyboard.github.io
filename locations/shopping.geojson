@@ -1,624 +1,304 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.335139507,
-                    43.8259611835
-                ]
-            },
-            "properties": {
-                "name": "CArobotics"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3367924133,
-                    43.8246294878
-                ]
-            },
-            "properties": {
-                "name": "Sulon"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.336565212,
-                    43.8248753797
-                ]
-            },
-            "properties": {
-                "name": "wired messenger"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3266703887,
-                    43.8230612948
-                ]
-            },
-            "properties": {
-                "name": "QNAP systems"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3352528278,
-                    43.8209568509
-                ]
-            },
-            "properties": {
-                "name": "Pars Robotics"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.358240299,
-                    43.8255693842
-                ]
-            },
-            "properties": {
-                "name": "Ainova Robotics / Crosswing"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.2407925883,
-                    43.8776047739
-                ]
-            },
-            "properties": {
-                "name": "rbotics"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.259685968,
-                    43.8795156529
-                ]
-            },
-            "properties": {
-                "name": "the village hive"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.4301897211,
-                    43.7972630384
-                ]
-            },
-            "properties": {
-                "name": "Exceed Robotics"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3437036088,
-                    43.8238185039
-                ]
-            },
-            "properties": {
-                "name": "hipstreet"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3301319982,
-                    43.838572967
-                ]
-            },
-            "properties": {
-                "name": "york angels investors"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3277079915,
-                    43.8357315682
-                ]
-            },
-            "properties": {
-                "name": "Asus Computer"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3263445862,
-                    43.8326306093
-                ]
-            },
-            "properties": {
-                "name": "General Motros Canada"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3212468196,
-                    43.8391462115
-                ]
-            },
-            "properties": {
-                "name": "ncix"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3236544702,
-                    43.8418374893
-                ]
-            },
-            "properties": {
-                "name": "woodforsheep"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3271582183,
-                    43.8400479268
-                ]
-            },
-            "properties": {
-                "name": "dr robot"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3282188715,
-                    43.8408265313
-                ]
-            },
-            "properties": {
-                "name": "#2 - Cable specialist"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3279537235,
-                    43.840881183
-                ]
-            },
-            "properties": {
-                "name": "kukri"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.323143092,
-                    43.842411224
-                ]
-            },
-            "properties": {
-                "name": "Medical Orthopedics"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3198273534,
-                    43.8405581774
-                ]
-            },
-            "properties": {
-                "name": "ajuvia / bodyryzm"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3523369405,
-                    43.7621613605
-                ]
-            },
-            "properties": {
-                "name": "Neuronicworks"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3337279264,
-                    43.8184661844
-                ]
-            },
-            "properties": {
-                "name": "IBM / Venturelab"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3283885307,
-                    43.8236367846
-                ]
-            },
-            "properties": {
-                "name": "Wireless Accessories"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.328557149,
-                    43.8225510491
-                ]
-            },
-            "properties": {
-                "name": "105 gibson centre"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3699799874,
-                    43.8656416198
-                ]
-            },
-            "properties": {
-                "name": "Buttonville flying club"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.2295705315,
-                    43.8845257165
-                ]
-            },
-            "properties": {
-                "name": "Open Office Hours"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3060684062,
-                    43.8331282737
-                ]
-            },
-            "properties": {
-                "name": "Wearable Computing - Toe Keyboard"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3058600967,
-                    43.8331829101
-                ]
-            },
-            "properties": {
-                "name": "Wireless Community Network"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3652794024,
-                    43.8619644237
-                ]
-            },
-            "properties": {
-                "name": "Epson"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3648815257,
-                    43.8613292193
-                ]
-            },
-            "properties": {
-                "name": "Workers Equipment"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3808499439,
-                    43.8573235508
-                ]
-            },
-            "properties": {
-                "name": "Newegg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3824808681,
-                    43.86446878
-                ]
-            },
-            "properties": {
-                "name": "Startup Drinks"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3553628912,
-                    43.832957005
-                ]
-            },
-            "properties": {
-                "name": "Immigrantimes.org / Bronte Bay Accountant"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.2827478506,
-                    43.8684533756
-                ]
-            },
-            "properties": {
-                "name": "Immigrant Youth Centre"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.5285351783,
-                    43.485795724
-                ]
-            },
-            "properties": {
-                "name": "Kik Interactive"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.5509761142,
-                    43.480144643
-                ]
-            },
-            "properties": {
-                "name": "Textnow"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.4949847883,
-                    43.4515210278
-                ]
-            },
-            "properties": {
-                "name": "oakandrumble.com"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.5175662794,
-                    43.4830478458
-                ]
-            },
-            "properties": {
-                "name": "nuvation"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.4695615081,
-                    43.4028728142
-                ]
-            },
-            "properties": {
-                "name": "Clearpath Robotics",
-                "description": "1425 Strasburg Rd, Suite 2A, Kitchener\nclearpathrobotics.com"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.54208333,
-                    43.4993918627
-                ]
-            },
-            "properties": {
-                "name": "Aeryon Labs"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.5291882314,
-                    43.4735467666
-                ]
-            },
-            "properties": {
-                "name": "Lauriobotics",
-                "description": "mar 20,2017 -6-9pm          wlu robotics club       concourse\n\nfb.com/lauriobotics\nrobotracing.wordpress.com"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.5302434712,
-                    43.4961031053
-                ]
-            },
-            "properties": {
-                "name": "Definition Financial, 103 Bauer Place, Suite 1, Waterloo",
-                "description": "<br>http://www.definesuccess.ca\n<br>http://www.eventbrite.ca/o/definition-financial-7713981513?s=32281822"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.4984900844,
-                    43.451159707
-                ]
-            },
-            "properties": {
-                "name": "Velocity Garage",
-                "description": "<br>The Tannery, 151 Charles St W Suite# 199, Kitchener\n<br>velocity.uwaterloo.ca\n\n<br>miragevr.ca\n<br>fb.com / twitter.com            @entermirage"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.5245338642,
-                    43.4659125869
-                ]
-            },
-            "properties": {
-                "name": "Waterloo Public Library Board",
-                "description": "<br>http://www.wpl.ca/your-library/about/library-board\n<br>Regular Waterloo Public Library Board meetings are held on the 4th Wednesday of the month at 5:00pm in the Main Library’s Board Room on the Dupont St. level.\n<br>mar 22,2017"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.4923855538,
-                    43.451735276
-                ]
-            },
-            "properties": {
-                "name": "Grand River Accessibility Advisory Committee",
-                "description": "<br>http://calendar.wilmot.ca/townshipcalendar\n<br>March 23, 2017 1:30 p.m. - 3:50 p.m."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.5254932476,
-                    43.464080789
-                ]
-            },
-            "properties": {
-                "name": "DevHouse / Boltmade / Shopify",
-                "description": "<br>57 Erb St W, Waterloo\n<br>https://www.meetup.com/es/DevHouse-Waterloo/events/238558930/\n<br>mar 27,2017\n\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.4950306527,
-                    43.4515981499
-                ]
-            },
-            "properties": {
-                "name": "305 King st w",
-                "description": "<br>Mappedin\n<br>                                        305 King St W #700, Kitchener\n<br>                                        mappedin.com\n<br>\n<br>sweettooth\n<br>                                        305 King St. W Suite 901 Kitchener\n<br>                                         https://www.sweettoothrewards.com\n<br>\n<br>Square Canada\n<br>                                        305 King St W Ste 904, Kitchener\n<br>                                        squareup.com\n\n"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-122.17241,
+		37.44288
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=37.44288&mlon=-122.17241' target='_blank'>37.44288,-122.17241</a>",
+        "...": "Silicon Valley",
+	"....": "Food court, Stanford Shopping Center, 660 Stanford Shopping Center, Palo Alto, CA",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#37.44288|-122.17241' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#37.44288|-122.17241</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		34.810290,
+		32.066014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=32.066014&mlon=34.810290' target='_blank'>32.066014, 34.810290</a>",
+        "...": "Silicon Wadi",
+	"....": "Food court, Givatayim Mall, Derech Yitshak Rabin 53, Giv'atayim, 53483, Israel",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#32.066014|34.810290' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#32.066014|34.810290</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		114.110174,
+		22.555612
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=22.555612&mlon=114.110174' target='_blank'>22.555612, 114.110174</a>",
+        "...": "Shenzhen Hi-Tech Industrial Park - Shenzhen, Guangdong",
+	"....": "Food court, Sun Square, 2001号 Jiefang Rd, DongMen, Luohu Qu, Shenzhen Shi, Guangdong Sheng, China",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#22.555612|114.110174' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#22.555612|114.110174</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		126.997525,
+		37.264294
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=37.264294&mlon=126.997525' target='_blank'>37.264294, 126.997525</a>",
+        "...": "수원 | Suwon, Korea or Samsung Digital City",
+	"....": "Food court, 롯데백화점 수원점, 296-3 Seodun-dong, Gwonseon-gu, Suwon, Gyeonggi-do",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#37.264294|126.997525' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#37.264294|126.997525</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		120.975551,
+		24.809503
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=24.809503&mlon=120.975551' target='_blank'>24.809503, 120.975551</a>",
+        "...": "新竹科學工業園區 | Hsinchu Science Park - Hsinchu City",
+	"....": "Food court, Big City遠東巨城購物中心, No. 229, Zhongyang Rd, East District, Hsinchu City, Taiwán",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#24.809503|120.975551' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#24.809503|120.975551</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		72.848921,
+		19.213692
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=19.213692&mlon=72.848921' target='_blank'>19.213692, 72.848921</a>",
+        "...": "Mumbai",
+	"....": "Food court, Kandivali - Raghuleela Mall, Behind Depot, Kandivli West, Poisar, Borivali West, Jai Bhim Sanjay Nagar, Kandiwali West, Mumbai",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#19.213692|72.848921' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#19.213692|72.848921</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		100.546780,
+		13.849303
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=13.849303&mlon=100.546780' target='_blank'>13.849303, 100.546780</a>",
+        "...": "Thailand",
+	"....": "Food court, The Mall Ngamwongwan, เดอะมอลล์ งามวงศ์วาน, 30/39-50 Soi Ngamwongwarn 18 Bangken Amphor Muang นนทบุรี 11000, Tailand",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#13.849303|100.546780' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#13.849303|100.546780</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		6.113361,
+		46.218318		
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=46.218318&mlon=6.113361' target='_blank'>46.218318, 6.113361</a>",
+        "...": "Geneva",
+	"....": "Food court, Balexert, Avenue Louis-Casaï 27, 1211 Genève",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#46.218318|6.113361' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#46.218318|6.113361</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-77.359389,
+		38.864222
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=38.864222&mlon=-77.359389' target='_blank'>38.964222, -77.359389</a>",
+        "...": "Dulles Technology Corridor",
+	"....": "Food court, The Spectrum, 11846 Spectrum Center, Reston, VA",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#38.964222|-77.359389' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#38.964222|-77.359389</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-73.989290,
+		40.748426
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=40.748426&mlon=-73.989290' target='_blank'>40.748426, -73.989290</a>",
+        "...": "Silicon Alley",
+	"....": "Food court, Manhattan Mall, 100 West 33rd Street, New York, NY",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#40.748426|-73.989290' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#40.748426|-73.989290</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		140.132598,
+		36.034078
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=36.034078&mlon=140.132598' target='_blank'>36.034078, 140.132598</a>",
+        "...": "<a href ='https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E7%A0%94%E7%A9%B6%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82'> 筑波研究学園都市  | Tsukuba Science City, Japan </a>",
+	"....": "Food court, イオンモールつくば, Japón, 〒305-0071 Ibaraki-ken, Tsukuba-shi, Inaoka, ６６−１",
+	".....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#36.034078|140.132598' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#36.034078|140.132598</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -80.5280716,
+	  43.496835
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=43.496835&mlon=-80.5280716' target='_blank'>43.496835,-80.5280716</a>",
+	"...": "Food court, Conestoga Mall, 550 King St N, Waterloo, ON",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.496835|-80.5280716' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.496835|-80.5280716</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -122.998772,
+	  49.225414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=49.225414&mlon=-122.998772' target='_blank'>49.225414,-122.998772</a>",
+	"...": "Food court, Metropolis at Metrotown, 4700 Kingsway #604, Burnaby, BC",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#49.225414|-122.998772' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#49.225414|-122.998772</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -79.30594,
+	  43.83305
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=43.83305&mlon=-79.30594' target='_blank'>43.83305,-79.30594</a>",
+	"...": "Food court, Denison Centre, 1661 Denison St, Markham, ON",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.83305|-79.30594' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#43.83305|-79.30594</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -75.735029,
+	  45.386990
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=45.386990&mlon=-75.735029' target='_blank'>45.386990,-75.735029</a>",
+	"...": "Food court, Westgate Shopping Centre, 1309 Carling Ave, Ottawa, ON",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.386990|-75.735029' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.386990|-75.735029</a>"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  -73.647846,
+	  45.528360
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        ".": "<a href='https://toekeyboard.github.io/#C' target='_blank'>7pm / 19h00<br><img src='https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/hanging-calendar-interface-tool-symbol_318-58238.png?raw=true' height='70px' /></a>",
+        "..": "<a href='http://www.openstreetmap.org/?mlat=45.528360&mlon=-73.647846' target='_blank'>45.528360,-73.647846</a>",
+	"...": "Food court, Rockland Centre, 2305 Chemin Rockland, Montréal, QC",
+	"....": "<a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.528360|-73.647846' target='_blank'>https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard,#45.528360|-73.647846</a>"
+      }
+    }
+
+  ]
 }

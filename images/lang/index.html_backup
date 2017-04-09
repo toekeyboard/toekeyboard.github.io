@@ -1,0 +1,205 @@
+<!--
+<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/en.png?raw=true" width="50%">
+<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/en_morse.png?raw=true" width="50%">
+<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/ja_morse.png?raw=true" width="50%">
+<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/ru.png?raw=true" width="50%">
+-->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<style>#forkongithub a{background:#000;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#c11;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#fff;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}</style><span id="forkongithub"><a href="https://github.com/toekeyboard/toekeyboard.github.io/tree/master/images/lang/graphviz_dot/balanced">github.com</a></span>
+
+
+<br><b>Music</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/00-mode_music.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/00-mode_music.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Stopwatch</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/00-mode_stopwatch.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/00-mode_stopwatch.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>English</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>English - Morse Code</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en_morse.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en_morse.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>English - Morse Code (Mnemonic)</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en_morse_mnemonic.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en_morse_mnemonic.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>English - Scroll</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en_scroll.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/01-en_scroll.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Svenska</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/02-sv.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/02-sv.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Sinugboanong Binisaya</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/03-ceb.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/03-ceb.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Deutsch</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/04-de.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/04-de.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Deutsch - Morsezeichen</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/04-de_morse.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/04-de_morse.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Nederlands</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/05-nl.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/05-nl.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Français</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/06-fr.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/06-fr.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Русский</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/07-ru.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/07-ru.png?raw=true" width="50%" />
+	<!--	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/ru.png?raw=true" width="300px" height="250px" /> -->
+</a>
+<br>
+
+<br><b>Italiano</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/08-it.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/08-it.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Español</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/09-es.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/09-es.png?raw=true" width="50%" />
+</a>
+<br>
+
+
+<br><b>Polski</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/11-pl.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/11-pl.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>Tiếng Việt</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/12-vi.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/12-vi.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>日本語 - 1</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/13-ja-1.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/13-ja-1.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>日本語 - 2</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/13-ja-2.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/13-ja-2.png?raw=true" width="50%" />
+</a>
+<br>
+
+<br><b>日本語 - モールス信号</b>
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/13-ja_morse.png?raw=true" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/lang/graphviz_dot/balanced/final/13-ja_morse.png?raw=true" width="50%" />
+</a>
+<br>
+
+<hr>
+
+<!--
+<br><b>Applications:</b>
+<br>Typing
+<br>Emailing
+<br>Social Media
+<br>Search Engines / Web Search / Personal Search
+<br>Live Television Personalities / Interviewers
+<br>
+<br><b>Games:</b>
+<br>Chess
+<br>Go
+<br>Checkers
+<br>Poker
+<br>Casino games (Roulette, Blackjack)   (Probability and chance)
+
+-->
+
+
+
+
+
+<!--
+<br>
+<a href="https://toekeyboard.github.io/toekeyboard/hardware/index.html" target="_blank">Hardware</a>
+
+
+
+
+<br>
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/tree/master/images/lang/graphviz_dot/balanced" target="_blank">
+	<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/5447817841_ea7b51c9b2.jpg?raw=true" width="10%" />
+</a>
+
+-->
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

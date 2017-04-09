@@ -1,0 +1,61 @@
+digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+#    node [shape=circle];
+    edge [arrowsize=0.8];
+    
+    graph [label="English - Morse Code (Mnemonic)", labelloc=top, fontsize=30];
+
+    Start -> Every;
+    Every -> Individual;
+    Every -> Achieves;
+    Individual -> Serendipity;
+    Individual -> Unless;
+    Achieves -> Really;
+    Achieves -> Whinny;
+    Serendipity -> Hipsters;
+    Serendipity -> Voices;
+    Unless -> Fustration;
+
+#    U -> "..--";
+#    empty1 [label="",width=.1,style=invis]
+#    Unless -> empty1 [style=invis];
+
+    empty1 [label="-"]
+    Unless -> empty1;
+
+    Really -> Let;
+
+#    R -> ".-.-";
+#    empty2 [label="",width=.1,style=invis]
+#    Really -> empty2 [style=invis];
+
+    empty2 [label="-"]
+    Really -> empty2;
+
+    Whinny -> People;
+    Whinny -> Jam;
+
+    Start -> The;
+    The -> Nasty;
+    The -> Men;
+    Nasty -> Do;
+    Nasty -> Kicking;
+    Men -> Games;
+    Men -> Over;
+    Do -> Breakfast;
+    Do -> "X-raying";
+    Kicking -> Chumps;
+    Kicking -> Yearning;
+    Games -> Zoo;
+    Games -> Quests;
+
+#    O -> "---.";
+    empty3 [label="."]
+    Over -> empty3;
+#    O -> "----";
+    empty4 [label="-"]
+    Over -> empty4;
+
+}

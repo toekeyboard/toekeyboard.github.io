@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20170119T190000Z
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+SUMMARY:Toekeyboard usergroup meetings
+DESCRIPTION:Toekeyboard usergroup meetings
+LOCATION:Food court tables
+URL:https://toekeyboard.github.io/#M
+END:VEVENT
+
+END:VCALENDAR

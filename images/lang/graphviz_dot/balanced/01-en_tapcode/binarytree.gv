@@ -1,0 +1,84 @@
+#https://en.wikipedia.org/wiki/Tap_code
+digraph G {
+#    nodesep=0.3
+#    ranksep=0.2
+#    margin=0.1
+#    node [shape=circle]
+    #node [shape=circle, color=blue];
+#    edge [arrowsize=0.8]
+
+    #label="English"
+    #labelloc=top
+    #labeljust=left
+
+    graph [label="English - Tap code", labelloc=top, fontsize=15];
+
+
+    node [label="\N", fontsize=15, shape=plaintext];
+    graph [bb="0,0,352,154"];
+    arset [label=<
+	<TABLE>
+		<TR>
+			<TD></TD>
+			<TD><B>Right</B></TD>
+		</TR>
+		<TR>
+			<TD><B>Left</B></TD>
+			<TD>
+				<TABLE ALIGN="LEFT">
+				    <TR>
+					<TD><B>0</B></TD>
+					<TD><B>1</B></TD>
+					<TD><B>2</B></TD>
+					<TD><B>3</B></TD>
+					<TD><B>4</B></TD>
+					<TD><B>5</B></TD>
+				    </TR>
+				    <TR>
+					<TD><B>1</B></TD>
+					<TD>A</TD>
+					<TD>B</TD>
+					<TD>C/K</TD>
+					<TD>D</TD>
+					<TD>E</TD>
+				    </TR>
+				    <TR>
+					<TD><B>2</B></TD>
+					<TD>F</TD>
+					<TD>G</TD>
+					<TD>H</TD>
+					<TD>I</TD>
+					<TD>J</TD>
+				    </TR>
+				    <TR>
+					<TD><B>3</B></TD>
+					<TD>L</TD>
+					<TD>M</TD>
+					<TD>N</TD>
+					<TD>O</TD>
+					<TD>P</TD>
+				    </TR>
+				    <TR>
+					<TD><B>4</B></TD>
+					<TD>Q</TD>
+					<TD>R</TD>
+					<TD>S</TD>
+					<TD>T</TD>
+					<TD>U</TD>
+				    </TR>
+				    <TR>
+					<TD><B>5</B></TD>
+					<TD>V</TD>
+					<TD>W</TD>
+					<TD>X</TD>
+					<TD>Y</TD>
+					<TD>Z</TD>
+				    </TR>
+				</TABLE>
+			</TD>
+		</TR>
+	</TABLE>
+    >, ];
+
+
+}

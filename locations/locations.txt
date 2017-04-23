@@ -1,0 +1,37 @@
+-79.335139507,43.8259611835
+"name": "CArobotics"
+
+-79.3367924133,43.8246294878
+"name": "Sulon"
+
+-79.336565212,43.8248753797
+"name": "wired messenger"
+
+
+-80.5291882314,43.4735467666
+"name": "Lauriobotics",
+"description": "mar 20,2017 -6-9pm          wlu robotics club       concourse\n\nfb.com/lauriobotics\nrobotracing.wordpress.com"
+
+-80.5302434712,43.4961031053
+"name": "Definition Financial, 103 Bauer Place, Suite 1, Waterloo",
+"description": "<br>http://www.definesuccess.ca\n<br>http://www.eventbrite.ca/o/definition-financial-7713981513?s=32281822"
+
+-80.4984900844,43.451159707
+"name": "Velocity Garage",
+"description": "<br>The Tannery, 151 Charles St W Suite# 199, Kitchener\n<br>velocity.uwaterloo.ca\n\n<br>miragevr.ca\n<br>fb.com / twitter.com            @entermirage"
+
+-80.5245338642,43.4659125869
+"name": "Waterloo Public Library Board",
+"description": "<br>http://www.wpl.ca/your-library/about/library-board\n<br>Regular Waterloo Public Library Board meetings are held on the 4th Wednesday of the month at 5:00pm in the Main Library’s Board Room on the Dupont St. level.\n<br>mar 22,2017"
+
+-80.4923855538,43.451735276
+"name": "Grand River Accessibility Advisory Committee",
+"description": "<br>http://calendar.wilmot.ca/townshipcalendar\n<br>March 23, 2017 1:30 p.m. - 3:50 p.m."
+
+-80.5254932476,43.464080789
+"name": "DevHouse / Boltmade / Shopify",
+"description": "<br>57 Erb St W, Waterloo\n<br>https://www.meetup.com/es/DevHouse-Waterloo/events/238558930/\n<br>mar 27,2017\n\n"
+
+-80.4950306527,43.4515981499
+"name": "305 King st w",
+"description": "<br>Mappedin\n<br>                                        305 King St W #700, Kitchener\n<br>                                        mappedin.com\n<br>\n<br>sweettooth\n<br>                                        305 King St. W Suite 901 Kitchener\n<br>                                         https://www.sweettoothrewards.com\n<br>\n<br>Square Canada\n<br>                                        305 King St W Ste 904, Kitchener\n<br>                                        squareup.com\n\n"

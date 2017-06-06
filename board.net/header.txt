@@ -1,11 +1,48 @@
+----http://tinyurl.com/toekeyboard	-> redirects to lpaste
+# http://tinyurl.com/toekeyboard-YYYYmmdd
+# 	For latest version, replace YYYYmmdd, with today's date
+#       ( May 07, 2017		http://tinyurl.com/toekeyboard-20170507 )
+
+
+
+----http://tinyurl.com/toekeyboard-YYYYmmdd	-> redirects to lpaste
+# http://tinyurl.com/toekeyboard-YYYYmmdd
+#       Replace YYYYmmdd, with today's date
+# 	( May 07, 2017		http://tinyurl.com/toekeyboard-20170507 )
+
+
+
+----http://tinyurl.com/toekeyboard-20170507	-> redirects to lpaste
+# http://tinyurl.com/toekeyboard-20170507
+#
+# http://tinyurl.com/toekeyboard-YYYYmmdd
+#       Replace YYYYmmdd, with today's date
+# 	( June 03, 2017		http://tinyurl.com/toekeyboard-20170603 )
+#
+# Download magnet link with Bittorrent ( https://transmissionbt.com/download/ )
+
+magnet?:.....
+
+
+
+
+
+
+
+
+
+#       ie. May 07, 2017:   http://tinyurl.com/toekeyboard-20170507
+#       Replace YYYYmmdd, with today's date
+# 	For latest version, replace YYYYmmdd, with today's date
+
+
+
 /*******************************************************************************
 * Download with Bittorrent ( https://transmissionbt.com/download/ ):
 * 	http://tinyurl.com/toekeyboard-YYYYmmdd
-* Website:    
-* 	https://toekeyboard.github.io/
-* 	https://github.com/toekeyboard
-* Download this file:    
-* 	http://board.net/p/toekeyboard/export/txt
+*	(Replace 'YYYYmmdd' with today's year,month,date. 
+*	ie. May 07, 2017 -> 20170507)
+*
 * Rencontre:
 * 	-19h/7pm ET (3eme Mardi chaque mois / 3rd Tuesday every month)
 *		
@@ -16,3 +53,30 @@
 *	IRC channel: #toekeyboard on freenode
 *      	https://kiwiirc.com/client/irc.freenode.net/?nick=a%7C?#toekeyboard
 *******************************************************************************/
+
+
+
+
+
+
+YYYY	year
+mm     	month (01..12)
+dd    	day of month (01..31)
+
+HH	hour   (00..23)
+MM     	minute (00..59)
+SS     	second (00..59)
+
+NNNNNNNNN     nanoseconds (000000000..999999999)
+
+
+
+%Y     year
+%m     month (01..12)
+%d     day of month (e.g., 01)
+
+%H     hour   (00..23)
+%M     minute (00..59)
+%S     second (00..59)
+%N     nanoseconds (000000000..999999999)
+

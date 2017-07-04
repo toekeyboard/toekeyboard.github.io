@@ -12,7 +12,12 @@
 <br><a href="http://source.android.com/devices/audio/index.html">Android audio</a>
 </pre>
 
-<h2>open source cellphone</h2>
+
+
+
+
+open source cellphone
+---
 
 <pre>
 http://alumni.media.mit.edu/~mellis/cellphone/index.html
@@ -32,8 +37,9 @@ https://en.wikipedia.org/wiki/OpenBTS
 
 </pre>
 
-<h2>lineageos</h2>
 
+lineageos
+----
 <pre>
 https://www.lineageos.org/
 https://github.com/LineageOS

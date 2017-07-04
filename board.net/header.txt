@@ -18,9 +18,18 @@ http://lpaste.net/
 
 
 
+----http://preview.tinyurl.com/toe1
+
+
 ----http://tinyurl.com/toekeyboard	
 ----http://tinyurl.com/toekeyboard-YYYYmmdd
 
+http://sprunge.us/PhIY 
+# http://tinyurl.com/toekeyboard-YYYYMMDD
+# Replace with today's date:
+#	YYYY	year
+#	MM      month (01..12)
+#	DD      date  (01..31)
 
 http://sprunge.us/DWaX 
 # http://tinyurl.com/toekeyboard-YYYYmmdd
@@ -76,6 +85,16 @@ http://sprunge.us/cOHd
 
 
 ----http://tinyurl.com/toekeyboard-20170507
+
+
+http://sprunge.us/FXAg
+# http://tinyurl.com/toekeyboard-20170507
+# Download with Bittorrent (https://transmissionbt.com/download)
+
+magnet:?xt=urn:btih:112409a23646f14679ea869f19683522781175f1&dn=name:toekeyboard+size:10K+date:2017-05-07T120000+files:34&tr=udp://62.138.0.158:6969/announce
+
+
+
 http://sprunge.us/bNiG 
 # http://tinyurl.com/toekeyboard-20170507
 # Download with Bittorrent (https://transmissionbt.com/download)
@@ -231,3 +250,10 @@ http://www.utorrent.com/intl/en/downloads/linux
 http://www.utorrent.com/intl/en/downloads/android
 	https://bitly.com/105hCM6+
 	https://play.google.com/store/apps/details?id=com.utorrent.client&referrer=utm_source%3Dutdownloadspage%26utm_medium%3Dweb%26utm_content%3Dgetitongoogleplay%26utm_campaign%3Dutfree_downlods_page_getutfreeapp_130513
+
+
+
+
+----android
+https://play.google.com/store/apps/details?id=com.utorrent.client
+https://play.google.com/store/apps/details?id=com.bittorrent.client

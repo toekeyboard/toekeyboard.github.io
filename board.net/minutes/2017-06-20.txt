@@ -1,3 +1,6 @@
+#attendees:  1
+
+
 http://localhost:9001/p/2017-06-20
 
 

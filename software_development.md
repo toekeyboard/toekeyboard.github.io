@@ -1,3 +1,6 @@
+Resource Links
+---
+
 <pre>
 <br><a href="https://en.wikipedia.org/wiki/Intel_High_Definition_Audio"target="_blank">Intel_High_Definition_Audio</a>
 <br><a href="http://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf"target="_blank">high-definition-audio-specification.pdf</a>
@@ -12,6 +15,15 @@
 <br><a href="http://source.android.com/devices/audio/index.html">Android audio</a>
 </pre>
 
+
+Next Steps
+---
+-get python demo working  (with delete / enter)
+
+-create android .APK, so can install on phone
+
+-get partner to acquire 3.5mm audio jack cable	(bulk, 50+)
+	-to create functional kits, so partner can give them away
 
 
 

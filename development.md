@@ -1,3 +1,6 @@
+Resource Links
+---
+
 <pre>
 <br><a href="https://en.wikipedia.org/wiki/Intel_High_Definition_Audio"target="_blank">Intel_High_Definition_Audio</a>
 <br><a href="http://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf"target="_blank">high-definition-audio-specification.pdf</a>
@@ -12,7 +15,24 @@
 <br><a href="http://source.android.com/devices/audio/index.html">Android audio</a>
 </pre>
 
-<h2>open source cellphone</h2>
+<hr>
+
+Next Steps
+---
+<pre>
+-get python demo working  (with delete / enter)
+
+-create android .APK, so can install on phone
+
+-get partner to acquire 3.5mm audio jack cable	(bulk, 50+)
+	-to create functional kits, so partner can give them away
+
+</pre>
+
+<hr>
+
+Open-source cellphone
+---
 
 <pre>
 http://alumni.media.mit.edu/~mellis/cellphone/index.html
@@ -32,8 +52,10 @@ https://en.wikipedia.org/wiki/OpenBTS
 
 </pre>
 
-<h2>lineageos</h2>
-
+Replicant
+---
+LineageOS
+---
 <pre>
 https://www.lineageos.org/
 https://github.com/LineageOS
@@ -83,5 +105,94 @@ https://en.wikipedia.org/wiki/Xiaomi_Mi4i
 https://en.wikipedia.org/wiki/Xiaomi_Mi_3
 https://www.xiaomiwiki.com/
 https://en.wikipedia.org/wiki/Xiaomi_Mi_5c
+
+</pre>
+
+
+<hr>
+
+Competition
+---
+<pre>
+----airturn
+	ipad sheet-music foot switch
+	http://www.tonvid.com/info.php?video_id=80OVgx5Q7T4     Hands Free Page Turns for iPad Musicians with the AirTurn BT-105 Bluetooth Page Turner
+	http://www.tonvid.com/info.php?video_id=QHTqilI_uzw     AirTurn and Virtual Sheet Music Viewer Application for iPad, iPhone and iPod Touch
+	http://www.tonvid.com/info.php?video_id=swCpq88H608     New Airturn PED Review with Onsong
+	airturn
+	ipad sheet-music foot switch
+
+	https://www.wired.com/2010/07/ipad-sheet-music-foot-switch-is-a-real-page-turner/
+	https://duckduckgo.com/?q=ipad+music+foot+switch&t=ffab&ia=products
+
+</pre>
+
+
+
+
+<hr>
+
+Uses
+---
+Translation
+---
+-discreet translation
+
+
+Baseball / Cricket
+---
+<pre>
+baseball applications
+
+if outfielder wants to talk to the infielder, manager, people in the dugout.
+
+make like irc / texting channels
+
+pull up stats of batter
+</pre>
+
+
+Dancing
+---
+
+<pre>
+----dancing toekeyboard
+----toekeyboard dancing
+----dance dance revolution
+----ddr for the mobile phone
+
+https://en.wikipedia.org/wiki/Dance_pad
+https://en.wikipedia.org/wiki/Power_Pad
+https://en.wikipedia.org/wiki/Comparison_of_dance_pad_video_games
+https://en.wikipedia.org/wiki/Dance_Praise
+https://en.wikipedia.org/wiki/Dance_Dance_Revolution_S
+https://en.wikipedia.org/wiki/Dance_Dance_Revolution
+https://en.wikipedia.org/wiki/Dance_Dance_Revolution_Hottest_Party
+
+
+
+	-use mobile phone gyroscope to gauge orientation of individual
+
+
+	https://en.wikipedia.org/wiki/List_of_dances
+		international ballroom: waltz, foxtrot, quickstep, viennesse waltz
+		international latin: cha cha, rumba, tango, jive
+		salsa, merengue
+		hip hop
+		swing, lindy hop        https://en.wikipedia.org/wiki/Lindy_Hop
+		ballet
+		tap dancing
+
+
+
+	https://duckduckgo.com/?q=waltz+step+patterns&t=ffab&iax=1&ia=images
+	https://duckduckgo.com/?q=tango+step+patterns&t=ffab&iax=1&ia=images
+	https://duckduckgo.com/?q=ballet+step+patterns&t=ffab&iar=images&iax=1&ia=images
+
+	https://duckduckgo.com/?q=ballet+step+patterns&t=ffab&iar=images&iax=1&ia=images&iai=http%3A%2F%2Fwww.stepsontoes.com%2Fwp-content%2Fuploads%2FDanceSteps.jpg
+
+
+
+<img src="images/waltz-left-turn.jpg" width="50%" />
 
 </pre>

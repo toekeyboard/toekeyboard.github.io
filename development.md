@@ -1,3 +1,6 @@
+
+
+<title>Development</title>
 Resource Links
 ---
 
@@ -24,7 +27,7 @@ Next Steps
 
 -create android .APK, so can install on phone
 
--get partner to acquire 3.5mm audio jack cable	(bulk, 50+)
+-find sponsorship / get partners to acquire 3.5mm audio jack cable	(bulk, 50+)
 	-to create functional kits, so partner can give them away
 
 </pre>

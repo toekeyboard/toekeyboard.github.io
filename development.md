@@ -1,6 +1,20 @@
-
-
 <title>Development</title>
+
+
+Next Steps
+---
+<pre>
+-get python demo working  (with delete / enter)
+-move program to background process, donc peut utiliser bash dans debian linux
+-get 3.5mm audio jack to accept input.  hdajackretask
+-create android .APK, so can install on phone
+-find sponsorship / get partners to acquire 3.5mm audio jack cable	(bulk, 50+)
+	-to create functional kits, so partner can give them away
+
+</pre>
+
+<hr>
+
 Resource Links
 ---
 
@@ -20,19 +34,6 @@ Resource Links
 
 <hr>
 
-Next Steps
----
-<pre>
--get python demo working  (with delete / enter)
-
--create android .APK, so can install on phone
-
--find sponsorship / get partners to acquire 3.5mm audio jack cable	(bulk, 50+)
-	-to create functional kits, so partner can give them away
-
-</pre>
-
-<hr>
 
 Open-source cellphone
 ---
@@ -199,3 +200,23 @@ https://en.wikipedia.org/wiki/Dance_Dance_Revolution_Hottest_Party
 <img src="images/waltz-left-turn.jpg" width="50%" />
 
 </pre>
+
+
+<hr>
+
+Manufacturing
+---
+Fabrication
+---
+
+<pre>
+
+<br><a href="https://en.wikipedia.org/wiki/Open_manufacturing" target="_blank">Open manufacturing</a>
+<br><a href="https://en.wikipedia.org/wiki/Commons-based_peer_production" target="_blank">Commons-based peer production</a>
+<br><a href="https://en.wikipedia.org/wiki/Open_source_appropriate_technology" target="_blank">Open source appropriate technology</a>
+
+<br><a href="https://en.wikipedia.org/wiki/Contract_manufacturer" target="_blank">Contract_manufacturer</a>
+<br><a href="https://en.wikipedia.org/wiki/Electronics_manufacturing_services" target="_blank">Electronics_manufacturing_services</a>
+
+</pre>
+

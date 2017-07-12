@@ -1,7 +1,6 @@
-<title>Interested Parties</title>
-
+<title>interested parties</title>
 <pre>
-        ----variety village
+	----variety village
                 3701 Danforth Ave, Scarborough
 
 

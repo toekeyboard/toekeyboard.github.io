@@ -1,4 +1,4 @@
-<title>Fabrication</title>
+<title>fabrication</title>
 
 
 Materials
@@ -92,18 +92,18 @@ Inventory
 Statistics & Measurements
 ---
 <pre>
-Heavy-duty Barbecue strength 25' Aluminum Foil
-	45.6 cm x 7.6 m = 3.5m^2
-	18 in x 25 ft = 37.5 sq ft
-	18 in x 25 ft x (12 in / 1 ft) = 5400 sq in
+	Heavy-duty Barbecue strength 25' Aluminum Foil
+		45.6 cm x 7.6 m = 3.5m^2
+		18 in x 25 ft = 37.5 sq ft
+		18 in x 25 ft x (12 in / 1 ft) = 5400 sq in
 
-Square contact pads (x4)
-	1 in x (7/8) in = (7/8) sq in
-	(7/8) sq in x 4 = 3.5 sq in
+	Square contact pads (x4)
+		1 in x (7/8) in = (7/8) sq in
+		(7/8) sq in x 4 = 3.5 sq in
 
-number of toekeyboard that can be produced from a single roll of aluminum foil
-	5400 sq in / 3.5 sq in = 1542.857...
-	Therefore, can produce 1542 toekeyboards
+	Number of toekeyboard that can be produced from a single roll of aluminum foil
+		5400 sq in / 3.5 sq in = 1542.857...
+		Therefore, can produce 1542 toekeyboards
 </pre>
 
 Accessories
@@ -145,6 +145,7 @@ Steps
 
 Tools
 ---
+<pre>
 	Ruler
 	Pen / marker
 	Scissor / Exacto knife  
@@ -153,10 +154,10 @@ Tools
 	Wire Strippers
 	Solder  (60/40)
 	Soldering iron
-
+</pre>
 
 Internal tools fabrication
 ---
 <pre>
--metal soup can lips, to make hole cutters in plastic insulator
+	Metal soup can lips, to make hole cutters in plastic insulator
 </pre>

@@ -1108,6 +1108,13 @@ https://duckduckgo.com/?q=nvidia+markham&ia=web
 				http://www.mcband.ca/concerts/
 
 
+	jul 11
+		-5
+			-7pm    World Financial Group
+				7100 Woodbine Ave., Unit 101, Markham   (5km.   at Woodbine Ave)
+
+		-4	ttc stops along Steeles
+
 
 
 			

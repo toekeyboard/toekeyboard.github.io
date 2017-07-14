@@ -4,10 +4,14 @@
 Next Steps
 ---
 <pre>
--get python demo working  (with delete / enter)
--move program to background process, donc peut utiliser bash dans debian linux
--get 3.5mm audio jack to accept input.  hdajackretask
+-get to work in debian linux
+	-get python demo working  (with delete / enter)
+	-move program to background process, donc peut utiliser bash dans debian linux
+	-get 3.5mm audio jack to accept input.  hdajackretask
+
 -create android .APK, so can install on phone
+-get to work in android-x86
+
 -find sponsorship / get partners to acquire 3.5mm audio jack cable	(bulk, 50+)
 	-to create functional kits, so partner can give them away
 
@@ -39,6 +43,7 @@ Open-source cellphone
 ---
 
 <pre>
+
 http://alumni.media.mit.edu/~mellis/cellphone/index.html
 https://en.wikipedia.org/wiki/Android_%28operating_system%29#Open-source_community
 https://en.wikipedia.org/wiki/F-Droid
@@ -56,11 +61,15 @@ https://en.wikipedia.org/wiki/OpenBTS
 
 </pre>
 
-Replicant
+ReplicantOS
 ---
 LineageOS
 ---
+[https://www.reddit.com/r/ReplicantOS/](https://www.reddit.com/r/ReplicantOS/)  
+[https://www.reddit.com/r/LineageOS/](https://www.reddit.com/r/LineageOS/)  
+
 <pre>
+
 https://www.lineageos.org/
 https://github.com/LineageOS
 https://github.com/LineageOS/android_kernel_lge_v4xx/
@@ -115,7 +124,7 @@ https://en.wikipedia.org/wiki/Xiaomi_Mi_5c
 
 <hr>
 
-Competition
+Competition / Competing products
 ---
 <pre>
 ----airturn

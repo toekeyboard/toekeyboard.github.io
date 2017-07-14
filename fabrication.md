@@ -1,31 +1,6 @@
 <title>fabrication</title>
 
 
-Materials
----
-<pre>
-	Wire:
-	&nbsp;&nbsp;&nbsp;&nbsp;3.5mm audio phone connector / audio jack (connection to cellphone)
-	&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Phone_connector_(audio)">(Tip-Ring-Sleeve, TRS connector)</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;(source:  +8 ft cable, double ended audio jack.  26-30 <a href="https://en.wikipedia.org/wiki/American_wire_gauge">AWG</a>. Left & Right channel encased in different sleeves)
-
-	Aluminum foil (for contact pads):
-	&nbsp;&nbsp;&nbsp;&nbsp;(7/8)" x 1"   (x4)
-	&nbsp;&nbsp;&nbsp;&nbsp;(source:  aluminum foil from kitchen, normally used for baking/bbq)
-
-	Plastic (for insulator between contact pads):
-	&nbsp;&nbsp;&nbsp;&nbsp;1" x 1"(1/2)"	(x2)
-	&nbsp;&nbsp;&nbsp;&nbsp;(if aluminum contacts are sticking together, increase thickness with multiple plastic layers)
-	&nbsp;&nbsp;&nbsp;&nbsp;(source: think plastic bag from any food packaging)
-
-	Tape (to bind contact pads and insulator together):
-	&nbsp;&nbsp;&nbsp;&nbsp;(source: 2" wide duck tape)
-
-	String (to secure pads to big toes)	(x2)
-	&nbsp;&nbsp;&nbsp;&nbsp;(source: wide packing string, more comfortable)
-</pre>
-
-
 Inventory
 ---
 <table border=1>
@@ -86,7 +61,72 @@ Inventory
 
 </table>
 
+<hr>
 
+
+Materials
+---
+<pre>
+	Wire:
+	&nbsp;&nbsp;&nbsp;&nbsp;3.5mm audio phone connector / audio jack (connection to cellphone)
+	&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Phone_connector_(audio)">(Tip-Ring-Sleeve, TRS connector)</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;(source:  +8 ft cable, double ended audio jack.  26-30 <a href="https://en.wikipedia.org/wiki/American_wire_gauge">AWG</a>. Left & Right channel encased in different sleeves)
+
+	Aluminum foil (for contact pads):
+	&nbsp;&nbsp;&nbsp;&nbsp;(7/8)" x 1"   (x4)
+	&nbsp;&nbsp;&nbsp;&nbsp;(source:  aluminum foil from kitchen, normally used for baking/bbq)
+
+	Plastic (for insulator between contact pads):
+	&nbsp;&nbsp;&nbsp;&nbsp;1" x 1"(1/2)"	(x2)
+	&nbsp;&nbsp;&nbsp;&nbsp;(if aluminum contacts are sticking together, increase thickness with multiple plastic layers)
+	&nbsp;&nbsp;&nbsp;&nbsp;(source: think plastic bag from any food packaging)
+
+	Tape (to bind contact pads and insulator together):
+	&nbsp;&nbsp;&nbsp;&nbsp;(source: 2" wide duck tape)
+
+	String (to secure pads to big toes)	(x2)
+	&nbsp;&nbsp;&nbsp;&nbsp;(source: wide packing string, more comfortable)
+</pre>
+
+
+Sample kits (business card size)
+---
+<pre>
+	Plastic:	1 1/2" x 1"
+	Aluminum: 	1 x 7/8"
+	Paper: 		1 1/2" x 1"
+	String (wide packing string): 	3" (not useable, but conveys idea of having string)
+	Wire (braded, 26 AWG-american wire guage): 		3" (1" stripped)
+	Clear tape (2" wide): 	~2" (almost square)		(for contacts pads)
+	Masking tape (7/8" wide): 	1/2" (thumb width)	(for attaching string to pad)
+					1/4" (1/2 thumb width)	(for binding two individual pads together)
+
+
+	Plastic:
+		From plastic rice bag
+	Aluminum:
+		Heavy-duty Barbecue strength 25' Aluminum Foil
+	Paper: 	
+		EarthChoice50 office paper.  
+		White 92.  Letter size 8.5x11in/216x279mm.  Sheets 500. Item 1846.
+	String (wide packing string):
+		distributed by: P.I.C
+		Toronto, Ontario
+		item no. 31004
+	Wire (braded, 26 AWG-american wire guage):	
+		Ethernet cable cat 5
+	Clear tape (2" wide): 
+		cantech
+		Canadian Technical Tape Ltd. Montreal, Qc. Canada
+		Cantech Industries Inc. Johnson City, TN U.S.A
+		www.cantechtape.com
+	Masking tape (7/8" wide): 
+		Tartan 
+		General Purpose Masking Tape
+		Masking Tape Cat. 2050
+
+
+</pre>
 
 
 Statistics & Measurements
@@ -106,6 +146,8 @@ Statistics & Measurements
 		Therefore, can produce 1542 toekeyboards
 </pre>
 
+<hr>
+
 Accessories
 ---
 <pre>
@@ -118,6 +160,7 @@ Accessories
 	&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Phone_connector_(audio)"> (Tip-Ring-Sleeve, TRS connector)</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;must split in the middle, so wires can go down legs.
 </pre>
+
 
 <hr>
 
@@ -159,5 +202,10 @@ Tools
 Internal tools fabrication
 ---
 <pre>
-	Metal soup can lips, to make hole cutters in plastic insulator
+	Metal soup can lips, to make hole cutters in plastic insulator.
+	Use two different scissors, when cutting masking tape & string.  So doesnt stick to scissors.
+
 </pre>
+
+
+

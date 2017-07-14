@@ -1,45 +1,64 @@
 <title>interested parties</title>
+
+Sponsorship & Partnership
+---
 <pre>
-	----variety village
-                3701 Danforth Ave, Scarborough
+-put their names on the toekeyboard advertising side
+-do it for free, as long that they get this one material
+
+-baseball / cricket teams
+	-player communication	
+-dancing schools
+	-dance trainers
+-music stores
+	-mobile foot pedals
+</pre>
+
+<hr>
+
+Interested Parties
+---
+<pre>
+----variety village
+	3701 Danforth Ave, Scarborough
 
 
-                http://www.varietyvillage.ca/
-                        Variety Village is a family-friendly fitness, sports and life skills facility in Toronto.
+	http://www.varietyvillage.ca/
+		Variety Village is a family-friendly fitness, sports and life skills facility in Toronto.
 
-                        http://www.varietyvillage.ca/join/membership-options/
-                                Variety Village is the only facility that offers membership to people with and without disabilities and promotes inclusion through integrated programs and services.
+		http://www.varietyvillage.ca/join/membership-options/
+			Variety Village is the only facility that offers membership to people with and without disabilities and promotes inclusion through integrated programs and services.
 
-                        http://www.varietyvillage.ca/about-us/
-                                3701 Danforth Ave, Scarborough
+		http://www.varietyvillage.ca/about-us/
+			3701 Danforth Ave, Scarborough
 
-                        http://www.varietyvillage.ca/history/
-
-
-                https://twitter.com/varietyvillage
-                https://www.facebook.com/VarietyVillageToronto
-                        https://www.facebook.com/pg/VarietyVillageToronto/about/?ref=page_internal
-                                3701 Danforth Ave., Toronto
-                https://www.youtube.com/channel/UC7wCSW4Yg2kN77vd2EAt0uw/videos
-                https://www.instagram.com/variety_village/
+		http://www.varietyvillage.ca/history/
 
 
+	https://twitter.com/varietyvillage
+	https://www.facebook.com/VarietyVillageToronto
+		https://www.facebook.com/pg/VarietyVillageToronto/about/?ref=page_internal
+			3701 Danforth Ave., Toronto
+	https://www.youtube.com/channel/UC7wCSW4Yg2kN77vd2EAt0uw/videos
+	https://www.instagram.com/variety_village/
 
 
-        ----105 Gibson Centre
-                105 Gibson Dr, Markham
-                www.105gibson.com
-                Thrift Store
-                Food bank
-                twitter.com/105gibson
-                instagram.com/105gibson
-                facebook.com/105gibson
 
 
-        ----st john's ambulance youth squad
-                Crosby Heights Public School
-                190 Neal Dr, Richmond Hill        (NW   Major Mackenzie & Bayview)
-                meets:  Thurs 7:30-9pm  (not in summer).  sep-jun?
+----105 Gibson Centre
+	105 Gibson Dr, Markham
+	www.105gibson.com
+	Thrift Store
+	Food bank
+	twitter.com/105gibson
+	instagram.com/105gibson
+	facebook.com/105gibson
+
+
+----st john's ambulance youth squad
+	Crosby Heights Public School
+	190 Neal Dr, Richmond Hill        (NW   Major Mackenzie & Bayview)
+	meets:  Thurs 7:30-9pm  (not in summer).  sep-jun?
 
 
 
@@ -191,8 +210,15 @@
 			Kukri provide sportswear - playing kit, training kit, leisurewear and accessories - for over 100 sports worldwide.
 			http://www.kukrisports.com/
 
+	5 baseball diamonds
+		Milliken Mills Park
+		Markham
+		geo:43.839437, -79.310632
 
-
+----cricket
+	4 cricket pitches
+		2776 Morningside Ave, Scarborough
+		geo:43.823507, -79.232234
 
 
 ----guitar

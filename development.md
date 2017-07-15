@@ -47,25 +47,42 @@ Open-source cellphone
 http://alumni.media.mit.edu/~mellis/cellphone/index.html
 https://en.wikipedia.org/wiki/Android_%28operating_system%29#Open-source_community
 https://en.wikipedia.org/wiki/F-Droid
-https://en.wikipedia.org/wiki/Replicant_%28operating_system%29
 http://www.instructables.com/id/ArduinoPhone-20-an-Open-Source-Mobile-Phone-Based-/
 http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/
 http://wiki.zerophone.org/index.php/Main_Page
 https://en.wikipedia.org/wiki/OsmocomBB
-https://en.wikipedia.org/wiki/LineageOS
 https://en.wikipedia.org/wiki/WebOS
-https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones
 https://duckduckgo.com/?q=open+source+cellphone&t=ffab&ia=web
 http://openbts.org/
 https://en.wikipedia.org/wiki/OpenBTS
+
+https://duckduckgo.com/?q=wiki+open+source+cellphone&t=ffab&ia=web
+https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones
+
+http://opensourceecology.org/wiki/Open_Source_Cell_Phone
+https://hackaday.io/project/15606-diy-gsm-arduino-fr4-cell-phone
+https://duckduckgo.com/?q=wiki+xiaomi&t=ffab&ia=web
+https://en.wikipedia.org/wiki/Xiaomi_Mi_2
+https://en.wikipedia.org/wiki/Xiaomi_Mi_Band_2
+https://en.wikipedia.org/wiki/Xiaomi
+https://en.wikipedia.org/wiki/Xiaomi_Mi4i
+https://en.wikipedia.org/wiki/Xiaomi_Mi_3
+https://www.xiaomiwiki.com/
+https://en.wikipedia.org/wiki/Xiaomi_Mi_5c
+
 
 </pre>
 
 ReplicantOS
 ---
+[https://www.reddit.com/r/ReplicantOS/](https://www.reddit.com/r/ReplicantOS/)  
+https://git.replicant.us/replicant/kernel_samsung_smdk4412/blob/replicant-6.0/drivers/media/video/exynos/fimc-is/fimc-is-core.h#L101
+https://en.wikipedia.org/wiki/Replicant_%28operating_system%29
+http://www.replicant.us/
+
+
 LineageOS
 ---
-[https://www.reddit.com/r/ReplicantOS/](https://www.reddit.com/r/ReplicantOS/)  
 [https://www.reddit.com/r/LineageOS/](https://www.reddit.com/r/LineageOS/)  
 
 <pre>
@@ -86,11 +103,7 @@ https://www.droidmen.com/devices-supported-by-lineageos/
 
 
 
-https://duckduckgo.com/?q=wiki+open+source+cellphone&t=ffab&ia=web
-https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones
-https://en.wikipedia.org/wiki/Replicant_%28operating_system%29
 https://en.wikipedia.org/wiki/F-Droid
-http://www.replicant.us/
 https://en.wikipedia.org/wiki/LineageOS
 https://en.wikipedia.org/wiki/Gerrit_%28software%29
 https://en.wikipedia.org/wiki/CyanogenMod
@@ -108,16 +121,6 @@ http://web.archive.org/web/20161225010231/https://www.cyanogenmod.org/blog/a-for
 http://web.archive.org/web/20161224201841/https://github.com/lineageos
 https://github.com/lineageos
 https://www.forbes.com/sites/miguelhelft/2015/03/23/meet-cyanogen-the-startup-that-wants-to-steal-android-from-google-2/#7cf68e346809
-http://opensourceecology.org/wiki/Open_Source_Cell_Phone
-https://hackaday.io/project/15606-diy-gsm-arduino-fr4-cell-phone
-https://duckduckgo.com/?q=wiki+xiaomi&t=ffab&ia=web
-https://en.wikipedia.org/wiki/Xiaomi_Mi_2
-https://en.wikipedia.org/wiki/Xiaomi_Mi_Band_2
-https://en.wikipedia.org/wiki/Xiaomi
-https://en.wikipedia.org/wiki/Xiaomi_Mi4i
-https://en.wikipedia.org/wiki/Xiaomi_Mi_3
-https://www.xiaomiwiki.com/
-https://en.wikipedia.org/wiki/Xiaomi_Mi_5c
 
 </pre>
 

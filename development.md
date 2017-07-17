@@ -41,9 +41,7 @@ Resource Links
 
 Open-source cellphone
 ---
-
 <pre>
-
 http://alumni.media.mit.edu/~mellis/cellphone/index.html
 https://en.wikipedia.org/wiki/Android_%28operating_system%29#Open-source_community
 https://en.wikipedia.org/wiki/F-Droid
@@ -69,24 +67,23 @@ https://en.wikipedia.org/wiki/Xiaomi_Mi4i
 https://en.wikipedia.org/wiki/Xiaomi_Mi_3
 https://www.xiaomiwiki.com/
 https://en.wikipedia.org/wiki/Xiaomi_Mi_5c
-
-
 </pre>
 
 ReplicantOS
 ---
+
 [https://www.reddit.com/r/ReplicantOS/](https://www.reddit.com/r/ReplicantOS/)  
+<pre>
 https://git.replicant.us/replicant/kernel_samsung_smdk4412/blob/replicant-6.0/drivers/media/video/exynos/fimc-is/fimc-is-core.h#L101
 https://en.wikipedia.org/wiki/Replicant_%28operating_system%29
 http://www.replicant.us/
-
+</pre>
 
 LineageOS
 ---
+
 [https://www.reddit.com/r/LineageOS/](https://www.reddit.com/r/LineageOS/)  
-
 <pre>
-
 https://www.lineageos.org/
 https://github.com/LineageOS
 https://github.com/LineageOS/android_kernel_lge_v4xx/
@@ -99,9 +96,6 @@ https://wiki.lineageos.org/devices/
 http://lineageosdownload.com/devices-supported-by-lineage-os/
 http://lineageosdownload.com/
 https://www.droidmen.com/devices-supported-by-lineageos/
-
-
-
 
 https://en.wikipedia.org/wiki/F-Droid
 https://en.wikipedia.org/wiki/LineageOS
@@ -121,7 +115,6 @@ http://web.archive.org/web/20161225010231/https://www.cyanogenmod.org/blog/a-for
 http://web.archive.org/web/20161224201841/https://github.com/lineageos
 https://github.com/lineageos
 https://www.forbes.com/sites/miguelhelft/2015/03/23/meet-cyanogen-the-startup-that-wants-to-steal-android-from-google-2/#7cf68e346809
-
 </pre>
 
 
@@ -152,19 +145,17 @@ Uses
 ---
 Translation
 ---
+<pre>
 -discreet translation
-
+</pre>
 
 Baseball / Cricket
 ---
 <pre>
-baseball applications
-
-if outfielder wants to talk to the infielder, manager, people in the dugout.
-
-make like irc / texting channels
-
-pull up stats of batter
+-baseball applications
+-if outfielder wants to talk to the infielder, manager, people in the dugout.
+-make like irc / texting channels
+-pull up stats of batter
 </pre>
 
 
@@ -185,10 +176,7 @@ https://en.wikipedia.org/wiki/Dance_Dance_Revolution_S
 https://en.wikipedia.org/wiki/Dance_Dance_Revolution
 https://en.wikipedia.org/wiki/Dance_Dance_Revolution_Hottest_Party
 
-
-
 	-use mobile phone gyroscope to gauge orientation of individual
-
 
 	https://en.wikipedia.org/wiki/List_of_dances
 		international ballroom: waltz, foxtrot, quickstep, viennesse waltz
@@ -198,8 +186,6 @@ https://en.wikipedia.org/wiki/Dance_Dance_Revolution_Hottest_Party
 		swing, lindy hop        https://en.wikipedia.org/wiki/Lindy_Hop
 		ballet
 		tap dancing
-
-
 
 	https://duckduckgo.com/?q=waltz+step+patterns&t=ffab&iax=1&ia=images
 	https://duckduckgo.com/?q=tango+step+patterns&t=ffab&iax=1&ia=images
@@ -223,12 +209,12 @@ Fabrication
 
 <pre>
 
-<br><a href="https://en.wikipedia.org/wiki/Open_manufacturing" target="_blank">Open manufacturing</a>
-<br><a href="https://en.wikipedia.org/wiki/Commons-based_peer_production" target="_blank">Commons-based peer production</a>
-<br><a href="https://en.wikipedia.org/wiki/Open_source_appropriate_technology" target="_blank">Open source appropriate technology</a>
+<a href="https://en.wikipedia.org/wiki/Open_manufacturing" target="_blank">Open manufacturing</a>
+<a href="https://en.wikipedia.org/wiki/Commons-based_peer_production" target="_blank">Commons-based peer production</a>
+<a href="https://en.wikipedia.org/wiki/Open_source_appropriate_technology" target="_blank">Open source appropriate technology</a>
 
-<br><a href="https://en.wikipedia.org/wiki/Contract_manufacturer" target="_blank">Contract_manufacturer</a>
-<br><a href="https://en.wikipedia.org/wiki/Electronics_manufacturing_services" target="_blank">Electronics_manufacturing_services</a>
+<a href="https://en.wikipedia.org/wiki/Contract_manufacturer" target="_blank">Contract_manufacturer</a>
+<a href="https://en.wikipedia.org/wiki/Electronics_manufacturing_services" target="_blank">Electronics_manufacturing_services</a>
 
 </pre>
 

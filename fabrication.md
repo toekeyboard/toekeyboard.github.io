@@ -3,6 +3,34 @@
 
 Inventory
 ---
+
+<table border=1>
+
+<tr>
+<td><b>Type</b></td>
+<td><b>Quantity</b></td>
+</tr>
+
+<tr>
+<td>Business card sized toekeyboard sample kits</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>Full toekeyboard</td>
+<td>0</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+
+<br>
+<br>
+
 <table border=1>
 
 <tr>
@@ -51,6 +79,12 @@ Inventory
 <td>String</td>
 <td>2 rolls</td>
 <td>Dollar store</td>
+</tr>
+
+<tr>
+<td>Blank paper</td>
+<td>500 sheets</td>
+<td>Office supplies</td>
 </tr>
 
 <tr>
@@ -192,11 +226,13 @@ Tools
 	Ruler
 	Pen / marker
 	Scissor / Exacto knife  
+	Guillotine
 	Duck tape
 	<a href="https://en.wikipedia.org/wiki/Drawing_pin">Pin / sewing needle / thumbtack</a> 
 	Wire Strippers
-	Solder  (60/40)
 	Soldering iron
+	Laser printer
+	Computer
 </pre>
 
 Internal tools fabrication

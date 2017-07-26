@@ -1,1 +1,1 @@
-#attendees:
+# dans attendance: 0

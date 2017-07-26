@@ -98,18 +98,21 @@ RemixOS
 https://en.wikipedia.org/wiki/Remix_OS
         On July 17, 2017, Jide announced that development of Remix OS for PC, as well as related consumer products in development, was being discontinued
 
--running
-        intel_powerclamp: Intel powerclamp does not run on family 18 model 3
-        intel_rapl: driver does not support CPU family 17 model 3
+http://www.jide.com/remixos-for-pc#downloadNow
+http://www.jide.com/remixos
+        https://en.wikipedia.org/wiki/BlueStacks
+
+	-running
+		intel_powerclamp: Intel powerclamp does not run on family 18 model 3
+		intel_rapl: driver does not support CPU family 17 model 3
+
+
+
 
 $dd if=android-x86-7.1-rc1.iso of=/dev/sdc bs=512M
 dd: failed to open '/dev/sdc': Permission denied
 $su             //need to dd as root, no permission to access /dev/sdc as non-root.  unless sudo?
 
-
-http://www.jide.com/remixos-for-pc#downloadNow
-http://www.jide.com/remixos
-        https://en.wikipedia.org/wiki/BlueStacks
 
 </pre>
 

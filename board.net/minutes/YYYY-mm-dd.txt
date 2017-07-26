@@ -15,6 +15,7 @@
 *                          https://kiwiirc.com/client/irc.freenode.net/?nick=a%7C?#toekeyboard
 ***********************************************************************************************************************************
 
+# dans attendance: 0
 
 http://localhost:9001/p/2017-06-20
 

@@ -257,3 +257,18 @@ http://www.utorrent.com/intl/en/downloads/android
 ----android
 https://play.google.com/store/apps/details?id=com.utorrent.client
 https://play.google.com/store/apps/details?id=com.bittorrent.client
+
+
+----bittorrent client downloads
+https://transmissionbt.com/download
+	https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)
+http://www.utorrent.com/downloads
+http://www.bittorrent.com/downloads
+https://www.qbittorrent.org/download.php
+https://play.google.com/store/apps/details?id=com.utorrent.client
+https://play.google.com/store/apps/details?id=com.bittorrent.client
+
+
+https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients
+https://torrentfreak.com/bittorrent-client-comparison/
+

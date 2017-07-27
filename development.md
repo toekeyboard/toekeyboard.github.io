@@ -15,6 +15,9 @@ Next Steps
 -find sponsorship / get partners to acquire 3.5mm audio jack cable	(bulk, 50+)
 	-to create functional kits, so partner can give them away
 
+-two different wire thicknesses	(AWG - american wire guage)
+	-20 AWG (thick for robusness. ie. sports)
+	-30 AWG (thin for comfort. ie. business)
 </pre>
 
 <hr>
@@ -357,22 +360,48 @@ Musician Footswitch
 
 	https://duckduckgo.com/?q=any+phones+with+trrrs&t=ffab&ia=web
 	https://www.quora.com/Android-Devices-Where-can-I-buy-a-wired-headphone-for-an-LG-Android-phone-with-a-TRRRS-mic-stereo-volume-app-control-connector?share=1
+</pre>
+
+<hr>
+
+Competition / Competing products
+---
+<pre>
+----airturn
+	-foot switch page turner
+
+	ipad sheet-music foot switch (bluetooth)
+
+	http://www.tonvid.com/info.php?video_id=80OVgx5Q7T4     Hands Free Page Turns for iPad Musicians with the AirTurn BT-105 Bluetooth Page Turner
+	http://www.tonvid.com/info.php?video_id=QHTqilI_uzw     AirTurn and Virtual Sheet Music Viewer Application for iPad, iPhone and iPod Touch
+	http://www.tonvid.com/info.php?video_id=swCpq88H608     New Airturn PED Review with Onsong
+	airturn
+	ipad sheet-music foot switch
+
+	https://www.wired.com/2010/07/ipad-sheet-music-foot-switch-is-a-real-page-turner/
+	https://duckduckgo.com/?q=ipad+music+foot+switch&t=ffab&ia=products
 
 
 
-	----airturn
-		Competition / Competing products
-		-foot switch page turner
+----Spy socks (bluetooth)
+	perfect.org
+	https://www.treefrog.ca
+		567 Davis Drive, Unit 1, Newmarket, Ontario, Canada
 
-		ipad sheet-music foot switch
-		http://www.tonvid.com/info.php?video_id=80OVgx5Q7T4     Hands Free Page Turns for iPad Musicians with the AirTurn BT-105 Bluetooth Page Turner
-		http://www.tonvid.com/info.php?video_id=QHTqilI_uzw     AirTurn and Virtual Sheet Music Viewer Application for iPad, iPhone and iPod Touch
-		http://www.tonvid.com/info.php?video_id=swCpq88H608     New Airturn PED Review with Onsong
-		airturn
-		ipad sheet-music foot switch
+	-formulated idea during #PitchItYork	(http://www.opn.ninja/)		june 06, 2017
 
-		https://www.wired.com/2010/07/ipad-sheet-music-foot-switch-is-a-real-page-turner/
-		https://duckduckgo.com/?q=ipad+music+foot+switch&t=ffab&ia=products
+
+
+----Myo armband
+	https://en.wikipedia.org/wiki/Myo_armband
+	https://www.myo.com/
+	https://www.thalmic.com/
+
+	-moving to the calfs of the legs, to detect toe flexing
+
+	https://www.youtube.com/watch?v=jVDPrFvBvWw	Digits: Is the Myo Arm Band Worh $200? 
+
+
 
 
 </pre>

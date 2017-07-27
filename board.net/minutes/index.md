@@ -1,3 +1,13 @@
+Meeting minutes
+---
+3rd Tuesday of every month at 7pm/19h.  
+<a href="https://maps.google.com/maps?f=q&hl=en&q=Denison+Centre+(Food+court+tables),+1661+Denison+St,+Markham" target='_blank'>Food court tables, Denison Centre, 1661 Denison St, Markham</a>
+<br>
+<br>Pictures of location, <a href="../../images/mall/index.html" target='_blank'>here</a>
+
+
+<hr>
+
 [2017-06-20.txt](2017-06-20.txt)  
 [2017-07-18.txt](2017-07-18.txt)  
 [2017-08-15.txt](2017-08-15.txt)  
@@ -17,4 +27,5 @@
 [2018-10-16.txt](2018-10-16.txt)  
 [2018-11-20.txt](2018-11-20.txt)  
 [2018-12-18.txt](2018-12-18.txt)  
+
 

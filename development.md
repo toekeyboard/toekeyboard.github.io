@@ -1,9 +1,11 @@
 <title>development</title>
 
 
-Next Steps
+Next Steps / To Do
 ---
 <pre>
+-remove embedded youtube videos off of this page?  slow to load.   put back videos.html
+
 -get to work in debian linux
 	-get python demo working  (with delete / enter)
 	-move program to background process, donc peut utiliser bash dans debian linux
@@ -25,7 +27,7 @@ Next Steps
 Softare Resource Links
 ---
 
-###Audio jack hacking
+###Audio jack (3.5mm connector) hacking
 
 <pre>
 	<a href="https://en.wikipedia.org/wiki/Intel_High_Definition_Audio"target="_blank">Intel_High_Definition_Audio</a>

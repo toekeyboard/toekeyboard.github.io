@@ -22,6 +22,40 @@ Sponsorships & Partnerships
 
 <hr>
 
+
+Entrepreneurial / Startup Resouces Links
+---
+Marketing / Business / Advertising
+---
+<pre>
+
+https://news.ycombinator.com/
+
+https://www.reddit.com/subreddits/search?q=startup
+
+https://www.reddit.com/r/Entrepreneur/
+	https://www.reddit.com/r/Entrepreneur/comments/6pu5sc/10_biggest_mistakes_made_by_entrepreneurs_when/
+	https://www.reddit.com/r/Entrepreneur/comments/6pxaxq/ive_got_a_prototype_but_im_not_a_business_person/
+	https://www.reddit.com/r/Entrepreneur/comments/6pya3w/here_is_my_story_selling_on_amazon_fba_here_is/
+	https://www.reddit.com/r/Entrepreneur/comments/6pz1pn/hi_new_entrepreneur_here_i_started_a_restaurant/
+https://www.reddit.com/r/startups/
+https://www.reddit.com/r/Startup_Ideas/
+https://www.reddit.com/r/startup/
+https://www.reddit.com/r/startup_resources/
+https://www.reddit.com/r/hwstartups/
+https://www.reddit.com/r/six_startups/
+https://www.reddit.com/r/science_startups/
+https://www.reddit.com/r/roastmystartup/
+
+https://www.reddit.com/r/wallstreetbets/
+https://www.reddit.com/r/sysadmin/
+
+https://www.reddit.com/r/coolgithubprojects/
+
+</pre>
+
+<hr>
+
 Interested Parties
 ---
 <pre>

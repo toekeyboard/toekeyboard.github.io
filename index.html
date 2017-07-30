@@ -240,6 +240,16 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
     days_per_month = new Array(31, 28 + isLeap(y), 31, 30, 31, 30, 31, 31, 30, 31, 30, 31), //创建月份数组
     str_nums = Math.ceil((dayOfWeek + days_per_month[m]) / 7); //确定日期表格所需的行数
 
+
+
+
+
+
+
+
+
+
+
     //dayOfWeek == 
 
     /*
@@ -278,7 +288,24 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
     
     
 
+
    document.write("<table cellspacing='0'>"); //打印表格第一行(显示星期)
+
+
+	//Print full month and year heading
+   	//https://duckduckgo.com/?q=javascript+datetime+month+name&t=ffab&ia=qa
+	//https://stackoverflow.com/questions/1643320/get-month-name-from-date
+   	//https://www.w3schools.com/jsref/jsref_obj_date.asp
+	var monthNames = ["January", "February", "March", "April", "May", "June",
+	      "July", "August", "September", "October", "November", "December"
+	      ];
+    	m2 = monthNames[today.getMonth()]
+	document.write('<tr><td><h1>' + m2 + ' ' + y + '</h1></td></tr>');
+
+
+
+
+
 
     //document.write('<tr>' + today + '</tr>')
     //document.write('<tr>' + today.getDay() + '</tr>')
@@ -690,7 +717,7 @@ ne fonction pas.    boites vide
 <br>
 
 <span id="Vi" />
-<a href="videos.html" target="_blank">
+<a href="development.html" target="_blank">
 	<img src="images/play.png" width="10%" />
 </a>
 
@@ -719,7 +746,8 @@ ne fonction pas.    boites vide
 		Gardeners/Landscapers
 		Wood-working workshops
 		Construction workers, factory workers
-		Medical personnel / staff: paramedics, nurses, doctors, surgeons, pharmacists, psychiatrists (discreet notetaking, to put patients at ease during observation)
+		Medical personnel / staff: 
+			paramedics, nurses, doctors, surgeons, pharmacists, psychiatrists (discreet notetaking, to put patients at ease during observation)
 		Garbage / waste removal, janitors
 	Business:
 		Powerpoint presentation control (next slide / previous slide)
@@ -733,7 +761,9 @@ ne fonction pas.    boites vide
 		Entertainers, Vocal performers:   singers, rappers, comedians
 		Acting / On stage / Live performances: actors / actress, broadway
 		Television studio sets: News anchors, interviewers, camera operators
-		Magicians (mind reading acts)
+		Magicians 
+			-mentalist (mind reading acts)	https://en.wikipedia.org/wiki/Mentalism
+			-ventriloquists (talking puppet) https://en.wikipedia.org/wiki/Ventriloquism
 	Sports:  
 		Baseball, Cricket (communicating amongst players and coaches)
 		Sailing
@@ -757,6 +787,7 @@ ne fonction pas.    boites vide
 			<a href="https://en.wikipedia.org/wiki/Roberts_syndrome">Roberts syndrome</a>
 	Aerospace:  
 		Stewards / Stewardesses, Ground crew
+		Astronaunts (Extra-Vehicular Activity).  Raising suit temperature, typing notes.
 	Translators:
 		Word translations (dictionary look-ups), during mid-conversations
 

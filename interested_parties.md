@@ -1297,6 +1297,33 @@ jul 26
 	-~10	ttc stops  (van Horne, victoria park, finch, kennedy)
 
 
+jul 30
+	-~5
+		-15:30 - 18:30          3DBOTT Robotics Workshop - Part 7 - Work on LawnBott and OSSDC e-Kart
+			https://www.meetup.com/es/GTA-Robotics/events/242065094/
+				 3DBOTT Robotics Lab
+				1914 PineGrove Ave, Pickering   (17km Steeles & Scarborough Pickering Townline)
+				Peter's 3DBOTT Lab.
+
+			- 3DBott - the 3D printer that prints houses -
+				https://www.3dbott.com/
+			- P.A.R.D People Assist Robotic Device
+			- Solar Heliostats for concentrating Solar energy
+			- LawnBott - remote controlled or autonomous lawn mower
+			- Custom PCBs for automation including robotics and home automation
+			- CAD design and Programming embedded micro controllers
+
+aug 01
+	-1 kik presenter
+	-3 people
+	-3 window still
+		-18:00-21:00    http://startupheretoronto.com/event/botto-august-meetup/
+                                Shopify, 80 Spadina Ave. 4th Floor, Toronto     (28km.  Richmond & Spadina)
+                                BotTO
+                                Bot FrameworkChatbots
+                                https://www.meetup.com/es/Bot-TO/
+				https://www.meetup.com/es/Bot-TO/events/241723788/?eventId=241723788
+
 
 
 			

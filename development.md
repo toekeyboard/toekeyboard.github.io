@@ -3,24 +3,8 @@
 
 Next Steps / To Do
 ---
-<pre>
--remove embedded youtube videos off of this page?  slow to load.   put back videos.html
 
--get to work in debian linux
-	-get python demo working  (with delete / enter)
-	-move program to background process, donc peut utiliser bash dans debian linux
-	-get 3.5mm audio jack to accept input.  hdajackretask
-
--create android .APK, so can install on phone
--get to work in android-x86
-
--find sponsorship / get partners to acquire 3.5mm audio jack cable	(bulk, 50+)
-	-to create functional kits, so partner can give them away
-
--two different wire thicknesses	(AWG - american wire guage)
-	-20 AWG (thick for robusness. ie. sports)
-	-30 AWG (thin for comfort. ie. business)
-</pre>
+[Next steps todo](next_steps_todo.html)
 
 <hr>
 
@@ -248,6 +232,12 @@ Search Engine
 Translation
 ---
 <pre>
+	1) Morse code to Text
+	2) Search in bi-lingual dictionary
+	3) Text to speech
+
+
+
 	-discreet translation
 
 	espeak - Multi-lingual software speech synthesizer

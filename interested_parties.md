@@ -1324,6 +1324,18 @@ aug 01
                                 https://www.meetup.com/es/Bot-TO/
 				https://www.meetup.com/es/Bot-TO/events/241723788/?eventId=241723788
 
+aug 02
+	-1
+		-11am-12pm      MaKey MaKey for Kids!
+			cedarbrae library
+			https://www.eventbrite.ca/e/makey-makey-for-kids-ages-10-tickets-35819704701
+
+	-1
+			McCowan Foot Clinic
+			mccowanfootclinic.ca
+			1711 McCowan Road, Unit 104, Scarborough, M1S 2Y3
+
+
 
 
 			

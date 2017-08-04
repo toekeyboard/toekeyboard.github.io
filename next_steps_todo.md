@@ -5,6 +5,60 @@ Next Steps / To Do
 ---
 <pre>
 
+
+-consolidate this todo file avec, development.md
+	-remove videos from development.md
+
+-re-compile dotdash using debian android tools
+
+-put android-x86 80GB 2.5" sata hdd
+	-dd 80GB to 250GB samsung sdd 2.5"
+
+
+-map out wire suppliers on morning side
+
+
+-setup seed box
+-have a bittorrent seedbox  (P3, i686), quiet
+
+
+-faire personalized advertisement quand donne les toekeyboards sample kits a les gens.
+
+
+
+        -look for male-to-male 3.5mm connector
+                -wire suppliers
+                -dollar store
+
+
+
+
+        -uninstalled Google Apps:
+                AnySoftKeyboard
+                CN Thai Keyboard
+                Vietnamese IME
+
+        -external / outer protective layer
+                -heat shrink wrap
+                -vinyl (iron pressed)
+
+
+        -print out
+                -4 charts
+                        -english mmemonic tree
+                        -A-Z sequential
+                        -tap code
+                        -scroll
+                -Uses section
+        -short circuit 9V  (wrap with electrical tape)
+        -seed static file on bittorrent
+
+
+
+
+
+
+
 -acheter les fils de different colouers	(peut customiser)
 
 
@@ -140,6 +194,8 @@ https://en.wikipedia.org/wiki/Operational_amplifier
 
 
 </pre>
+
+<hr>
 
 Fini
 ---

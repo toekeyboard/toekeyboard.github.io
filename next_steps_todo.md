@@ -5,9 +5,75 @@ Next Steps / To Do
 ---
 <pre>
 
-
 -consolidate this todo file avec, development.md
 	-remove videos from development.md
+
+
+-reset android froyo 2.2 to factory default
+
+-start seeding 'hello world'.  static file
+
+
+-dd 80GB to 250GB hdd
+	-put android-x86 on 80GB
+
+-install debian linux on desktop
+	-have lenovo t530 laptop available for demo'ing android-x86
+
+
+
+https://play.google.com/store/apps/details?id=net.iowaline.dotdash&hl=en
+https://github.com/agwells/dotdash-keyboard-android
+https://github.com/agwells/dotdash-keyboard-android/issues
+https://f-droid.org/packages/net.iowaline.dotdash/
+https://www.youtube.com/watch?v=y5g5OHfjRWA&feature=youtu.be	 DotDash Keyboard 
+https://play.google.com/store/apps/details?id=net.iowaline.dotdash
+https://play.google.com/store/search?q=morse%20code%20keyboard&c=apps
+
+
+
+
+
+----turbine in shoe
+        -NEMS / MEMS turbine power
+        http://www.google.com/patents/US6201314 Shoe sole with liquid-powered electrical generator
+        turbine in sole of shoe to generate power
+        https://www.electronicsweekly.com/news/archived/resources-archived/power-generators-make-electricity-from-mems-2003-10/
+        https://www.asme.org/engineering-topics/articles/applied-mechanics/mems-vibrational-micro-power-generation
+        http://www.powermems.be/gasturbine.html
+        https://duckduckgo.com/?q=mems+turbine+to+generate+electricity&t=ffab&ia=web
+        http://www.iflscience.com/technology/teenager-invents-energy-generating-shoe-insoles/
+        http://www.bbc.com/news/science-environment-30816255
+        http://www.instructables.com/id/Power-Generating-Shoe/
+        https://www.sciencedaily.com/releases/2010/04/100426113137.htm
+        https://duckduckgo.com/?q=turbine+in+shoe+to+generate+power&t=ffab&ia=web
+
+
+
+
+
+----android wear
+----android smartwatch
+----smartwatch
+https://duckduckgo.com/?q=android+smart+watch&t=ffab&ia=web
+https://www.android.com/wear/
+https://www.wareable.com/smartwatches/best-android-watch
+https://en.wikipedia.org/wiki/Smartwatch
+https://en.wikipedia.org/wiki/Smartwatch#Children.27s_phone_watches_in_China
+https://en.wikipedia.org/wiki/AsteroidOS
+https://en.wikipedia.org/wiki/Android_Wear
+https://en.wikipedia.org/wiki/Mobile_operating_system
+https://en.wikipedia.org/wiki/Pebble_%28watch%29
+	https://en.wikipedia.org/wiki/Pebble_%28watch%29#Closing_of_Pebble
+	https://en.wikipedia.org/wiki/Pebble_Time
+	https://en.wikipedia.org/wiki/Wearable_computer
+	https://en.wikipedia.org/wiki/FreeRTOS
+	https://en.wikipedia.org/wiki/Fitbit
+
+
+
+
+
 
 -re-compile dotdash using debian android tools
 
@@ -29,6 +95,38 @@ Next Steps / To Do
         -look for male-to-male 3.5mm connector
                 -wire suppliers
                 -dollar store
+
+
+
+
+
+
+        ----android-x86
+                -on mini-atx quad-core computer
+                        -live cd works
+                        -usbstick installed:   get to Welcome Screen.  then infinite loop
+                                Setup Wizard has stopped.  Open app again.
+                -installer sur 250GB.
+                        -first partition.  works
+
+                -try usbstick on lenovo t530
+
+
+                -dd 80GB to 250GB sdd
+                -put android-x86 on 80GB
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

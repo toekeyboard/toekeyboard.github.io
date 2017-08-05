@@ -8,9 +8,13 @@ Meeting minutes
 
 <hr>
 
+Year-Month-Day  
+YYYY-MM-DD  
+.........................
+
 [2017-06-20.txt](2017-06-20.txt)  
 [2017-07-18.txt](2017-07-18.txt)  
-[2017-08-15.txt](2017-08-15.txt) &nbsp;&nbsp;&nbsp;&nbsp; [(audio)](2017-08-15.ogg)  
+[2017-08-15.txt](2017-08-15.txt) &nbsp;&nbsp;&nbsp;&nbsp; [(audio)](audio/2017-08-15.ogg)  
 [2017-09-19.txt](2017-09-19.txt)  
 [2017-10-17.txt](2017-10-17.txt)  
 [2017-11-21.txt](2017-11-21.txt)  

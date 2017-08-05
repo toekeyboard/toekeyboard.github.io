@@ -295,7 +295,7 @@ https://en.wikipedia.org/wiki/Operational_amplifier
 
 <hr>
 
-Fini
+Fini / Done
 ---
 <pre>
 -remove embedded youtube videos off of this page?  slow to load.   put back videos.html

@@ -289,6 +289,8 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
     
 
 
+   //document.write("<table border='0'>"); //打印表格第一行(显示星期)
+   //document.write("<table border='1' cellspacing='0'>"); //打印表格第一行(显示星期)
    document.write("<table cellspacing='0'>"); //打印表格第一行(显示星期)
 
 
@@ -305,8 +307,7 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
     	m2 = monthNames[today.getMonth()]
 	document.write('<tr><td><h1>' + m2 + ' ' + y + '</h1></td></tr>');
 
-
-
+   document.write('</table>');
 
 
 
@@ -408,6 +409,10 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
     }
     document.write('</tr>');
    }
+
+
+   //document.write('<tr><td><a href="events.ics" target="_blank">events.ics</a></td></tr>');
+
    document.write('</table>');
 </script>
 

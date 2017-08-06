@@ -16,6 +16,7 @@ Next Steps / To Do
 	-have lenovo t530 laptop available for demo'ing android-x86
 
 
+-install android-x86 i686 on hdd.  run off of tablet pc
 
 
 

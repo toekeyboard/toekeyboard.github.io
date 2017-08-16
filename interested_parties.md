@@ -346,6 +346,19 @@ Interested Parties
 
 ----wire suppliers
 	-8 foot+, 30 gauge.  avec deux 3.5mm TRS audio jack connector.  couper dans le milieu, pour 4 foot+ wire et connector.
+	
+	Sayal Electronics
+		sayal.com
+		7701 Woodbine Ave, Markham                              -14th/woodbine
+		3791 Victoria Park Ave #1-5, Scarborough                        -victoria park/steeles
+		http://sayal.com/zinc/zinc_SEARCH.asp?txtSEARCH=3.5mm
+
+	Creatronics	
+		3575 Sheppard Ave. East, Scarborough    (8km.  Birchmount & Sheppard)
+		old     3127 Sheppard Ave. East, Scarborough    (9km)           //moved, May 2017
+		https://www.creatroninc.com/store-locations
+
+
 
 	#2 Cable specialist
 		30 Royal Crest, Unit #2, Markham

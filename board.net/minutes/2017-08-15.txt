@@ -1,0 +1,3 @@
+# dans attendance: 0
+Rencontre commence: 19h00
+Rencontre fini: 20h00

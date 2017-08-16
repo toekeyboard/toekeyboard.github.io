@@ -4,6 +4,438 @@
 Next Steps / To Do
 ---
 <pre>
+-figure out how to re-compile f-droid programs, create apk
+
+-figure out how to write android ndk c programs, access alsa driver
+	~$wajig search android ndk
+	google-android-ndk-installer - Google Android Native Development Kit (NDK) Installer
+		Length: 755551010 (721M) [application/zip]
+		Saving to: ‘android-ndk-r12b-linux-x86_64.zip’
+
+
+
+
+
+
+----piezo-electric hearing system
+        -rc cars rechargable batteries
+        -to make piezo-electric, operational amplifier hearing system
+                Creative speakers:  18V
+                -hook up in series, 18V?        two 9V batteries?
+                -hide piezo-electric speaker under back of tie, clip on back of shirt
+
+https://en.wikipedia.org/wiki/Piezoelectricity
+https://en.wikipedia.org/wiki/Tweeter
+https://en.wikipedia.org/wiki/Keyboard_amplifier
+https://en.wikipedia.org/wiki/Moving_iron_speaker
+https://en.wikipedia.org/wiki/Instrument_amplifier
+
+https://en.wikipedia.org/wiki/Delay_line_memory
+https://en.wikipedia.org/wiki/Vandal-resistant_switch
+
+
+
+
+
+----bluetooth le toekeyboard
+----bluetooth smart toekeyboard
+	http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=bluetooth+le+transmitter
+	https://en.wikipedia.org/wiki/IBeacon
+	https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
+				Classic Bluetooth technology 	Bluetooth Smart technology
+		Active slaves 	7				Not defined; implementation dependent
+	http://www.microchip.com/wwwproducts/en/RN4020
+	https://duckduckgo.com/?q=bluetooth+le+transmitter+chip&t=canonical&ia=web
+	https://www.adafruit.com/search?q=bluetooth%20le%20transmitter
+	https://www.alibaba.com/showroom/bluetooth-transmitter-chip.html
+	https://www.alibaba.com/showroom/bluetooth.html
+	https://www.adafruit.com/search?q=bluetooth
+
+https://www.quora.com/How-can-I-connect-multiple-bluetooth-devices-to-a-single-bluetooth-device?share=1
+https://stackoverflow.com/questions/17274506/how-many-devices-we-can-pair-via-bluetooth-to-iphone
+https://stackoverflow.com/questions/17274506/how-many-devices-we-can-pair-via-bluetooth-to-iphone#17282862
+	As it stands in iOS 6.1.4, the current limit for Bluetooth Low Energy devices is 10 simultaneous CONNECTIONS
+
+
+
+
+https://duckduckgo.com/?q=toekeyboard&t=ffab&ia=web
+https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin
+https://www.youtube.com/watch?v=WTyU55c-hOc	 type in keyboard by toes 
+
+
+
+
+
+
+----happy spy socks
+----spy socks
+	https://duckduckgo.com/?q=conductive+threading+toronto&t=ffab&ia=web
+		http://conductivethread.ca/
+
+		https://www.creatroninc.com/product/conductive-thread-60ft/
+
+		http://www.canadarobotix.com/lilypad-microcontroller/lilypad-conductive-thread-bobbin-30ft
+			http://www.canadarobotix.com/contact-us
+				Canada Robotix
+				800 Denison St., Unit 8-10
+				Markham
+
+		http://forums.redflagdeals.com/conductive-thread-1285515/
+
+		http://toronto.livejournal.com/9792842.html
+		https://tinkering.exploratorium.edu/sewn-circuits
+
+
+	http://www.instructables.com/id/Conductive-Velcro-Toggle-Switch/
+	https://www.alibaba.com/showroom/conductive-velcro-strap.html
+
+
+
+        http://perfect.org/
+                https://github.com/PerfectlySoft/Perfect
+                https://twitter.com/perfectlysoft
+
+                https://www.treefrog.ca/
+                        567 Davis Drive, Unit 1, Newmarket
+                                44.061033, -79.454877
+                        https://www.treefrog.ca/sean-stephens
+
+		jun 06, 2017
+			opn.ninja
+			#PitchItYork, york downs country club
+
+
+
+
+
+
+
+
+
+----hackers keyboard
+https://github.com/klausw/hackerskeyboard/releases/tag/1.39.1
+https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard
+https://github.com/klausw/hackerskeyboard
+/dotdash-keyboard-android/src/org/pocketworkstation/pckeyboard$
+https://f-droid.org/packages/org.pocketworkstation.pckeyboard/
+https://f-droid.org/wiki/page/org.pocketworkstation.pckeyboard
+https://f-droid.org/repo/org.pocketworkstation.pckeyboard_1039003.apk
+
+
+
+https://en.wikipedia.org/wiki/Android_software_development
+	https://en.wikipedia.org/wiki/Android_software_development#Android_Open_Accessory_Development_Kit
+	https://en.wikipedia.org/wiki/Index_of_Android_OS_articles
+	
+https://en.wikipedia.org/wiki/Android_Studio
+https://en.wikipedia.org/wiki/Android_%28operating_system%29
+https://en.wikipedia.org/wiki/Android_Runtime
+https://en.wikipedia.org/wiki/Android_lawn_statues
+https://en.wikipedia.org/wiki/Android_Dev_Phone
+https://en.wikipedia.org/wiki/Android_application_package
+
+
+
+
+https://www.reddit.com/r/hwstartups/comments/6qq3lp/an_example_of_problem_solving_when_going_vertical/
+https://blog.squatsandscience.com/on-the-cutting-edge-fb6dcfff5d55
+
+https://www.reddit.com/r/hwstartups/comments/6rx79a/medical_device_startup_my_experience/
+https://www.reddit.com/r/hwstartups/comments/6rx4jx/warp_united_medical_tricorder_is_raising_3m/
+
+https://www.reddit.com/r/cofounder/comments/6p3csq/tech_cofounder_needed_for_a_fun_side_project/
+        Android(Java) or iOS ( swift / objective-C)
+
+
+
+
+
+
+https://gitlab.com/axet
+https://github.com/axet?tab=repositories
+https://github.com/axet/
+https://axet.gitlab.io/android-torrent-client/
+https://gitlab.com/axet/android-torrent-client
+https://f-droid.org/packages/com.github.axet.torrentclient/
+
+https://play.google.com/store/apps/details?id=com.utorrent.client
+http://transmissionbt.com/download/
+
+
+https://www.reddit.com/r/Androidx86/comments/4lnmza/dual_boot_add_androidx86_60_to_grub2/
+https://www.reddit.com/r/Androidx86/comments/4y1x1o/kernel_refusing_to_boot_with_grub2_due_to/
+https://www.reddit.com/r/Androidx86/search?q=grub&restrict_sr=on
+https://ubuntuforums.org/showthread.php?t=2307580
+grub detect android-x86
+https://askubuntu.com/questions/510200/want-to-detect-android-x86-in-ubuntu-grub-menu#572811
+https://www.neowin.net/forum/topic/1271494-android-x86-cant-install-grub-or-grub-2-bootloader-just-get-a-blinking-line/
+https://askubuntu.com/questions/99059/install-android-os-along-with-ubuntu-and-windows
+https://ask.fedoraproject.org/en/question/59119/android-x86-not-detected-by-grub2/
+https://duckduckgo.com/?q=update-grub+detect+new+os&t=ffab&ia=qa
+https://duckduckgo.com/?q=grub+does+not+detect+android-x86&t=ffab&ia=qa
+
+https://github.com/agwells/dotdash-keyboard-android
+https://f-droid.org/packages/net.iowaline.dotdash/
+https://androidforums.com/threads/where-apk-files-are-stored.125839/
+https://www.howtogeek.com/114667/how-to-install-android-apps-to-the-sd-card-by-default-move-almost-any-app-to-the-sd-card/
+https://android.stackexchange.com/questions/3436/how-to-install-apk-files-on-sdcard
+https://duckduckgo.com/?q=android+how+to+install+an+apk+on+sd+card&t=ffab&ia=web
+
+
+https://f-droid.org/packages/
+https://f-droid.org/packages/com.mattgmg.miracastwidget/
+http://www.tonvid.com/info.php?video_id=DbgPqTDPTJI	Wearable speech enhancement system based on MEMS
+mems wearable power
+
+https://source.android.com/compatibility/7.1/android-7.1-cdd
+
+
+----f-droid
+https://en.wikipedia.org/wiki/F-Droid
+https://f-droid.org/docs/
+https://gitlab.com/fdroid/rfp/issues
+https://f-droid.org/wiki/page/Inclusion_Policy
+https://f-droid.org/docs/
+https://gitlab.com/fdroid/fdroid-website
+https://gitlab.com/fdroid/fdroiddata
+https://gitlab.com/fdroid/fdroidserver
+https://gitlab.com/fdroid/fdroidclient
+https://f-droid.org/contribute/
+
+https://gitlab.com/fdroid
+https://f-droid.org/docs/Installing_the_Server_and_Repo_Tools/
+https://gitlab.com/fdroid/fdroidserver
+https://gitlab.com/fdroid/fdroiddata/blob/master/CONTRIBUTING.md
+https://gitlab.com/fdroid/fdroiddata
+https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities
+
+
+--f-droid programs
+	--keyboard
+	https://f-droid.org/packages/org.pocketworkstation.pckeyboard/
+
+	--stopwatch
+	https://f-droid.org/packages/An.stop/
+
+	--morse
+	https://f-droid.org/packages/net.iowaline.dotdash/
+
+	--text to speech
+	https://f-droid.org/packages/edu.cmu.cs.speech.tts.flite/
+		http://www.festvox.org/flite/
+		https://github.com/happyalu/Flite-TTS-Engine-for-Android
+
+	--chess
+	https://f-droid.org/packages/org.petero.droidfish/		
+	https://f-droid.org/packages/cz.hejl.chesswalk/
+
+
+
+
+
+
+
+----dotdash a faire
+	-essayer de changer le display nom de dotdash application
+	-adjouter le lettre acoter de le morse code symbol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----velcro
+	fabricland
+
+
+
+
+
+
+----3.5mm audio jack
+	-bicycler a wire suppliers, cherche 8ft+ male-to-male avec 3.5mm audio jack (x2)
+	-aller a creatronics, price de 3.5mm audio jack
+	-aller a sayal, price 3.5mm audio jack / ethernet cable
+
+
+	price		stock		date		website				location			
+	$0.25		44		jul 30,2017 	microtrendrobotics.ca		1914 pine grove ave, pickering
+
+        Sayal Electronics
+                sayal.com
+                7701 Woodbine Ave, Markham                              -14th/woodbine
+                3791 Victoria Park Ave #1-5, Scarborough                        -victoria park/steeles
+                http://sayal.com/zinc/zinc_SEARCH.asp?txtSEARCH=3.5mm
+
+        Creatronics
+                3575 Sheppard Ave. East, Scarborough    (8km.  Birchmount & Sheppard)
+                old     3127 Sheppard Ave. East, Scarborough    (9km)           //moved, May 2017
+                https://www.creatroninc.com/store-locations
+
+
+----wire suppliers
+	-8 foot+, 30 gauge.  avec deux 3.5mm TRS audio jack connector.  couper dans le milieu, pour 4 foot+ wire et connector.
+	
+	Sayal Electronics
+		sayal.com
+		7701 Woodbine Ave, Markham                              -14th/woodbine
+		3791 Victoria Park Ave #1-5, Scarborough                        -victoria park/steeles
+		http://sayal.com/zinc/zinc_SEARCH.asp?txtSEARCH=3.5mm
+
+	Creatronics	
+		3575 Sheppard Ave. East, Scarborough    (8km.  Birchmount & Sheppard)
+		old     3127 Sheppard Ave. East, Scarborough    (9km)           //moved, May 2017
+		https://www.creatroninc.com/store-locations
+
+
+
+	#2 Cable specialist
+		30 Royal Crest, Unit #2, Markham
+		43.840832, -79.328088
+
+	Industrial Electric Wire & Cable Company
+		10 Melford Dr, Scarborough
+		43.807587, -79.234534
+
+	House Of Electrical Supplies
+		880 Milner Ave, Scarborough
+		houseofelectrical.com
+		43.799474, -79.194616
+
+	Wiremagic
+		5310 Finch Ave E #39, Scarborough
+		wiremagic.ca
+		43.812163, -79.249389
+
+	S&S Electronics
+		2200 Markham Rd #5, Scarborough
+		s-selectronics.com
+		43.808661, -79.244233
+
+	Independent Electric Supply Inc
+		48 Milner Ave, Scarborough
+		iesupply.ca
+		43.784879, -79.253200
+
+	Robertson Electric Wholesale
+		140 Milner Ave, Scarborough
+		robertson-electric.com
+		43.786898, -79.245182
+
+
+
+----maps.google.com	search "audio cable"
+
+	Infinite Cables Inc.
+		380 Bentley St #1, Markham
+		infinitecables.com
+		43.829715, -79.336787
+
+	Cables On Sale Ltd.
+		9251 Yonge St #8221, Richmond Hill
+		cablesonsale.ca
+		43.852698, -79.431849
+
+	GutWire Audio Cables
+	Audio Sensibility
+		3 Mylesview Pl, North York
+		audiosensibility.com
+		43.759433, -79.429684
+
+	AVShop.ca
+		235 Hood Rd, Suite 1, Markham
+		avshop.ca
+		43.825036, -79.326813
+
+	Leslievillegeek
+	B R T B (Canada) Inc
+		45 Riviera Dr, Markham
+		brtbcanada.com
+		43.830955, -79.344055
+
+
+
+
+
+
+----online
+	https://www.reddit.com/r/hwstartups/comments/6rzy6f/sources_of_parts_for_low_volume_production/
+
+
+	digikey
+		https://www.digikey.com/products/en
+		https://www.digikey.com/products/en?keywords=3.5mm%20audio%20jack
+
+	http://www.mouser.com/
+		http://www.mouser.com/Search/Refine.aspx?Keyword=3.5mm+audio+jack
+
+	http://www.alibaba.com/
+		https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=3.5mm+audio+jack
+			$0.15-0.18	https://www.alibaba.com/product-detail/JR-3-5mm-Plug-3-5mm_60673534213.html?spm=a2700.7724838.2017115.118.9HMudh
+			$0.002-0.5	https://www.alibaba.com/product-detail/3-5mm-audio-jack-jack-female_60363367370.html?spm=a2700.7724838.2017115.197.9HMudh
+
+	http://ebay.ca
+		http://www.ebay.ca/itm/10pcs-3-5mm-1-8-Audio-Male-Plug-Jack-Adapter-Stereo-Connector-Headphone-CA-/201932499895?hash=item2f041d6bb7:g:aDIAAOSwjqVZIrT4
+		http://www.ebay.ca/itm/20pcs-3-5mm-1-8-Audio-Male-Plug-Jack-Adapter-Stereo-Connector-Headphone-CA-/201932498602?hash=item2f041d66aa:g:b-MAAOSwsXFZIrP0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----bluetooth connection  (audio)
+	#https://wiki.archlinux.org/index.php/bluetooth
+
+	~$bluetoothctl
+	[bluetooth]# scan on
+	[bluetooth]# pair 90:21:55:1D:26:00
+	[bluetooth]# connect 90:21:55:1D:26:00
+	(audio will start working)
+
+	[bluetooth]# scan off
+	[bluetooth]# help
+	[bluetooth]# list
+	[bluetooth]# disconnect
+
+	[bluetooth]# devices
+		00:1F:20:55:18:22 Logitech Keyboard Case	does not work
+		14:74:11:8F:89:D4 Name: PlayBook-47AD		audio works
+		90:21:55:1D:26:00 HTC Aria A6380		audio works
+			Connected to media audio
+
+		4E:74:8F:BF:D6:DB Name: iPad
+		6F:8D:9E:31:82:08
+		28:F0:76:5C:E2:6D
+		Controller 68:94:23:87:A5:3A 67-ubuntu [default]
+
+		Controller 00:21:86:7E:CE:1C 53-debian [default]
+			-wacom tablet, doesnt see anything
+
 
 -incorporate fullcalendar.io
 
@@ -26,6 +458,8 @@ Next Steps / To Do
 
 
 -reset android froyo 2.2 to factory default
+	https://en.wikipedia.org/wiki/HTC_Aria
+		Operating system 	Android 2.1 (Eclair) and HTC Sense (with Friend Stream), upgradable to 2.2 via HTC,[1][2] or 2.3 via CyanogenMod 7[3]
 
 
 

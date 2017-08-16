@@ -1,6 +1,6 @@
 <p>
 <img src="mall.png" alt="" title="" width=50%/>
-<iframe src="locations/shopping.html" style="border:1; width:50%; height:450px;"></iframe>
+<iframe src="../../locations/shopping.html" style="border:1; width:50%; height:450px;"></iframe>
 <br>
 <br>
 <img src="DSC03806.JPG" alt="" title="" width=50%/>

@@ -17,9 +17,36 @@ Next Steps / To Do
 
 
 
+
+
+
+
+
+http://www.tomshardware.com/news/multitoe-floor-shoes-multitouch,10178.html
+	https://www.youtube.com/watch?v=spiKgkW1UmI	Multitoe interaction: bringing multi-touch to interactive floors 
+	https://www.youtube.com/watch?v=4hGNFL0ySsU	Interactive Floor 
+	https://www.youtube.com/watch?v=qawhLXnnlQY	OmniTouch: Wearable Multitouch Interaction Everywhere WWW.GOODNEWS.WS 
+
+https://www.youtube.com/user/TheCreatorsProject/videos?flow=grid&sort=p&view=0
+https://www.youtube.com/user/TheCreatorsProject/videos
+	https://www.youtube.com/watch?v=eyx0SwNlpPw	Make It Wearable | Episode 4: Becoming Superhuman 
+	https://www.youtube.com/watch?v=aohHf34yD_0	Make It Wearable | A Screenless Future 
+
+https://www.youtube.com/watch?v=vbNHCn2gHQ4	Top 5 Future Technology Inventions | 2019 - 2050 
+https://www.youtube.com/watch?v=oxYhGVHihnA	 10 upcoming Google Projects ! 
+
+https://technabob.com/blog/2011/09/27/cobblestone-keyboard/
+
+
+
+
+
+
+
+
 ----piezo-electric hearing system
         -rc cars rechargable batteries
-        -to make piezo-electric, operational amplifier hearing system
+        https://www.youtube.com/watch?v=spiKgkW1UmI-to make piezo-electric, operational amplifier hearing system
                 Creative speakers:  18V
                 -hook up in series, 18V?        two 9V batteries?
                 -hide piezo-electric speaker under back of tie, clip on back of shirt
@@ -1090,7 +1117,13 @@ https://www.youtube.com/embed/qOQ7zELFmLE
 Ventriloquist / Mentalist / Mind reading / Magician act / Animatronics
 ---
 <pre>
-	-like teddy ruxpin / wikibear on conan / Ted / animatronics at chuck e cheese
+	-like teddy ruxpin / wikibear on conan / Ted / animatronics at chuck e cheese / tickle-me-elmo
+	
+
+	https://en.wikipedia.org/wiki/Tickle_Me_Elmo
+		http://www.tonvid.com/info.php?video_id=o4x-VW_rCSE	Tickle Me Elmo X TMX Elmo
+		http://www.tonvid.com/info.php?video_id=W7IxliAPjAk	Tickle Me Emo
+
 
 	http://www.tonvid.com/info.php?video_id=8EshrR-xk2E	Teddy Ruxpin Commercial
 		https://en.wikipedia.org/wiki/Teddy_Ruxpin
@@ -1438,10 +1471,50 @@ https://www.google.com/patents/US2077426
 
 <!--
 Topic
----
+
 <pre>
 
 </pre>
 
-<hr>
 -->
+<hr>
+
+
+
+
+Others
+---
+<pre>
+
+----fidget spinner
+	https://duckduckgo.com/?q=first+company+to+mass+produce+fidget+spinner&t=ffab&ia=web
+	https://www.cnbc.com/2017/07/10/fidget360-made-350000-in-6-months-and-sent-fidget-spinners-viral.html
+	http://www.thisisinsider.com/17-year-olds-made-3d-printed-fidget-spinners-2017-6
+		When I asked them what advice they had for young entrepreneurs, they talked about the importance of perseverance, working hard, and embracing failure when you're young. 
+		Instead of waiting for an opportunity or idea to come to you, "you have to put in the work and just do something," Weiss said. "A lot of people think about ideas or talk about ideas, but you actually have to go out and take action." 
+		"Nowadays, people think it's bad when you fail, but there's a lot you can learn," 
+
+
+
+
+http://i.imgur.com/dflgBdM.gif                  //snail
+	http://imgur.com/a/N9ufF	Eyes and arms 1.0
+	http://imgur.com/a/h6Osy	Gifs eyes and arms 2.0
+	http://imgur.com/a/YAwrp	Eyes and Arms 3.0
+
+
+
+https://www.azlyrics.com/
+
+https://en.wikipedia.org/wiki/MetroLyrics
+	http://www.metrolyrics.com/
+
+https://en.wikipedia.org/wiki/Gracenote
+
+
+
+
+
+
+
+</pre>

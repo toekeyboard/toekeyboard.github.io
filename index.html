@@ -297,29 +297,39 @@ toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوح
         return tuesdays;
         //http://www.java2s.com/Tutorial/JavaScript/0220__Array/Returnanarrayfromafunction.htm
     }
-    
-    
 
 
-   //document.write("<table border='0'>"); //打印表格第一行(显示星期)
-   //document.write("<table border='1' cellspacing='0'>"); //打印表格第一行(显示星期)
-   document.write("<table cellspacing='0'>"); //打印表格第一行(显示星期)
 
 
 	//Print full month and year heading
-   	//https://duckduckgo.com/?q=javascript+datetime+month+name&t=ffab&ia=qa
+	//https://duckduckgo.com/?q=javascript+datetime+month+name&t=ffab&ia=qa
 	//https://stackoverflow.com/questions/1643320/get-month-name-from-date
-   	//https://www.w3schools.com/jsref/jsref_obj_date.asp
+	//https://www.w3schools.com/jsref/jsref_obj_date.asp
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
 	      "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
 	      ];
 	//var monthNames = ["January", "February", "March", "April", "May", "June",
 	//      "July", "August", "September", "October", "November", "December"
 	//      ];
-    	m2 = monthNames[today.getMonth()]
+  
+
+
+
+	//Next meeting 
+	//document.write('Next meeting:' + today.getMonth()");
+
+
+	//document.write("<table border='0'>"); //打印表格第一行(显示星期)
+	//document.write("<table border='1' cellspacing='0'>"); //打印表格第一行(显示星期)
+	document.write("<table cellspacing='0'>"); //打印表格第一行(显示星期)
+
+	m2 = monthNames[today.getMonth()]
 	document.write('<tr><td><h1>' + m2 + ' ' + y + '</h1></td></tr>');
 
-   document.write('</table>');
+	document.write('</table>');
+
+
+
 
 
 

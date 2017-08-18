@@ -1503,13 +1503,23 @@ http://i.imgur.com/dflgBdM.gif                  //snail
 	http://imgur.com/a/YAwrp	Eyes and Arms 3.0
 
 
+--pets and animals doing weird things garners lots of attention
+	https://www.thestar.com/sports/baseball/2017/08/17/st-louis-cardinals-to-adopt-rally-cat-that-darted-across-outfield-during-game.html
+	http://imgur.com/gallery/lR9KN  My girlfriends doggo spent the night last night
+
+
+
+
+
 
 https://www.azlyrics.com/
+	-doesnt allow "wget -r www.azlyrics.com"
 
-https://en.wikipedia.org/wiki/MetroLyrics
-	http://www.metrolyrics.com/
-
-https://en.wikipedia.org/wiki/Gracenote
+http://www.metrolyrics.com/
+	https://en.wikipedia.org/wiki/MetroLyrics
+		https://en.wikipedia.org/wiki/Gracenote
+	https://twitter.com/metrolyrics
+	http://www.youtube.com/user/MetroLyricsClips
 
 
 

@@ -7,6 +7,7 @@ Meeting minutes
 
 
 <hr>
+Annual General Meeting (AGM) / Mini-Conference (every April)
 
 Year-Month-Day  
 YYYY-MM-DD  
@@ -37,3 +38,15 @@ Upcoming
 2018-11-20  
 2018-12-18  
 
+2019-01-15
+2019-02-19
+2019-03-19
+2019-04-16
+2019-05-21
+2019-06-18
+2019-07-16
+2019-08-20
+2019-09-17
+2019-10-15
+2019-11-19
+2019-12-17

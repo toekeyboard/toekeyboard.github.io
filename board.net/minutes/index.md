@@ -26,7 +26,7 @@ Upcoming
 2018-01-16  
 2018-02-20  
 2018-03-20  
-2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  2018 AGM / Mini-Conference
+2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  2018 AGM / Mini-Conference  
 2018-05-15  
 2018-06-19  
 2018-07-17  

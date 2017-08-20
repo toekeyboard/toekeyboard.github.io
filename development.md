@@ -1525,6 +1525,18 @@ http://www.metrolyrics.com/
 
 
 
+https://www.assetstore.unity3d.com/en/#!/content/72408
+https://www.wired.com/2017/04/adrian-kozakiewicz-insecthaus_adi-instagram/
+https://www.google.ca/search?source=hp&q=face+tracking+on+insect+faces&oq=face+tracking+on+insect+faces&gs_l=psy-ab.3...5702.5702.0.6294.1.1.0.0.0.0.153.153.0j1.1.0....0...1.1.64.psy-ab..0.0.0.jDHok1D3ick
+https://duckduckgo.com/?q=face+tracking+on+insect+faces&t=ffab&ia=web
+https://duckduckgo.com/?q=face+tracking+on+bug+faces&t=ffab&ia=web
+
+
+
+http://dl.acm.org/citation.cfm?id=2832602
+https://www.semanticscholar.org/paper/Neural-Versus-Symbolic-Rap-Battle-Bots-Wu-Addanki/99a04f5cf3b4d434ff9e23f8f18c26ab322cb894
+https://github.com/robbiebarrat/rapping-neural-network
+
 
 
 </pre>

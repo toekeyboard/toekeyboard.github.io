@@ -1539,4 +1539,67 @@ https://github.com/robbiebarrat/rapping-neural-network
 
 
 
+
+
+android-sdk-platform-23 - Android SDK Platform for API Level 23 (6.0 Marshmallow)
+libandroid-23-java - Android framework for API Level 23 (6.0 Marshmallow)
+android-libaapt - Android Asset Packaging Tool - Shared library
+android-tools-adb - transitional package
+android-sdk - Software development kit for Android platform
+android-tools-adb - transitional package
+android-sdk-build-tools - Tools for building Android applications
+android-sdk-build-tools-common - Tools for building Android applications - Common files
+android-sdk-common - Common files of Android SDK base toolset
+android-sdk-platform-tools - Tools for interacting with an Android platform
+android-sdk-platform-tools-common - Tools for interacting with an Android platform - Common files
+google-android-build-tools-installer - Google build tools for Android (aapt, aidl, dexdump, dx)
+
+command-not-found - Suggest installation of packages in interactive bash sessions
+packagekit-command-not-found - Offer to install missing programs automatically
+
+
+aapt - Android Asset Packaging Tool
+android-libaapt - Android Asset Packaging Tool - Shared library
+zipalign - Zip archive alignment tool
+
+android update project
+
+https://stackoverflow.com/questions/15285331/how-to-compile-apk-from-command-line#15285617
+	android update project -p .
+	ant clean
+	ant release
+
+
+$locate android-sdk | less
+$which android-sdk
+$whereis android-sdk
+
+/usr/lib/android-sdk/platform-tools
+/usr/lib/android-sdk/tools
+
+https://stackoverflow.com/questions/10969753/android-command-not-found#15382124
+
+env
+$ export ANDROID_HOME=/usr/lib/android-sdk
+$ export PATH=$ANDROID_HOME/tools:$PATH
+$ export PATH=$ANDROID_HOME/platform-tools:$PATH
+
+
+
+
+
+https://www.youtube.com/watch?v=gBeyHlgD7Xs     Kendrick Lamar Halloween Freestyle
+
+https://duckduckgo.com/?q=ai+neural+net+rap+battle&t=ffab&ia=web
+https://duckduckgo.com/?q=artificial+intelligence+neural+network+rap+battle&t=ffab&ia=web
+https://www.inverse.com/article/29237-kany-west-rapping-artificial-intelligence
+https://www.youtube.com/watch?v=N8P3i8gBaVI      Neural Network Written Rap Song
+https://github.com/robbiebarrat/rapping-neural-network
+https://pastebin.com/MUDc9Unt
+https://soundcloud.com/rapping_neural_network/networks-with-attitude
+
+https://github.com/search?utf8=%E2%9C%93&q=neural+net+rap&type=
+https://github.com/robbiebarrat/rapping-neural-network/blob/master/kanye_lyrics.txt
+
+
 </pre>

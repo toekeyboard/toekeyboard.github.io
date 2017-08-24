@@ -52,7 +52,44 @@ https://www.reddit.com/r/sysadmin/
 
 https://www.reddit.com/r/coolgithubprojects/
 
+
+
+
+
+
+https://www.meetup.com/PitchItTO/
+https://www.meetup.com/es/ReactWithUs/
+https://www.meetup.com/es/GTA-Robotics/
+https://www.meetup.com/es/BASIC-Game-Programming/
+https://www.meetup.com/es/Video-Game-Workshop/
+https://www.meetup.com/es/Indie-Game-Demos/
+
+http://startupheretoronto.com/events-and-training/events/
+http://web.rhbot.ca/Events?ce=true
+
+https://markham.snapd.com/calendar
+https://scarborough.snapd.com/calendar
+https://richmondhill.snapd.com/calendar
+https://pickering.snapd.com/calendar
+
+http://www.guidingstar.ca/A_Calendar_Guide_To_Markham_Special_Annual_Events_and_Festivals.htm
+https://www.evensi.ca/maps/?lat=43.4659512049225&lng=-79.96830512309565&z=10&day=2017-08-15
+https://www.meetup.com/es/find/events/?allMeetups=true&mcId=c560735&change=yes&userFreeform=toronto&radius=10&events=true
+https://www.meetup.com/es/find/events/?allMeetups=true&mcId=c470461&mcName=Markham%2C+Ontario%2C+CA&userFreeform=Markham%2C+CA&radius=10&events=true
+https://www.eventbrite.ca/d/ontario--markham/events/?sort=date
+https://www.eventbrite.ca/o/markham-public-library-7909422087
+http://www.markham.ca/wps/portal/Markham/RecreationCulture/Library/Programs/EventCalendar/
+https://topinrichmondhill.ca/
+http://www.yorkscene.com/event-category/event-categories/
+https://www.yorkregion.com/richmondhill-on-whatson/
+https://plus.google.com/+TopInRichmondHillCa
+http://onrichmondhill.com/events.php
+http://www.startupyork.ca/events-calendar/
+http://www.markham.ca/wps/portal/Markham/RecreationCulture/DiscoverMarkham/EventCalendar/
+
 </pre>
+
+
 
 <hr>
 
@@ -1347,6 +1384,14 @@ aug 02
 			McCowan Foot Clinic
 			mccowanfootclinic.ca
 			1711 McCowan Road, Unit 104, Scarborough, M1S 2Y3
+
+aug 24
+	-4
+		pitchityork
+		opn.ninja
+		-left on table
+	-1
+		https://www.meetup.com/Indie-Game-Demos/
 
 
 

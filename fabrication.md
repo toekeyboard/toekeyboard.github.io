@@ -238,7 +238,7 @@ Tools
 Internal tools fabrication
 ---
 <pre>
-	Metal soup can lips, to make hole cutters in plastic insulator.
+	Metal soup can lids, to make hole cutters in plastic insulator.
 	Use two different scissors, when cutting masking tape & string.  So doesnt stick to scissors.
 
 </pre>

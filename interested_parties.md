@@ -1,9 +1,9 @@
 <title>interested parties</title>
 
 
-
+<!--
 <iframe src="locations/index.html" style="border:1; width:100%; height:550px;"></iframe>
-
+-->
 
 
 Sponsorships & Partnerships

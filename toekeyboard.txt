@@ -23,4 +23,13 @@
 10:53 -!- ServerMode/#toekeyboard [+ns] by card.freenode.net
 10:53 -!- Irssi: #toekeyboard: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
 11:04 -!- Irssi: Join to #toekeyboard was synced in 644 secs
-
+--- Day changed Mon Jul 31 2017
+23:11 < a7> What is your contact info, you where @ my place Sunday in Pickering  peter@microtrendrobotics.ca  
+--- Log opened Mon Aug 14 01:11:39 2017
+01:11 -!- ServerMode/#toekeyboard [+ns] by verne.freenode.net
+01:11 -!- Irssi: #toekeyboard: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+01:11 -!- Irssi: Join to #toekeyboard was synced in 12 secs
+--- Log opened Fri Aug 25 16:30:14 2017
+16:30 -!- ServerMode/#toekeyboard [+ns] by orwell.freenode.net
+16:30 -!- Irssi: #toekeyboard: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+16:30 -!- Irssi: Join to #toekeyboard was synced in 2 secs

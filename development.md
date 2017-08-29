@@ -1021,6 +1021,12 @@ Search Engine
 Translation
 ---
 <pre>
+https://www.deepl.com/translator
+https://www.linguee.com/
+https://news.ycombinator.com/item?id=15122764           DeepL Translator – AI Assistance for Language (deepl.com)
+
+
+
 	1) Morse code to Text
 	2) Search in bi-lingual dictionary
 	3) Text to speech
@@ -2936,6 +2942,9 @@ Others
 
 
 
+----animal meme
+http://imgur.com/gallery/YNqbQ  it needed lasers
+
 
 http://i.imgur.com/dflgBdM.gif                  //snail
 	http://imgur.com/a/N9ufF	Eyes and arms 1.0
@@ -3041,5 +3050,19 @@ https://soundcloud.com/rapping_neural_network/networks-with-attitude
 https://github.com/search?utf8=%E2%9C%93&q=neural+net+rap&type=
 https://github.com/robbiebarrat/rapping-neural-network/blob/master/kanye_lyrics.txt
 
+
+----rapping baby
+rapping baby
+http://i.imgur.com/EQe16NS.gifv
+http://www.tonvid.com/info.php?video_id=an_STKm-524	FEROmedia presents Khaliyl Iloyi rapping at 2years old
+http://www.tonvid.com/search.php?q=rapping%20baby&videoDefinition=any&date_filter=any&videoDuration=any&safeSearch=none&videotype=any&order=viewCount
+
+
+
+
+ical2html (1)        - create an HTML table from icalendar data
+ical2po (1)          - Convert iCal files to Gettext PO localization files.
+icalfilter (1)       - filter an iCalendar file based on class and/or category
+icalmerge (1)        - merge icalendar files, keeping only the most recent version of each event
 
 </pre>

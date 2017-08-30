@@ -3072,4 +3072,23 @@ ical2po (1)          - Convert iCal files to Gettext PO localization files.
 icalfilter (1)       - filter an iCalendar file based on class and/or category
 icalmerge (1)        - merge icalendar files, keeping only the most recent version of each event
 
+
+
+
+
+----hud
+----head up display
+http://www.tonvid.com/search.php?q=google%20glass%20experience&videoDefinition=any&date_filter=any&videoDuration=any&safeSearch=none&videotype=any&order=viewCount
+google glass experience
+https://en.wikipedia.org/wiki/Optical_head-mounted_display#GlassUp
+https://en.wikipedia.org/wiki/Lumus
+https://en.wikipedia.org/wiki/Optical_head-mounted_display
+https://en.wikipedia.org/wiki/Google_Glass
+https://en.wikipedia.org/wiki/HUD_(computing)
+https://en.wikipedia.org/wiki/HUD_(video_gaming)
+https://en.wikipedia.org/wiki/Head-up_display
+https://en.wikipedia.org/wiki/EyeTap
+https://en.wikipedia.org/wiki/Virtual_retinal_display
+
+
 </pre>

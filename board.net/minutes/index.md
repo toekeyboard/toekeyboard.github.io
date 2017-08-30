@@ -1,7 +1,8 @@
 Meeting minutes
 ---
 3rd Tuesday of every month at 7pm/19h.  
-<a href="https://maps.google.com/maps?f=q&hl=en&q=Denison+Centre+(Food+court+tables),+1661+Denison+St,+Markham" target='_blank'>Food court tables, Denison Centre, 1661 Denison St, Markham</a>
+<br><a href="https://maps.google.com/maps?f=q&hl=en&q=Denison+Centre+(Food+court+tables),+1661+Denison+St,+Markham" target='_blank'>Food court tables, Denison Centre, 1661 Denison St, Markham</a>
+<br><a href="http://www.openstreetmap.org/?mlat=43.8330&mlon=-79.3059">geo:43.8330,-79.3059</a>
 <br>
 <br>(Under tree, in front of Optical Shop.  Pictures of location: <a href="../../images/mall/index.html" target='_blank'>here</a>)
 

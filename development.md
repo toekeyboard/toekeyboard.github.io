@@ -3091,4 +3091,19 @@ https://en.wikipedia.org/wiki/EyeTap
 https://en.wikipedia.org/wiki/Virtual_retinal_display
 
 
+
+
+https://developer.mozilla.org/en-US/Firefox/Headless_mode
+https://news.ycombinator.com/item?id=15131525		Headless mode in Firefox (developer.mozilla.org)
+
+
+
+-make info gif
+https://9gag.com/gag/a6VqpL8     Science b*tch
+
+
+
+https://duckduckgo.com/?q=iframe+load+at+section&t=ffab&ia=qa
+https://stackoverflow.com/questions/14104935/loading-iframe-of-specific-portion-of-website
+
 </pre>

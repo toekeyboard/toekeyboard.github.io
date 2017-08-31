@@ -1,9 +1,16 @@
-mv txt txt_old
-
 wget http://board.net/p/toekeyboard/export/txt
 #wget http://board.net/p/1674927471/export/txt
 
-fldiff txt_old txt
+diff_output=$(diff txt txt_old)
+if [ -z "$diff_output" ]; then
+	echo "Rien nouveau"
+	exit
+fi
+
+
+cp txt txt_old
+
+#fldiff txt_old txt
 #fldiff txt txt_old
 
 echo "<pre>" > txt.html

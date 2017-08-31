@@ -3106,4 +3106,18 @@ https://9gag.com/gag/a6VqpL8     Science b*tch
 https://duckduckgo.com/?q=iframe+load+at+section&t=ffab&ia=qa
 https://stackoverflow.com/questions/14104935/loading-iframe-of-specific-portion-of-website
 
+
+
+https://f-droid.org/packages/com.github.axet.torrentclient/
+	https://gitlab.com/axet/android-audio-library
+	https://gitlab.com/axet
+	https://gitlab.com/axet/android-torrent-client
+	https://www.apk4fun.com/apk/6442/
+	https://www.torrapk.com/en/apps/20-audio-media-and-video/2665-Torrent-Torrent-Downloader/download/apk-file-17365-version-3.21
+	https://www.torrapk.com/en/apps/20-audio-media-and-video/2665-Torrent-Torrent-Downloader
+	https://bittorrent-torrent-app.fileplanet.com/apk
+https://duckduckgo.com/?q=android+bittorrent+apk&t=ffab&ia=web
+
+
+
 </pre>

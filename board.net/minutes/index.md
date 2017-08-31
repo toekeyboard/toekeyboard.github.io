@@ -13,12 +13,14 @@ Annual General Meeting (AGM) / Mini-Conference (every April)
 Year-Month-Day  
 YYYY-MM-DD  
 .........................
+<span id="Previous" />	
 Previous
 ---
 [2017-06-20](2017/06/20/2017-06-20.html)  
 [2017-07-18](2017/07/18/2017-07-18.html)  
 [2017-08-15](2017/08/15/2017-08-15.html) &nbsp;&nbsp;&nbsp;&nbsp; [audio (01:00:02) (35M)](2017/08/15/2017-08-15.ogg) 
 
+<span id="Upcoming" />	
 Upcoming
 ---
 2017-09-19  

@@ -5,6 +5,7 @@ wget http://board.net/p/toekeyboard/export/txt
 
 fldiff txt_old txt
 #fldiff txt txt_old
+cp txt txt.html
 
 #echo "Press Ctrl-C to cancel committing to git"
 #sleep 2

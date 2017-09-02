@@ -3123,4 +3123,33 @@ https://duckduckgo.com/?q=android+bittorrent+apk&t=ffab&ia=web
 
 
 
+
+
+
+
+
+        ----tizen
+                https://en.wikipedia.org/wiki/Bada
+                https://en.wikipedia.org/wiki/MeeGo
+                https://en.wikipedia.org/wiki/Open_Handset_Alliance
+                https://en.wikipedia.org/wiki/Tizen
+                https://en.wikipedia.org/wiki/LiMo_Foundation
+                https://www.tizen.org/
+                https://wiki.tizen.org/Main_Page
+                https://wiki.tizen.org/Install_Tizen_Image
+                        https://wiki.tizen.org/Install_Tizen_Image#For_linux
+                                bmap-tools - tool to flash image files to block devices using the block map
+                                http://download.tizen.org/tools/latest-release/
+                https://wiki.tizen.org/Common
+                http://download.tizen.org/
+                        http://download.tizen.org/snapshots/
+                http://distrowatch.com/dwres.php?resource=links#new
+                https://en.wikipedia.org/w/index.php?search=tizen&title=Special:Search&profile=default&fulltext=1&searchToken=ecjnzdaa8csxu0uasykpbffm1
+                https://duckduckgo.com/?q=tizen+on+x86&t=ffab&ia=web
+                https://duckduckgo.com/?q=tizen+amd64&t=ffab&ia=web
+                https://developer.tizen.org/forums/sdk-ide/running-tizen-emulator-on-amd-cpu.
+
+
+
+
 </pre>

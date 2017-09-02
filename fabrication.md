@@ -4,6 +4,8 @@
 Inventory
 ---
 
+as of Sep 01,2017 (2017-09-01)
+
 <table border=1>
 
 <tr>
@@ -79,6 +81,12 @@ Inventory
 <td>String</td>
 <td>2 rolls</td>
 <td>Dollar store</td>
+</tr>
+
+<tr>
+<td>Velcro</td>
+<td>0</td>
+<td>Fabricland</td>
 </tr>
 
 <tr>

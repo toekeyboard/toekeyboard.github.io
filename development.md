@@ -1984,6 +1984,7 @@ Deliverables
 
 -higher up has higher priority
 
+<pre>
 
 <table border=1>
 <tr>
@@ -2059,15 +2060,7 @@ Feb 22, 2017
 	</td>
 </tr>
 </table>
-
-
-
-<pre>
-
-
-
-
-
+</pre>
 
 <hr>
 
@@ -2081,6 +2074,7 @@ Feb 22, 2017
 
 
 
+<pre>
 ----toe begin
 ----toe start
 

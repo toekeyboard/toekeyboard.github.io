@@ -3156,4 +3156,13 @@ https://en.wikipedia.org/wiki/Mobile_operating_system#Market_share
 
 
 
+https://riot.im/app/#/room/#CopperheadOS:matrix.org
+https://en.wikipedia.org/wiki/CopperheadOS
+https://www.reddit.com/r/CopperheadOS/
+https://en.wikipedia.org/wiki/List_of_custom_Android_distributions
+
+https://www.reddit.com/r/Android/comments/6x6o68/stop_trying_to_kill_the_headphone_jack/dmdmfrk/
+
+
+
 </pre>

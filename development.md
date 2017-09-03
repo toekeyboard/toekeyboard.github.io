@@ -3149,6 +3149,10 @@ https://duckduckgo.com/?q=android+bittorrent+apk&t=ffab&ia=web
                 https://duckduckgo.com/?q=tizen+amd64&t=ffab&ia=web
                 https://developer.tizen.org/forums/sdk-ide/running-tizen-emulator-on-amd-cpu.
 
+https://en.wikipedia.org/wiki/Mobile_operating_system#Market_share
+        https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Crossover_to_smartphones_having_majority_share
+        https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Crossover_to_smartphones_having_majority_share
+
 
 
 

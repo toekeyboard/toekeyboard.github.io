@@ -3165,4 +3165,13 @@ https://www.reddit.com/r/Android/comments/6x6o68/stop_trying_to_kill_the_headpho
 
 
 
+
+https://en.wikipedia.org/wiki/Square,_Inc.
+https://squareup.com/
+https://squareup.com/contactless-chip-reader
+	https://squareup.com/compatibility
+https://www.google.com/finance?q=nyse%3Asq&ei=MPKrWaiVOsva2AbU4J3gDg
+
+
+
 </pre>

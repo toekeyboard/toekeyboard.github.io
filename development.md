@@ -1985,7 +1985,6 @@ Deliverables
 -higher up has higher priority
 
 <pre>
-
 <table border=1>
 <tr>
 <td><b>Organisation</b></td>
@@ -1996,11 +1995,9 @@ Deliverables
 
 <tr>
 <td>
-<pre>
-	https://www.dancepirationsacademy.com/
-		Dancepirations Academy
-		6545 Hwy 7 East, Unit 15&16, MARKHAM
-</pre>
+https://www.dancepirationsacademy.com/
+	Dancepirations Academy
+	6545 Hwy 7 East, Unit 15&16, MARKHAM
 </td>
 <td>10</td>
 <td>Undelivered</td>
@@ -2009,17 +2006,16 @@ Deliverables
 
 <tr>
 <td>
-<pre>
-	http://www.kukrisports.ca/
-		30 Royal Crest, Unit #1, Markham
-		https://en.wikipedia.org/wiki/Kukri_Sports
-			Kukri provide sportswear - playing kit, training kit, leisurewear and accessories - for over 100 sports worldwide.
-			http://www.kukrisports.com/
-</pre>
+http://www.kukrisports.ca/
+	30 Royal Crest, Unit #1, Markham
+	https://en.wikipedia.org/wiki/Kukri_Sports
+		Kukri provide sportswear - playing kit, training kit, leisurewear and accessories - for over 100 sports worldwide.
+		http://www.kukrisports.com/
+
+	Team members 	9 (https://en.wikipedia.org/wiki/Baseball) + manager?
 </td>
 <td>
 10
-Team members 	9 (https://en.wikipedia.org/wiki/Baseball) + manager?
 </td>
 <td>
 Undelivered
@@ -2031,11 +2027,9 @@ Jun 02, 2017
 
 <tr>
 <td>
-<pre>
 	Dr Robot Inc
 	85 Royal Crest Ct #8, Markham	(NW Birchmount & 14th)
 	drrobot.com
-</pre>
 </td>
 <td>
 2
@@ -2050,14 +2044,16 @@ Feb 22, 2017
 
 
 <tr>
-	<td>
-	</td>
-	<td>
-	</td>
-	<td>
-	</td>
-	<td>
-	</td>
+
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+
 </tr>
 </table>
 </pre>

@@ -1522,6 +1522,7 @@ Entrepreneurial / Startup Resouces Links
 Marketing / Business / Advertising
 ---
 <pre>
+http://www.npr.org/podcasts/510313/how-i-built-this
 
 https://news.ycombinator.com/
 

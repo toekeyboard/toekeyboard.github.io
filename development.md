@@ -3178,12 +3178,25 @@ https://www.reddit.com/r/Android/comments/6x6o68/stop_trying_to_kill_the_headpho
 
 
 
-
+----square
+----squareup.com
+----square inc
 https://en.wikipedia.org/wiki/Square,_Inc.
 https://squareup.com/
 https://squareup.com/contactless-chip-reader
 	https://squareup.com/compatibility
 https://www.google.com/finance?q=nyse%3Asq&ei=MPKrWaiVOsva2AbU4J3gDg
+
+
+----square reader
+https://github.com/search?utf8=%E2%9C%93&q=square+reader&type=
+https://github.com/search?p=2&q=square+reader&type=Repositories&utf8=%E2%9C%93
+https://github.com/markrcummins/square_reader_research
+https://github.com/markrcummins/square_reader_research/blob/master/695SquareReaderFinal%20(2).pdf
+https://github.com/ljv5555/card-swipe-data-reader
+https://github.com/guilt/pyaudio-square/blob/master/main.py
+https://github.com/lann/square-reader
+
 
 
 

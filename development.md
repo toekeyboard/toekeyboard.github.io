@@ -3197,6 +3197,27 @@ https://github.com/ljv5555/card-swipe-data-reader
 https://github.com/guilt/pyaudio-square/blob/master/main.py
 https://github.com/lann/square-reader
 
+pip install oss
+pip install pyaudio
+python-pyaudio - Python bindings for PortAudio v19
+
+audioop
+ossaudiodev
+/dev/audio
+
+
+jackd - JACK Audio Connection Kit (default server package)
+jackd2 - JACK Audio Connection Kit (server and example clients)
+libjack-jackd2-0 - JACK Audio Connection Kit (libraries)
+libjack-jackd2-dev - JACK Audio Connection Kit (development files)
+
+pulseaudio - PulseAudio sound server
+pulseaudio-utils - Command line tools for the PulseAudio sound server
+
+osspd - OSS Proxy Daemon: Userland OSS emulation
+osspd-alsa - OSS Proxy Daemon: ALSA backend (experimental)
+osspd-pulseaudio - OSS Proxy Daemon: PulseAudio backend
+
 
 
 

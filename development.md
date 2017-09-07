@@ -2978,6 +2978,10 @@ http://i.imgur.com/dflgBdM.gif                  //snail
 
 
 
+----rapping baby
+https://9gag.com/gag/ad9vj6D     ( ͡° ͜ʖ ͡°) 
+https://9gag.com/gag/a9AzyWo     This baby is so angry. 
+
 
 
 

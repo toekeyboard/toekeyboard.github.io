@@ -12,7 +12,9 @@ Annual General Meeting (AGM) / Mini-Conference (every April)
 
 [Year-Month-Day] [Attendance] [Audio\_file]  
 [YYYY-MM-DD] [Attendance] [Audio\_file]  
-.........................
+
+<hr>
+
 <span id="Previous" />	
 Previous
 ---

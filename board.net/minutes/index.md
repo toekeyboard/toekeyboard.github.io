@@ -10,14 +10,14 @@ Meeting minutes
 <hr>
 Annual General Meeting (AGM) / Mini-Conference (every April)
 
-Year-Month-Day  
-YYYY-MM-DD  
+Year-Month-Day Attendance Audio\_file
+YYYY-MM-DD Attendance Audio\_file
 .........................
 <span id="Previous" />	
 Previous
 ---
 [2017-06-20](2017/06/20/2017-06-20.html)  
-[2017-07-18](2017/07/18/2017-07-18.html) &nbsp;&nbsp;&nbsp;&nbsp; Cancelled
+[2017-07-18](2017/07/18/2017-07-18.html) &nbsp;&nbsp;&nbsp;&nbsp; 0
 [2017-08-15](2017/08/15/2017-08-15.html) &nbsp;&nbsp;&nbsp;&nbsp; [audio (1:00:02) (35M)](2017/08/15/2017-08-15.ogg) 
 
 <span id="Upcoming" />	

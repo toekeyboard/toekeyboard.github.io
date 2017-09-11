@@ -2907,6 +2907,10 @@ aug 29
 		134 Shaftsbury Avenue
 		https://richmondhill.snapd.com/#/events/view/1072438
 
+sep 10
+	-2
+		https://www.meetup.com/es/GTA-Robotics/events/243210592/
+
 
 
 

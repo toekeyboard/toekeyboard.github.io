@@ -4,6 +4,87 @@
 Next Steps / To Do
 ---
 <pre>
+
+
+
+
+
+-get linux demo / alsa hacking to work
+	-espeak / apertium translation
+-get linux application to work
+	-python
+	-hdajackretask
+
+
+
+
+-get android application to compile 	dotdash (apk)
+-get 'android update-project' to work
+	-debian android build tools
+	-docker
+	-vmware/virtualbox/qemu
+	-try installing android studio on linux mint
+
+
+
+
+----gta-robotics / 3dboot / pickering ideas
+	-use a transitor / MOSFET
+	-opamp
+
+	-build the oscilliscope / multimeter from alsa
+
+	-measure voltage / current out at speakers
+
+
+
+
+
+
+
+
+
+----toekeyboard gaming
+	-make pokemon / bug rapping game
+		-if can detect face, superimpose mouth onto bug
+		-ranking of who has the sickest raps / rarest bugs&animals
+		-neural network / ai rapping bot
+		-grab wikipedia article of which bug/animal you have.  confirmed or deconfirmed by users.  basically taking video
+			-the rarer the bugs, the more points you get
+		-have live rap battles agains other people
+
+	-have dance battles with other dance students
+		-who can finish the most dance steps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -figure out how to re-compile f-droid programs, create apk
 
 -figure out how to write android ndk c programs, access alsa driver
@@ -3226,6 +3307,51 @@ osspd - OSS Proxy Daemon: Userland OSS emulation
 osspd-alsa - OSS Proxy Daemon: ALSA backend (experimental)
 osspd-pulseaudio - OSS Proxy Daemon: PulseAudio backend
 
+
+
+
+https://en.wikipedia.org/wiki/List_of_mobile_app_distribution_platforms
+	https://en.wikipedia.org/wiki/BlackBerry_World
+	https://en.wikipedia.org/wiki/Microsoft_Store
+	https://en.wikipedia.org/wiki/App_Store_(iOS)
+	https://en.wikipedia.org/wiki/Google_Play
+	https://en.wikipedia.org/wiki/Windows_Phone_Store
+
+
+
+https://en.wikipedia.org/wiki/Phablet
+https://en.wikipedia.org/wiki/Timeline_of_Xiaomi
+https://en.wikipedia.org/wiki/Xiaomi_Mi_MIX
+https://en.wikipedia.org/wiki/Xiaomi_Mi_MIX_2
+https://www.thestar.com/business/tech_news/2017/09/11/iphone-unveiling-what-to-expect-at-apples-big-event.html
+
+
+
+$wajig search gradle
+libgradle-android-plugin-java - Android Plugin for Gradle
+gradle - Powerful build system for the JVM
+libgradle-core-java - Powerful build system for the JVM - Core libraries
+libgradle-plugins-java - Powerful build system for the JVM - All plugins
+
+
+apksigner - command line tool to sign and verify Android APKs
+
+
+
+https://9gag.com/gag/am21AA2	Science B*tch!
+	Electrick	touch-sensitive spray
+http://www.tonvid.com/info.php?video_id=38h4-5FDdV4	Electrick: Low-Cost Touch Sensing Using Electric Field Tomography
+http://www.tonvid.com/info.php?video_id=MjETHULN2U0	Turn Any Surface Into A Touch Screen!
+
+
+
+
+
+
+https://developer.apple.com/documentation/coreml
+https://duckduckgo.com/?q=core+ml&t=ffab&ia=web
+https://en.wikipedia.org/wiki/Standard_ML
+https://en.wikipedia.org/wiki/Concurrent_ML
 
 
 

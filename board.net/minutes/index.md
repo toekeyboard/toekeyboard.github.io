@@ -35,7 +35,7 @@ Upcoming
 2018-01-16  
 2018-02-20  
 2018-03-20  
-2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  2018 AGM / Mini-Conference  
+2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  2018 AGM / Mini-Conference / Mini-Hackathon
 2018-05-15  
 2018-06-19  
 2018-07-17  
@@ -48,7 +48,7 @@ Upcoming
 2019-01-15  
 2019-02-19  
 2019-03-19  
-2019-04-16  &nbsp;&nbsp;&nbsp;&nbsp;  2019 AGM / Mini-Conference   
+2019-04-16  &nbsp;&nbsp;&nbsp;&nbsp;  2019 AGM / Mini-Conference / Mini-Hackathon
 2019-05-21  
 2019-06-18  
 2019-07-16  

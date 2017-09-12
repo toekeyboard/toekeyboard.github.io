@@ -41,6 +41,26 @@
 
 
 
+----android todo
+
+-figure out how to re-compile f-droid programs, create apk
+
+-figure out how to write android ndk c programs, access alsa driver
+    ~$wajig search android ndk
+    google-android-ndk-installer - Google Android Native Development Kit (NDK) Installer
+        Length: 755551010 (721M) [application/zip]
+        Saving to: ‘android-ndk-r12b-linux-x86_64.zip’
+
+
+
+
+
+
+
+
+
+
+
 
 
 ----toekeyboard gaming
@@ -69,6 +89,95 @@
 
 
 
+-get android toekeyboard demo to work   
+
+-start seeding toekeyboard on glt
+
+-make binary trees des autres langues
+
+-hack android alsa
+    https://gitlab.com/axet/android-audio-library
+    https://gitlab.com/axet/android-torrent-client
+
+-do live streaming (ogg) of meetings (1 hr)
+    https://9gag.com/gag/a6VNxDL?ref=fsidebar   Add yours
+        Open Broadcaster - Video recording and live streaming
+
+    https://en.wikipedia.org/wiki/Ogg
+    https://en.wikipedia.org/wiki/Icecast
+
+    oggfwd - basic icecast source client for audio and video streaming
+    oggvideotools - toolbox for manipulating and creating Ogg video files
+    oggz-tools - utilities for mangling Ogg streams
+    nanoblogger - Small weblog engine for the command line
+        http://nanoblogger.sourceforge.net/docs/nanoblogger.html
+        http://nanoblogger.sourceforge.net/
+
+    https://en.wikipedia.org/wiki/RadioTux
+
+-make windows .exe / .msi
+    -see how transmission / synergy does it
+        -transmission
+            https://github.com/transmission
+            https://github.com/transmission/transmission
+            https://github.com/transmission/transmission/issues
+            https://github.com/transmission/transmission-releases
+            https://github.com/transmission/transmission.github.io
+
+            https://transmissionbt.com/resources/
+                https://i-miss-erin.blogspot.ca/2010/09/use-transmission-in-android.html
+                    https://code.google.com/archive/p/transdroid
+                        https://github.com/erickok/transdroid
+                        http://www.transdroid.org/
+                            http://www.transdroid.org/download/using-transmission-on-ubuntu/
+                        https://play.google.com/store/apps/details?id=org.transdroid.lite
+                https://code.google.com/archive/p/itransmission/
+                    github.com/ccp0101/iTransmission        //2011
+                https://forum.transmissionbt.com/   
+                    https://forum.transmissionbt.com/viewtopic.php?f=16&t=18087
+                https://build.transmissionbt.com/
+
+        -synergy
+            https://github.com/symless/synergy
+            https://github.com/symless/synergy/releases
+            https://github.com/symless/synergy-android-cyanogen
+                We use the uinput module for user space input driver, so you must have
+                a modded Android with access to /dev/uinput (Like Cyanogen). That means
+                your android must have /dev/uinput module and this file can be RW by app.
+            https://symless.com/synergy
+
+    https://en.wikipedia.org/wiki/Special:Search?search=windows+on+linux&go=Go&searchToken=2z4r93bmzatkdvkl4uta78rz3
+    https://en.wikipedia.org/wiki/Mono_(software)
+        https://en.wikipedia.org/wiki/Xamarin
+        https://en.wikipedia.org/wiki/Ximian
+    https://en.wikipedia.org/wiki/MonoDevelop
+    https://www.linuxquestions.org/questions/linux-desktop-74/how-to-create-windows-executable-from-linux-481159/
+
+    https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux
+    https://en.wikipedia.org/wiki/Cooperative_Linux
+    https://en.wikipedia.org/wiki/Cygwin
+    https://en.wikipedia.org/wiki/Wine_(software)
+    https://en.wikipedia.org/wiki/FreeBSD#OS_compatibility_layers
+
+    https://en.wikipedia.org/wiki/Executable_space_protection
+
+    https://en.wikipedia.org/wiki/Windows_10_Mobile
+    https://en.wikipedia.org/wiki/Windows_Phone
+    https://en.wikipedia.org/wiki/Microsoft_Surface
+        https://en.wikipedia.org/wiki/Surface_computer
+        https://en.wikipedia.org/wiki/Surface_3
+
+    https://en.wikipedia.org/wiki/Linux_adoption
+    https://en.wikipedia.org/wiki/Criticism_of_Linux
+        https://en.wikipedia.org/wiki/Criticism_of_desktop_Linux
+        https://en.wikipedia.org/wiki/Criticism_of_Microsoft_Windows
+        https://en.wikipedia.org/wiki/The_Unix-Haters_Handbook
+
+-make blackberry OS app
+    -compile bb OS / playbook application, on linux
+    https://developer.blackberry.com/native/download/
+    -cherche ----blackberry os
+    https://github.com/search?utf8=%E2%9C%93&q=blackberry+playbook&type=Repositories
 
 
 
@@ -84,13 +193,898 @@
 
 
 
--figure out how to re-compile f-droid programs, create apk
 
--figure out how to write android ndk c programs, access alsa driver
-    ~$wajig search android ndk
-    google-android-ndk-installer - Google Android Native Development Kit (NDK) Installer
-        Length: 755551010 (721M) [application/zip]
-        Saving to: ‘android-ndk-r12b-linux-x86_64.zip’
+
+
+
+
+
+-setup:
+    -need to register account
+    https://riot.im/app/#/room/#toekeyboard:matrix.org
+
+    http://www.reddit.com/r/toekeyboard
+    https://www.twitter.com/toekeyboard
+    https://www.facebook.com/toekeyboard
+    https://www.instagram.com/toekeyboard
+    https://www.snapchat.com/toekeyboard
+    https://www.pinterest.com/toekeyboard
+
+    https://botbot.me/freenode/toekeyboard/     //need to submit for review
+        https://botbot.me/request/
+    https://f-droid.org/packages/com.github.toekeyboard.toekeyboard/    //need to submit for review
+        https://f-droid.org/contribute/
+            https://f-droid.org/wiki/page/Inclusion_Policy
+            https://gitlab.com/fdroid/rfp/issues
+            https://f-droid.org/docs/
+
+    https://toekeyboard.wordpress.com/
+    https://medium.com/toekeyboard
+        https://medium.com/@femion/
+        https://en.wikipedia.org/wiki/Medium_(website)
+            https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)
+
+
+    -source code accounts
+        sourceforge, launchpad, bitbucket
+        github (cancelled?), gitlab (no mailinator allowed)
+
+
+
+
+
+
+
+
+-make info gif
+    https://9gag.com/gag/a6VqpL8     Science b*tch 
+
+
+
+
+
+
+    -start logging toekeyboard irc
+        -post up on website
+
+
+
+-promotion
+    -for everyone ordered, will also give one to blind person  (CNIB-Canada, NIB-USA)
+
+
+-make product page
+
+
+
+-start a wearable computing magazine?
+
+
+
+-dotdash f-droid keyboard improvements
+    -instead of 'L'/'R', have the next letters show up in its place
+
+
+
+
+
+
+
+    ----quadro-copter
+    battery in quadro-copter
+        DS 902351
+        3.7Vdc  800mAh
+        2.96Wh  160910
+        Made in China
+
+        Tigerpow
+        Rechargeable
+        Li-Ion Battery
+        1ICP9/24/56
+
+
+
+
+-recruit people to join me
+
+    -what is this?
+        -partnership
+        -project
+        -business / startup
+        -company
+            -promotions company
+            -advertising
+        -side hustle
+
+
+    -what this is not?
+        -MLM / multi-level marketing scheme
+        -pyramid
+        -ponzi scheme
+
+    FAQ
+        -Is this a religion? Like Scientology / spreading the gospel?
+        -What's the difference between spreading an idea, and spreading a religion?
+
+
+    -faire pdf / phamplet, de ce que je faits
+        -become a salesman / seller toekeyboard
+            -talking to dance studios
+            -product representative
+
+        -you keep 100% of sales
+            -no commision to upper tiers (not a MLM / pyramid / ponzi scheme)
+
+        -you're competing against the open source part
+
+        -looking for a side hustle?
+        -become a partner today!
+
+
+
+-have a bittorrent seedbox  (P3, i686), quiet
+
+
+-faire personalized advertisement quand donne les toekeyboards sample kits a les gens.
+
+
+
+    -look for male-to-male 3.5mm connector
+        -wire suppliers
+        -dollar store
+
+
+    -uninstalled Google Apps:
+        AnySoftKeyboard
+        CN Thai Keyboard
+        Vietnamese IME
+
+    -external / outer protective layer
+        -heat shrink wrap 
+        -vinyl (iron pressed)
+
+
+    -print out 
+        -4 charts
+            -english mmemonic tree
+            -A-Z sequential
+            -tap code
+            -scroll
+        -Uses section
+    -short circuit 9V  (wrap with electrical tape)
+    -seed static file on bittorrent
+
+
+
+
+
+
+
+
+
+    -lost tabs (power outtage)
+        Flite  - festival light
+            f-droid
+            gitlab
+        espeak
+
+    -move power cable to APC
+    -install android-x86 on 250GB
+        -move powersupply / graphic card to quad-core
+
+
+    -hook-up op-amp
+        toekeyboard/toekeyboard.github.io/images/prototype/documentation/op_amp/TA75558P.pdf
+        https://www.digchip.com/datasheets/parts/datasheet/487/TA75558P.php
+        https://duckduckgo.com/?q=ta+75558p+op+amp&t=ffab&ia=web
+
+
+----3.5mm audio jack
+    https://en.wikipedia.org/wiki/Phone_connector_%28audio%29
+    http://www.tonvid.com/search.php?order=relevance&safeSearch=none&videoDefinition=any&date_filter=any&videoDuration=any&videotype=any&q=how+are+3.5mm+audio+cables+made&channelTitle=darren+wilson&pageToken=CAoQAA
+    how are 3.5mm audio cables made
+    https://www.youtube.com/watch?v=O4ZbwhmAQfA How to Make a 3.5mm Audio Connector - Basic Audio Technical Training 
+    https://duckduckgo.com/?q=how+to+make+3.5mm+audio+connector&t=ffab&ia=videos
+    https://www.techwalla.com/articles/how-to-make-a-35mm-audio-cable
+    https://duckduckgo.com/?q=manufacture+own+3.5mm+audio+jack&t=ffab&ia=web
+    https://github.com/search?utf8=%E2%9C%93&q=3.5mm+audio+jack&type=
+
+
+
+    -start seeding toekeyboard torrent
+
+    -print out davigrini script (hindi).  rencontre beaucoup de indians
+
+    -relaxus / dr. school   (in pharmacy.  $7 - $20)
+
+    -toekeyboard light demo malfonctionne
+
+
+
+
+    -installing apps from computer
+        -run 'python_server'   ~/mystuff/tonvid/python_server
+        -download from browser on phone     http://192.168.1.59:8000/app.apk
+
+    -accessing downloads
+        Broswer -> 'MENU' -> ... More -> Downloads
+
+        F-droid     'There is a problem parsing the package'
+        dotdash keyboard
+            https://f-droid.org/repo/net.iowaline.dotdash_17.apk
+                tinyurl.com/dodapk
+        AnySoftKeyboard 
+            https://f-droid.org/packages/com.menny.android.anysoftkeyboard/
+            https://f-droid.org/repo/com.menny.android.anysoftkeyboard_2658.apk
+                http://tinyurl.com/askfdsa
+
+            Language&Input  settingsa
+
+        flite
+            https://f-droid.org/packages/edu.cmu.cs.speech.tts.flite/
+            https://f-droid.org/repo/edu.cmu.cs.speech.tts.flite_4.apk
+                http://tinyurl.com/flitefdsa
+
+
+    -installed apps on Froyo (2.2)
+        Googles:  opens, but no connection  (scans image, but stops after that)
+            https://play.google.com/store/apps/details?id=com.google.android.apps.unveil
+                Updated
+                28 May 2014
+                Requires Android
+                2.2 and up
+        Square Register:  need to register
+        Mitzuli  (translator)
+            https://play.google.com/store/apps/details?id=com.mitzuli
+                Updated
+                7 April 2016
+                Requires Android
+                2.2 and up
+        Mobile Accessibility
+            27.18MB
+            https://play.google.com/store/apps/details?id=es.codefactory.android.app.ma.vocalizerenudemo
+                Updated
+                19 September 2016
+                Current Version
+                2.123
+
+
+
+
+
+    https://play.google.com/store/search?q=morse%20code%20keyboard&c=apps
+        https://play.google.com/store/apps/details?id=net.iowaline.dotdash
+            Actualizado 12 de diciembre de 2015
+            Descargas   10.000 - 50.000
+            Requiere Android    1.6 y versiones superiores 
+
+
+            https://github.com/agwells/dotdash-keyboard-android
+                https://f-droid.org/packages/net.iowaline.dotdash/
+                    https://www.youtube.com/watch?v=y5g5OHfjRWA      DotDash Keyboard 
+                https://github.com/agwells/dotdash-keyboard-android/issues
+
+        https://play.google.com/store/apps/details?id=com.arsiwala.shamoil.morsekeyboard
+
+        https://play.google.com/store/apps/details?id=com.ddsoftware.cw.morsecodekeyer.free
+
+
+
+
+
+
+
+
+
+    --typidy keyboard
+        https://play.google.com/store/apps/details?id=com.thumodynamic.typidy_trial
+            oct 28, 2016    500-1000
+            Requiere Android    4.0 y versiones superiores
+        https://play.google.com/store/apps/details?id=com.thumodynamic.typidy
+            oct 28, 2016    10-50
+            Requiere Android    4.0 y versiones superiores
+
+
+
+
+    ----miracast android
+        -essayer mobile de pere avec miracast       
+            -cherche '----miracast android'
+
+        -essayer mobile de pere avec miracast
+            https://play.google.com/store/apps/details?id=com.mattgmg.miracastwidget
+            https://play.google.com/store/search?q=miracast&c=apps
+
+
+        https://f-droid.org/packages/com.mattgmg.miracastwidget/
+            https://github.com/mattgmg1990/miracast-widget
+                https://github.com/mattgmg1990/miracast-widget/issues
+            https://play.google.com/store/apps/details?id=com.mattgmg.miracastwidget
+
+
+    ----fdroid
+    ----f-droid
+        https://f-droid.org/
+            download on froyo (android 2.2).    "There is a problem parsing the package"
+                ~/Downloads$python_server
+                FDroid.apk
+
+            https://f-droid.org/about/
+                https://botbot.me/
+                    https://botbot.me/freenode/fdroid/
+
+                    https://botbot.me/request/
+                        https://github.com/botbotme
+
+            https://f-droid.org/contribute/
+
+
+
+
+
+
+    -goto pacific mall
+        -ask about chinese keyboard at mobile stores.  demo toekeyboard
+        -take pictures of floorplan layout
+
+    -go demo to #2 cable specialist
+        -demo python program
+
+
+
+
+-copy offline osm markham tile pics
+-download youtube vides, donc can view offline
+    -need html offline video player / mpv player in browser?
+
+
+
+
+
+
+
+----bluez
+----bluetooth
+    root@59-debian:/home/yorlov# wajig search bluez
+    bluez - Bluetooth tools and daemons
+    bluez-cups - Bluetooth printer driver for CUPS
+    bluez-dbg - Bluetooth tools and daemons (with debugging symbols)
+    bluez-hcidump - Analyses Bluetooth HCI packets
+    bluez-obexd - bluez obex daemon
+    bluez-test-scripts - test scripts of bluez
+    bluez-test-tools - test tools of bluez
+    libkf5bluezqt-data - data files for bluez-qt
+    libkf5bluezqt-dev - development files for bluez-qt
+    libkf5bluezqt6 - Qt wrapper for bluez
+    qml-module-org-kde-bluezqt - QML wrapper for bluez
+    bluez-tools - Set of tools to manage Bluetooth devices for linux
+    python-bluez - Python wrappers around BlueZ for rapid bluetooth development
+    bluez-firmware - Firmware for Bluetooth devices
+
+
+
+    lshw (1)             - list hardware
+
+    # apropos bluetooth
+    # apropos bluetooth
+    bluetoothctl (1)     - bluetooth control tool
+    bluetoothd (8)       - Bluetooth daemon
+    bt-adapter (1)       - a bluetooth adapter manager
+    bt-agent (1)         - a bluetooth agent
+    bt-device (1)        - a bluetooth device manager
+    bt-network (1)       - a bluetooth network manager
+    bt-obex (1)          - a bluetooth OBEX client/server
+    btmon (1)            - Bluetooth monitor
+    ciptool (1)          - Bluetooth Common ISDN Access Profile (CIP)
+    gatttool (1)         - tool for Bluetooth Low Energy device
+    hciconfig (1)        - configure Bluetooth devices
+    hcitool (1)          - configure Bluetooth connections
+    hid2hci (1)          - Bluetooth HID to HCI mode switching utility
+    mpris-proxy (1)      - Bluetooth mpris-proxy
+
+    # lsusb
+    Bus 003 Device 117: ID 0a5c:2045 Broadcom Corp. Bluetooth Controller
+
+
+    # hciconfig scan
+    hci0:   Type: Primary  Bus: USB
+        BD Address: 06:D4:2F:28:8A:9E  ACL MTU: 1017:8  SCO MTU: 64:0
+        DOWN
+        RX bytes:473 acl:0 sco:0 events:18 errors:0
+        TX bytes:69 acl:0 sco:0 commands:18 errors:0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    https://www.reddit.com/r/toekeyboard
+        https://www.reddit.com/subreddits/search?q=toekeyboard
+
+
+
+    -add powerpoint presentation to toekeyboard (graphviz)
+                start
+            /        \
+        backward one slie   forward one slide
+        /               \
+    backward 5 slides           forward 5 slides
+
+
+
+
+
+
+
+
+
+
+
+    -arbeit aus toekeyboard
+        -goto wire suppliers, on morningside rd.
+
+        -splice video (to demo what's happening)  (00.mp4 & 01.mp4)
+
+
+        -develop pour android-x86
+            Android Runtime
+
+            -install android-x86 on usbkey
+                # dd if=/dev/zero of=/dev/sdc bs=512M
+                Downloads/android-x86_64-7.1-rc1.iso
+                     785M Jul 22 19:44 android-x86_64-7.1-rc1.iso
+
+        -get demo to fonction sur mobile de pere
+            -cherche ----LG V10
+
+        -upgrade ubuntu kernel to lastest, re-install android studio sdk
+            -expand hdd from 40GB to 80GB
+        -get morse-to-text-to-speech demo to work on debian linux
+            -so can demo at ham radio clubs
+        -work on toekeyboard debian linux demo      (delete/space/enter)
+            -morse code (toekeyboard) -> text -> speech (espeak) demo in debian linux
+        -bouger toekeyboard.github.io -> tinyurl.com/toekeyboard.  avoir glt postings dans bittorent, de source code
+        -have espeak demo to work, alors peut donner des presentations / indroduction
+        -faire application de dance, pour montrer a les institutions de dance
+
+        -get demo to work in debian linux, then android-x86
+        -avoir android-sdk fonction
+            android-sdk - Software development kit for Android platform
+
+        -setup toekeyboard annual conference / AGM 
+
+
+
+
+
+
+    -toekeyboard order form
+        -make board.net/p/toekeyboard-orderform
+        -put up actual orders, donations, priority
+
+
+
+    ----dancing / playing music video
+        -using gps / pass a threshold
+        -just make ddr
+        -use orientation sensors, so you have to spin
+
+        -speed up / slow down music
+
+        -typing training / like mavis bacon
+
+        -ddr / morse code training
+
+        -speed typing with your toes / in sync with music / lyrics
+
+
+
+
+
+
+
+
+-new print runs / advertising
+    #toekeyboard
+    tinyurl.com/toekeyboard0
+
+    -print new
+        tinyurl.com/toekeyboard -> bitly.com/wxyz -> tinyurl.com/toekeyboard-YYYYMMDD
+
+    -start seeding
+        (toekeyboard.github.io) -> bitly.com/xyz -> tinyurl.com/toekeyboard -> bitly.com/wxyz -> tinyurl.com/toekeyboard-YYYYMMDD
+        (toekeyboard.github.io) -> bitly.com/xyz -> tinyurl.com/toekeyboard0 -> bitly.com/wxyz -> i.imgur.com
+        (toekeyboard.github.io) -> bitly.com/xyz -> tinyurl.com/toekeyboard-YYYYMMDD
+            (0,1,2...)
+
+    -tinyurl.com/toekeyboard -> i.imgur.com/gifv    
+        toekeyboard_full.gif
+
+    -statistics
+        goo.gl  (all time)
+            http://goo.gl/VZGG0+
+        bitly.com   (only last 10 days)
+        ow.ly
+
+
+
+-download wikipedia article for morse code table, donc peut voir offline
+
+-get all apertium langues installed
+    http://wiki.apertium.org/wiki/List_of_language_pairs
+        trunk, staging, nursery, incubator
+    -get polish (pl) / romanian (ro) to work
+        $apertium -l | grep ro
+        ro-es
+
+
+
+-use d3.js, to graph how many people i have given it to, compared to time
+    -graph how many bittorrent downloads
+
+
+
+    -cherche
+        ----android sdk
+        ----android ndk
+        ----android runtime
+        ----android app development
+
+        ----remixos
+        ----android-x86
+
+
+
+
+
+    -make manufacturer directory
+        canadian / chinese
+
+
+    ----order form
+    -faire 'order form'
+        -organization
+        -location
+        -link to their glt profile
+        -# of sample business cards
+        -# of complete toekeyboards
+
+        order form
+            address & location
+            quantity
+            priority
+            -request date
+        pending & waitlist
+        Fulfilled
+            -delivery date
+            quantity delivered
+
+        -have javascript, sortable tables
+
+
+
+
+
+
+    -trouver pourquoi <iframe> ne fonction pas
+        <br><iframe src="hello.txt" style="border:1; width:100%; height:450px;"></iframe>
+
+
+
+    -put habla / espeak in trans/ directory
+    -resolder second toekeyboard
+
+
+
+
+    --done / re-do
+        -etre certain toekeyboard demo fonction
+        -put toekeyboard.github.io/index.html on acer / bb playbook
+            /media/usb/downloads/toekeyboard_html       //when mounted in debian
+            file:///sdcard/download/toekeyboard_html/index.html
+
+            -reduce image sizes (2MB -> 30k)
+
+        -download board.net/p/txt
+        -copy over this planner file
+
+
+        -move toekeyboard/ssh$ outside of directory
+            -before going to next bbq line-ups
+        -!move ssh/ out of toekeyboard
+
+
+
+
+    -download offline OSM maps
+        -add partners to location.  
+            wire supplier / financial brokerage firm / treefrog
+            -105gibson
+
+
+
+    -avoir offline ydl123 fonction
+        -perisian / farsi videos  (entertainment / news)
+
+    -faire plus de toekeyboard demo kits  (pour donner a les bbq rencontre)
+
+    -print out toekeyboard meeting times            //avec garmen lee,  world financial group
+        -if he starts asking personal / history questions
+        -we're talking about the future, he's talking about the past
+        -doing it on his turf, invited to his house.  so need to follow his rules
+        -dont leave till he kicks me out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-velcro straps toekeyboard to knees
+-make second toekeyboard with ethernet cables
+-make html tables, assign material acquisition to who
+
+
+
+
+
+https://en.wikipedia.org/wiki/Chief_visionary_officer
+
+----franchise toekeyboard
+    -franchise out toekeyboard distributors
+
+
+----ani
+https://en.wikipedia.org/wiki/Group_identifier
+https://en.wikipedia.org/wiki/Two-way_radio
+https://en.wikipedia.org/wiki/Squelch
+https://en.wikipedia.org/wiki/Selective_calling
+https://en.wikipedia.org/wiki/Automatic_number_identification
+    https://en.wikipedia.org/wiki/Automatic_number_announcement_circuit
+    https://en.wikipedia.org/wiki/Dialed_Number_Identification_Service
+    https://en.wikipedia.org/wiki/Direct_inward_dial
+
+
+    ----toekeyboard hackathon competition
+        https://en.wikipedia.org/wiki/Boston_Beer_Company#LongShot_American_Homebrew_Competition
+
+    ----toekeyboard market
+        https://www.therecord.com/news-story/6081559-thalmic-launches-app-market-for-myo-armband/           Nov 05, 2015
+            https://market.myo.com/
+
+
+    -have employees with "Caught you using toekeyboard". business card.  golden ticket
+        00:38:00    20170317_hibt_kscott-0f8abfb0-66da-46f1-9b10-11349fc1ecbd.mp3?orgId=1&d=2663&p=510313&story=520531137&t=podcast&e=520531137&siteplayer=true&dl=1
+        https://en.wikipedia.org/wiki/Kendra_Scott
+             March 20, 2017
+            Kendra Scott: Kendra Scott
+
+        -get a free wearable bone conduction hearing system
+        -goto specific store, anytime
+
+
+
+    -post back up on snapd markham / eventbrite
+
+    -develop for Replicant / lineageOS  (Android fork)
+        -instead for iOS / Android
+
+    -make line sheet / order form.  how many toekeyboards do you want
+        https://en.wikipedia.org/wiki/Line_sheet
+
+        -go get resources, and i will make it for you
+            -clear tape
+            -chinese string
+            -aluminum foil
+            -plastic
+
+            -ethernet cable
+            -3.5mm audio jack
+
+        -then move into RTL contract manufacturing
+        -build tools myself
+
+
+
+
+    ----airturn
+        http://www.tonvid.com/info.php?video_id=80OVgx5Q7T4 Hands Free Page Turns for iPad Musicians with the AirTurn BT-105 Bluetooth Page Turner
+        http://www.tonvid.com/info.php?video_id=QHTqilI_uzw AirTurn and Virtual Sheet Music Viewer Application for iPad, iPhone and iPod Touch
+        http://www.tonvid.com/info.php?video_id=swCpq88H608 New Airturn PED Review with Onsong
+        airturn
+        ipad sheet-music foot switch
+
+        https://www.wired.com/2010/07/ipad-sheet-music-foot-switch-is-a-real-page-turner/
+        https://duckduckgo.com/?q=ipad+music+foot+switch&t=ffab&ia=products
+
+
+    ----sponsorship toekeyboard
+    ----advertising toekeyboard
+    ----promotion toekeyboard
+    ----schlepper toekeyboard
+        paper handout, with tinyurl.com/toekeyboard -> bit.ly/goo.gl (for traffic metrics) -> imgur.com (gif with instructions) -> tinyurl.com/toekeyboard-yyyy-mm-dd -> bittorrent
+
+
+        -get companies to purchase the wire
+        -i do the manufacturing / fabrication
+        -give away toekeyboards away for free at events, where there's line-ups
+            -drive traffic to a (url shortener), bit.ly.  keep track of how much traffic driven to website. how many cpc (cost per click)
+
+
+            ----register websites
+                toekeyboard.com
+                    ~$whois toekeyboard.com
+                        No match for domain "TOEKEYBOARD.COM".
+                gettoekeyboard.com
+                https://www.facebook.com/toekeyboard
+                https://www.twitter.com/toekeyboard
+                https://www.instagram.com/toekeyboard
+                https://www.youtube.com/toekeyboard
+
+        -find a sponsor to purchase 
+            -3.5mm TRS audio jack from sayal    (bulk)
+                <a href="http://sayal.com/zinc/zinc_SEARCH.asp?txtSEARCH=3.5+stereo" target="_blank">3.5 stereo (audio jack / 3.5mm stereo connector)</a>
+                <a href="http://sayal.com/zinc/zinc_SEARCH.asp?txtSEARCH=3.5mm" target="_blank">3.5mm (audio jack / 3.5mm stereo connector)</a>
+
+
+            -ethernet cable, aluminum
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ----variety village
+        3701 Danforth Ave, Scarborough
+
+        mike honey, Parks Canada
+            -out patient recovery / re-habilitation
+            -"occupational therapy?"
+            -started by lake ontario swimmer?  marion bell
+
+        http://www.varietyvillage.ca/
+            Variety Village is a family-friendly fitness, sports and life skills facility in Toronto.
+
+            http://www.varietyvillage.ca/join/membership-options/
+                Variety Village is the only facility that offers membership to people with and without disabilities and promotes inclusion through integrated programs and services. 
+
+            http://www.varietyvillage.ca/about-us/
+                3701 Danforth Ave, Scarborough
+
+            http://www.varietyvillage.ca/history/
+
+        https://duckduckgo.com/?q=variety+village+scarborough&t=ffab&ia=places
+
+        https://twitter.com/varietyvillage
+        https://www.facebook.com/VarietyVillageToronto
+            https://www.facebook.com/pg/VarietyVillageToronto/about/?ref=page_internal
+                3701 Danforth Ave., Toronto
+        https://www.youtube.com/channel/UC7wCSW4Yg2kN77vd2EAt0uw/videos
+        https://www.instagram.com/variety_village/
+
+
+    ----105 Gibson Centre
+        105 Gibson Dr, Markham
+        www.105gibson.com
+        Thrift Store
+        Food bank
+        twitter.com/105gibson
+        instagram.com/105gibson
+        facebook.com/105gibson
+
+
+    ----st john's ambulance youth squad
+        Crosby Heights Public School
+        190 Neal Dr, Richmond Hill    (NW   Major Mackenzie & Bayview)
+        Ellen 416-738-5753
+        meets:  Thurs 7:30-9pm  (not in summer).  sep-jun?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ----phrases
+    ----sentences
+    ----ctr-l R phrases
+    ----history search des phrases
+        -demo'ing
+        -want Ctr-R / History of top sentences
+            -donc peut repetter les phrases les plus frequent
+
+        -transition de imprimer aveces les orteils -> puis imprimer sur le clavier avec les droits -> puis parlant
+
+
+
+    -DIAS - discreet information acquisition system
+
+
+    ----meme toekeyboard
+    ----shitpost toekeyboard
+        -test with another shitpost board.net/p/meme
+            -like 
+                https://www.reddit.com/r/Physics/comments/40zhxn/is_this_100_accurate_about_spacetime/
+                http://imgur.com/ruejpSZ        An Explanation of Spacetime
+                    http://imgur.com/gallery/ruejpSZ
+            -see who will post on it
+
+
+        tinyurl.com/toekeyboard 
+            -imgur.com/6JkJcqA      (gif/meme, with tinyurl.com/toekeyboard-yyyymmdd instructions)
+                http://imgur.com/gallery/6JkJcqA    Kid gives Megatron Optimus Prime's Head on a Stick
+                    http://imgur.com/6JkJcqA
+                http://imgur.com/gallery/lrGbr      The same image of Robbie Rotten, but every day I randomly remove another pixel added to the amount I removed previously. Day Number Fifty-Two.
+            -board.net/p/toekeyboard    (open discussion)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

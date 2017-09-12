@@ -4,11 +4,6 @@
 Next Steps / To Do
 ---
 <pre>
-
-
-
-
-
 -get linux demo / alsa hacking to work
 	-espeak / apertium translation
 -get linux application to work
@@ -28,6 +23,35 @@ Next Steps / To Do
 
 
 
+-----audio app
+	HTC:  Android 2.2
+
+	https://f-droid.org/packages/net.bitplane.android.microphone/		1.5
+		microphone
+		bitplane.net
+		https://github.com/bitplane/Microphone
+		bitplane.net/projects/android		//defunct
+	https://f-droid.org/packages/net.iowaline.dotdash/			1.6
+		DotDash Keyboard
+		Morse code keyboard
+	https://f-droid.org/packages/fr.herverenault.directdictaphone/		2.1
+		Direct Dictaphone
+		Record short audio notes
+
+	https://f-droid.org/packages/com.github.axet.audiorecorder/		2.3
+		Audio Recorder
+		Record audio files
+		"There is a problem parsing the package"
+	https://f-droid.org/packages/org.billthefarmer.scope/			4.0
+	https://f-droid.org/packages/com.mantz_it.rfanalyzer/			4.0
+	https://f-droid.org/packages/eu.mrogalski.saidit/			4.0
+		Echo
+		Record audio in the backgroud
+	https://f-droid.org/packages/com.danielkim.soundrecorder/		4.1
+
+
+
+
 ----gta-robotics / 3dboot / pickering ideas
 	-use a transitor / MOSFET
 	-opamp
@@ -39,6 +63,11 @@ Next Steps / To Do
 
 
 
+
+
+-infra-red from one shoe to the other.  bluetooth chip to phone.
+-infra-red from both feet upto phone. with infra-red receiver attached to micro usb
+	http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=infrared+receiver+microusb
 
 
 
@@ -55,6 +84,18 @@ Next Steps / To Do
 
 
 
+
+
+
+~$wajig search scope
+bitmeter - diagnosis tool for JACK audio software
+cscope - interactively examine a C program source
+diffoscope - in-depth comparison of files, archives, and directories
+kscope - source browsing and editing environment
+ll-scope - an oscilloscope DSSI plugin
+seascope - source code navigation tool
+trydiffoscope - in-depth comparison of files, archives, etc. (try.diffoscope.org client)
+xoscope - digital oscilloscope
 
 
 
@@ -778,7 +819,7 @@ Next Steps / To Do
 
 
 	-trouver pourquoi <iframe> ne fonction pas
-		<!-- <br><iframe src="hello.txt" style="border:1; width:100%; height:450px;"></iframe> -->
+		<br><iframe src="hello.txt" style="border:1; width:100%; height:450px;"></iframe>
 	
 
 

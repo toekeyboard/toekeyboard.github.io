@@ -52,7 +52,7 @@ Next Steps / To Do
 
 
 
-----gta-robotics / 3dboot / pickering ideas
+----gta-robotics / 3dbott / pickering ideas
 	-use a transitor / MOSFET
 	-opamp
 
@@ -4387,6 +4387,14 @@ https://developer.apple.com/documentation/coreml
 https://duckduckgo.com/?q=core+ml&t=ffab&ia=web
 https://en.wikipedia.org/wiki/Standard_ML
 https://en.wikipedia.org/wiki/Concurrent_ML
+
+
+
+https://en.wikipedia.org/wiki/Android_version_history
+https://en.wikipedia.org/wiki/Android_(operating_system)#Platform_usage
+https://blog.replicant.us/2017/02/replicant-6-0-development-updates/
+https://guardianproject.info/2017/03/13/build-android-apps-with-debian-apt-install-android-sdk/
+https://duckduckgo.com/?q=debian+android+update+project&t=ffab&ia=web
 
 
 

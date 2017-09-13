@@ -1,4 +1,6 @@
-rm txt
+#rm txt
+mv txt txt_old
+
 wget http://board.net/p/toekeyboard/export/txt
 #wget http://board.net/p/1674927471/export/txt
 
@@ -15,7 +17,6 @@ cat txt >> txt.html
 echo "</pre>" >> txt.html
 
 
-cp txt txt_old
 
 #fldiff txt_old txt
 #fldiff txt txt_old

@@ -4,6 +4,12 @@
 Next Steps / To Do
 ---
 <pre>
+
+
+-get xoscope to work, measure voltage
+	-solder probe to 3.5mm audio jack / cable
+
+
 -get linux demo / alsa hacking to work
 	-espeak / apertium translation
 -get linux application to work
@@ -11,6 +17,7 @@ Next Steps / To Do
 	-hdajackretask
 
 
+-get docker instance with android build tools to work
 
 
 -get android application to compile 	dotdash (apk)
@@ -445,7 +452,7 @@ xoscope - digital oscilloscope
 
 
 	-installing apps from computer
-		-run 'python_server'   ~/mystuff/tonvid/python_server
+		-run 'python_server'   python_server
 		-download from browser on phone		http://192.168.1.59:8000/app.apk
 
 	-accessing downloads
@@ -587,7 +594,7 @@ xoscope - digital oscilloscope
 
 ----bluez
 ----bluetooth
-	root@59-debian:/home/yorlov# wajig search bluez
+	# wajig search bluez
 	bluez - Bluetooth tools and daemons
 	bluez-cups - Bluetooth printer driver for CUPS
 	bluez-dbg - Bluetooth tools and daemons (with debugging symbols)
@@ -1090,6 +1097,2100 @@ https://en.wikipedia.org/wiki/Automatic_number_identification
 				http://imgur.com/gallery/lrGbr		The same image of Robbie Rotten, but every day I randomly remove another pixel added to the amount I removed previously. Day Number Fifty-Two.
 			-board.net/p/toekeyboard	(open discussion)
 		
+
+
+
+
+
+
+
+
+	----counterfeit
+	----copy cats
+	----quality fade
+			world/internet/npr.org/2017/07/06$mpv *hibttr*
+			Playing: 20170623_hibt_hibttrx.mp3?orgId=1
+			20:00 mins
+
+		https://en.wikipedia.org/wiki/Total_quality_management
+		https://en.wikipedia.org/wiki/Fade_margin
+		https://en.wikipedia.org/wiki/Special:Search?search=quality+fade&go=Go&searchToken=3zpmnnrxd4b7tuj4n70evrsfa
+
+		https://en.wikipedia.org/w/index.php?title=Special:Search&search=counterfeiters&fulltext=1&profile=default&searchToken=aqdufqcnnonxkwybm7pg5oczx
+		https://en.wikipedia.org/wiki/Counterfeit
+		https://en.wikipedia.org/wiki/Counterfeit_consumer_goods
+
+
+
+	-make short gif, video of toekeyboard / clairvoyant
+		-upload to vid.me
+
+	----demo toekeyboard
+		-easy demo, using mouse
+			-then wired mouse, solder new pieces
+			-then bluetooth mouse, with TRS - 3.5mm toekeyboard
+			-then hack alsa audio driver, to input directly to laptop TRS 3.5mm audio jack, with toekeyboard
+
+		-make linux demo.  tap in with toe, display avec grand lettres sur l'ecran.  text-to-speech
+		-make powerpoint presentation, website at bottom
+		-music control
+			-fast-forward, rewind, next track of music
+		-put down computer, control from a distance  (like a puppet-master)
+			-have scripts to do introduction
+			-play videos
+			-long extension wires, 3.5mm, male-female. bring them all, so can sitdown
+				-put laptop on chair in front of the room
+				-play "Sympathy for the devil" as intro
+					http://www.tonvid.com/search.php?q=sympathy%20for%20the%20devil&videoDefinition=any&date_filter=any&videoDuration=any&safeSearch=none&videotype=any&order=viewCount
+						http://www.tonvid.com/info.php?video_id=ZRXGsPBUV5g	The Rolling Stones - Sympathy For The Devil (Live) - OFFICIAL
+		-file system navigation
+		-local search.  text-to-speech of wikipedia
+			-reading "Demo" / "Accessibiility"
+		-translation demo
+			-apertium -> espeak-mbrola
+			-italian, spanish
+
+		
+
+		----meetings
+			-hamradio club.   text to morse code
+			-airport club. text to NATO codes?
+			-car clubs, rapping to music.  start / stop music
+			-accessibility meetings.  text to speech
+			
+	-voice recognition
+		-tap code
+		-cw / morse code
+		----codes
+			-dit, dah (traversing morse code tree)
+			-put space, delete, enter in morse code tree?  (unused spot)
+				-dum (space)
+				-der (delete)
+		
+
+
+	-change website to welcome page, with bittorrent download
+
+
+
+
+
+	-avoir crontab fonction, post chaque jour
+		http://tinyurl.com/toekeyboard-yyyymmdd
+
+		preview.tinyurl.com/toekeyboard
+		preview.tinyurl.com/toekeyboard-yyyy
+		preview.tinyurl.com/toekeyboard-yyyymm
+		preview.tinyurl.com/toekeyboard-yyyymmdd
+
+
+
+
+
+
+	----wikipedia toekeyboard
+		-write wikipedia article
+		-do in lesser/smaller/unpopular languages, so not banned
+		https://en.wikipedia.org/wiki/Toe_keyboard
+		https://fr.wikipedia.org/wiki/Clavier_d'orteil
+		https://de.wikipedia.org/wiki/Zehe_tastatur
+		
+		
+
+
+	-make only toekeyboard webpage
+		toekeyboard.github.io
+		toekeyboard.github.io/baseball
+
+		-everything else downloadable from bittorrent
+
+
+	-create baseball inserts
+		tinyurl.com/toebaseball
+			-re-direct to 
+				toekeyboard.github.io/baseball
+
+		http://preview.tinyurl.com/toebaseball
+		http://preview.tinyurl.com/baseballtoe
+
+
+			----android bittorrent
+			http://www.utorrent.com/intl/en/downloads/
+			https://play.google.com/store/apps/details?id=com.utorrent.client
+			https://play.google.com/store/apps/details?id=com.bittorrent.client
+		
+	
+
+
+
+
+
+	-create toekeyboard ppt
+		-website at bottom
+		-embed gifs, video clips
+
+		https://unix.stackexchange.com/questions/131702/is-there-any-cli-terminal-slideshow-app
+			tpp - text presentation program
+				/usr/share/doc/tpp/examples$
+				https://github.com/cbbrowne/tpp
+
+			mdp - command-line based Markdown presentation tool
+				https://github.com/visit1985/mdp
+				https://raw.githubusercontent.com/visit1985/mdp/master/sample.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	-register
+		https://twitter.com/toekeyboard
+
+
+
+	----minutes
+		/github.com/etherpad-lite/bin$run.sh
+			http://localhost:9001/p/2017-06-20
+
+
+	-solder toekeyboard
+		-repair toekeyboard demo (audio jack, TRS, functional/wearable)
+		-make soldered taped fabrication demo  (to show layout)
+
+		-take picture, and put it on top of main page
+
+	-print / design 1" inlet, printed out page	
+		toekeyboard.github.io		
+		tinyurl.com/toekeyboard
+
+
+	---start meetings
+		-copper wire consortium
+		-fabrication / contract manufacturing / micro manufacturing
+		-accessibility meeting
+
+
+
+
+
+
+
+
+
+
+	-goto every highschool / middle school / baseball field
+		-wire attach it to fences  (Sep-Jun)
+		-will spread by word of mouth
+
+		-littering on school property?
+		-is it illegal to advertise on school property
+			https://duckduckgo.com/?q=advertising+at+schools&t=ffab&ia=web
+				http://www.commercialfreechildhood.org/issue/advertising-schools
+				https://en.wikipedia.org/wiki/Advertisements_in_schools
+				http://www.ibiblio.org/commercialfree/commercialism.html
+
+
+
+
+	-re-intall android studio on ubuntu
+		----android studio		
+		-try re-installing android studio
+			-update debian, ubuntu,
+			-install linux mint, android-x86
+
+				http://distrowatch.com/
+				https://en.wikipedia.org/wiki/Android-x86
+					https://en.wikipedia.org/wiki/BlueStacks
+					https://en.wikipedia.org/wiki/American_Megatrends#DUOS-M
+				https://en.wikipedia.org/wiki/Remix_OS				//closed source
+				https://en.wikipedia.org/wiki/Android_%28operating_system%29#Open-source_community
+
+
+			https://duckduckgo.com/?q=android+studio+successfully+installs+on+linux&t=ffab&ia=web
+				https://itsfoss.com/install-android-studio-ubuntu-linux/
+				https://www.linuxhelp.com/how-to-install-android-studio-in-ubuntu/
+				https://stackoverflow.com/questions/28314139/how-to-install-android-studio-in-ubuntu
+				https://wiki.ubuntu.com/ubuntu-make
+
+
+
+
+
+
+
+
+	-start seeding toekeyboard sur bittorrent / glt
+		-crontab, to autopost daily
+		-get ready for Jun 13,2017 - mededge
+		-redirect toekeyboard.github.io/index.html 
+			http://tinyurl.com/toekeyboard-20170617		//working magnet link
+			http://tinyurl.com/toekeyboard		//test out, see if will get blocked
+				http://sprunge.us/cOHd
+
+
+
+
+
+	-translate pages in G8 lanugages
+		arabic, chinese, english, french, russian, spanish
+		https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations
+		
+
+
+	-get toekeyboard to work in python
+		-delete, space, enter
+		-espeak
+
+
+
+	----contract manufacturing
+		https://en.wikipedia.org/wiki/Contract_manufacturer
+		https://en.wikipedia.org/wiki/Electronics_manufacturing_services
+		https://duckduckgo.com/?q=wiki+electronic+contract+manufacturing&t=ffab&ia=web
+
+
+
+	-music application
+		-foot pedal
+			-audio synthesizer / terminatorx / auto-tunes
+				terminatorx - realtime audio synthesizer
+			-turn on / off audio synthesizer / drum beats
+
+		-dj / scratch the song, while performing a rap / buskering
+
+		
+			
+
+
+	-get emulation on android sdk to work
+		-then install on daddy's mobile
+		-ou mettre sur ei-goh's mobile
+		-ou mettre lineageos sur ei-goh's mobile
+
+
+	-put on demo kits
+		http://tinyurl.com/toekeyboard	
+		-> redirects to instructions on pastebin
+		tinyurl.com/toekeyboard-YYYYmmdd
+		tinyurl.com/toekeyboard-20170604	(June 04, 2017)
+
+		paste at bottom
+
+
+
+	-empty out github.com/toekeyboard
+		-redirect to board.net/p/toekeyboard
+	-empty out board.net/p/toekeyboard
+		-only have link to bittorrent magnet link
+
+
+
+	-make complete demo kits  (with wire & phone app)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	----electronic contract manufacturing services
+	----electronic manufacturing services
+	----electronic design services
+		Creation Technologies
+			110 Clegg Rd, Markham
+			creationtech.com
+		Span Manufacturing Inc.
+			125 Gibson Dr, Markham
+			spanmfg.com
+		Radiant Technologies Inc
+			7755 Warden Ave #8 Suite 8, Markham
+			151 Bentley St, Markham
+			radianttechnologies.ca
+		Circuit-Tech Inc.
+			399 Denison St, Markham
+			275 Steelcase Rd E, Markham
+			circuittech.com
+
+
+
+	----wire gauge
+	----fil d'electricite
+	----wire morningside
+		-8 foot+, 30 gauge.  avec deux 3.5mm TRS audio jack connector.  cut dans le milieu, pour 4 foot+ wire et connector.
+			Cable specialist
+				2 Royal Crest, Markham
+			Industrial Electric Wire & Cable Company
+				 10 Melford Dr, Scarborough
+			House Of Electrical Supplies 
+				880 Milner Ave, Scarborough
+				 houseofelectrical.com
+			Wiremagic
+				5310 Finch Ave E #39, Scarborough
+				wiremagic.ca	
+			S&S Electronics
+				2200 Markham Rd #5, Scarborough
+				s-selectronics.com
+			Independent Electric Supply Inc
+				48 Milner Ave, Scarborough
+				iesupply.ca
+			Robertson Electric Wholesale
+				140 Milner Ave, Scarborough
+				robertson-electric.com
+
+		-braded, 26 gauge
+		-thread in a U-shape
+		-si utilise fil d'electricite 30 gauge, solid core?
+			-thread through aluminum
+			https://duckduckgo.com/?q=earbuds+wire+guage&t=ffab&ia=web
+			https://en.wikipedia.org/wiki/American_wire_gauge
+			https://en.wikipedia.org/wiki/Wire_gauge
+				Wire gauge comparison chart			https://upload.wikimedia.org/wikipedia/commons/2/28/Gauge_Chart.pdf
+			https://en.wikipedia.org/wiki/Standard_wire_gauge
+			https://en.wikipedia.org/wiki/Speaker_wire
+			https://en.wikipedia.org/wiki/Gauge
+			https://en.wikibooks.org/wiki/Engineering_Tables/Standard_Wire_Gauge
+			https://xtronics.com/wiki/Wire-Gauge_Ampacity.html
+			https://www.reddit.com/r/headphones/comments/3o5139/14_or_16_guage_wire_too_thick_for_a_diy_headphone/
+			http://www.answers.com/Q/What_wire_gauge_used_for_headphones
+			https://electronics.stackexchange.com/questions/144922/why-are-headphone-wires-so-thin
+
+
+	-post toekeyboard with picture on imgur, and links to magnet links
+		https://www.reddit.com/r/headphones/
+			https://www.reddit.com/r/headphones/comments/6evl75/my_cheap_headphone_standhanger_solution/
+
+
+
+
+
+	----toe baseball
+		-leave on players bench  before games, in fields (lawnmowers will cut them up).  if tying it to fence.  (one of the players will find it)
+			-leaving it on each teams' bench, is like you forgot it.  not noticeable
+		-find league schedules
+		-video tape games, and put online too
+		-players can just have their bluetooth headsets on, talking
+			-call and answer it
+		-goto little leagues, and convice them
+
+
+
+
+
+
+
+
+
+
+
+
+		-get toekeyboard working in linux, through audio jack
+			-translation: 		apertium
+			-gnugo
+
+
+
+
+		-repair toekeyboard		(make new one, solder together)
+		-get full toekeyboard to work under linux
+			-get linux-alsa to work
+
+
+
+	----dancing toekeyboard
+	----toekeyboard dancing
+	----dance dance revolution
+	----ddr for the mobile phone
+
+		-use mobile phone gyroscope to gauge orientation of individual
+
+
+		https://en.wikipedia.org/wiki/List_of_dances
+			international ballroom: waltz, foxtrot, quickstep, viennesse waltz
+			international latin: cha cha, rumba, tango, jive
+			salsa, merengue
+			hip hop
+			swing, lindy hop	https://en.wikipedia.org/wiki/Lindy_Hop
+			ballet
+			tap dancing
+
+		https://duckduckgo.com/?q=waltz+step+patterns&t=ffab&iax=1&ia=images
+		https://duckduckgo.com/?q=tango+step+patterns&t=ffab&iax=1&ia=images
+		https://duckduckgo.com/?q=ballet+step+patterns&t=ffab&iar=images&iax=1&ia=images
+
+		https://duckduckgo.com/?q=ballet+step+patterns&t=ffab&iar=images&iax=1&ia=images&iai=http%3A%2F%2Fwww.stepsontoes.com%2Fwp-content%2Fuploads%2FDanceSteps.jpg
+
+
+
+
+
+
+
+
+
+
+
+		-get toekeyboard working on lineageos
+
+			----lineageos
+			https://en.wikipedia.org/wiki/LineageOS
+			https://www.lineageos.org/
+			https://github.com/lineageos
+
+			https://www.facebook.com/lineageandroid
+			https://www.twitter.com/lineageandroid
+			https://www.lineageos.org/feed.xml
+			https://plus.google.com/113897076738126120764
+
+
+			https://en.wikipedia.org/wiki/Rooting_%28Android_OS%29
+
+			https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems
+				https://en.wikipedia.org/wiki/Tizen
+				https://en.wikipedia.org/wiki/Sailfish_OS
+					https://en.wikipedia.org/wiki/Mer_%28software_distribution%29
+				https://en.wikipedia.org/wiki/Ubuntu_Touch
+				https://en.wikipedia.org/wiki/WebOS
+
+
+			https://en.wikipedia.org/wiki/List_of_custom_Android_firmware
+			https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
+
+
+
+		----app for phone
+			-media player control where you tilt your phone
+			tilt phone 
+				right - play
+				left - stop
+				forward - next track
+				towards you - previous track
+
+
+
+		-get delete, spacebar, enter working on python
+		-make toekeyboard for ei-goh
+
+		-get linux-alsa tutorial working
+
+		-make promotional / instructional video
+		-make promotional / instructional video for toekeyboard, glt123, ydl123
+
+
+
+
+		----braille
+			-refreshable braille display
+				https://en.wikipedia.org/wiki/Refreshable_braille_display
+					https://en.wikipedia.org/wiki/Assistive_Technology_Service_Provider_Interface
+						https://wiki.gnome.org/Accessibility
+
+						https://en.wikipedia.org/wiki/Linux_Desktop_Testing_Project
+						https://en.wikipedia.org/wiki/Accessibility_Toolkit
+
+					https://en.wikipedia.org/wiki/Tactile_%28device%29
+					https://en.wikipedia.org/wiki/Braille_e-book
+
+					https://www.youtube.com/watch?v=olm3BwNbMq4	 Full page braille display, BEST RESOLUTION braille display in the world, 12,000 pixels 
+					https://www.youtube.com/watch?v=QHKZ56FLcq0	Multi-Line Refreshable Braille Display: Working & Construction 
+
+			https://en.wikipedia.org/wiki/English_Braille
+
+			https://en.wikipedia.org/wiki/Deafblindness
+
+			humanware.com
+				victorreader stratus
+
+				http://www.humanware.com/en-canada/contact/canada_contact
+					Canadian Sales Offices
+					Ontario and Manitoba
+					3660 Midland Avenue, Suite 340, Scarborough		(Midland & McNicoll)
+
+
+
+		----song
+		----morse code tree song
+			-make morse code song
+				-so can remember the order of the binary tree
+
+			-like:
+				alphabet song
+				happy birthday
+				o'canada
+				god save the queen
+					https://en.wikipedia.org/wiki/God_Save_the_Queen
+				matilda
+					https://en.wikipedia.org/wiki/Matilda_%28song%29
+						https://en.wikipedia.org/wiki/Calypso_music
+
+
+
+		----goto 		
+		----visit
+			-universities / colleges
+				-staple toekeyboard samples up on bulletin boards
+
+
+			CNIB
+				cherche ----cnib
+			The War Amps
+				waramps.ca
+				6043 Yonge St, North York
+				War Amputations Key Tag Service
+				1 Maybrook Dr, Toronto		(6km	mcnicoll / Middlefield)
+
+			humanware.com
+				victorreader stratus
+				
+				http://www.humanware.com/en-canada/contact/canada_contact
+					Canadian Sales Offices
+					Ontario and Manitoba
+					3660 Midland Avenue, Suite 340, Scarborough		(Midland & McNicoll)
+
+			College of Audiologists and Speech-Language Pathologists of Ontario
+				3080 Yonge Street, Toronto		(20km.	at lawrence)
+				Room: Suite 5055	Meissner Fishbein Room, Suite 5055, CASLPO 
+				http://www.renewal.caslpo.com/events/upcoming-events
+				http://www.renewal.caslpo.com/who-we-are/council/meetings
+				cherche ----caslpo
+
+
+
+
+
+
+		-toekeyboard.github.io		improvements
+			-put up picture of mall, move shopping section upto calendar section
+				-add mall table area images
+			-reduce image sizes, so loads faster
+				-reduce images to 100K... so page loads faster
+
+			-putint google analytics?
+				better than "Graphs -> Traffic"
+
+
+
+		-get spacebar, delete, enter a fonctioner
+
+		----toekeyboard demo'ing
+			-wear toekeyboard
+			-have computer on me (with bluetooth mouse), do demo when desired
+
+			-working on an open source project
+			-"the pen is mighty"			
+				"the pen is power"
+				"the pen is mightier then the sword"
+				"21st century pen"
+		
+
+
+
+		-improve toekeyboard cheat sheet
+			-print out morse code mnemonic, with sentences / poems
+
+
+		----apertium android
+			https://play.google.com/store/apps/details?id=org.apertium.android
+			http://wiki.apertium.org/wiki/Apertium_Android
+			http://wiki.apertium.org/wiki/Mitzuli
+			https://play.google.com/store/apps/details?id=com.mitzuli
+			http://www.mitzuli.com/en/
+			https://duckduckgo.com/?q=apertium+android+apk&t=ffab&ia=web
+
+		-goto pacific mall, take pic of floorplan
+			-start handing out toekeyboard samples
+				-after have android app working
+
+
+		-make triple layered pads, for me
+
+		-make toekeyboard with earbuds / audio jack / TRS connector, for ei-goh
+
+		-make instructional gif
+			https://9gag.com/gag/aDWZrVB	You wanna play golf but you only got football skills, and here is FOOTGOLF
+
+
+
+		images/toekeyboard_black.png		//works, has image
+			https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/toekeyboard_black.png		//does not work, no image
+			https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/toekeyboard_black.png?raw=true		//works, display image
+			https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/images/toekeyboard_black.png		//works, display image
+
+
+		-take pics of making toekeyboard.  v4
+
+
+		-put toekeyboard demo kits in stores
+			Mybat Valor Communication Inc.	(Wireless Accessories)
+				82 Gibson Dr, Markham
+				43.823568,-79.328657
+
+			-makerwiz
+			-carobotics
+			-sayal
+
+
+		-make meeting minutes
+			-redundant, since dated in  board.net/p/toekeyboard
+			-expand to this, if more data
+				https://board.net/p/toekeyboard-20170418
+
+
+
+
+		https://api.github.com/
+		https://api.github.com/repos/toekeyboard/toekeyboard
+		https://api.github.com/repos/toekeyboard/toekeyboard-fabrication
+		https://api.github.com/repos/toekeyboard/toekeyboard.github.io
+
+
+		-dj'ing with the toes.
+			-drum beats
+
+
+		-have L/R scroll, to select letter.
+			R - forward
+			L - backwards
+			1 tap - 1 letter
+			1.5 sec hold skip by 3 letters
+			2 sec hold skip by 6 letters
+
+		-add to locations.kml
+			src/github.com/mapping/geojson/togeojson/index.html
+
+			https://github.com/mapbox/togeojson
+				https://mapbox.github.io/togeojson/
+			https://github.com/mapbox/tokml
+				https://mapbox.github.io/tokml/
+
+			https://github.com/dmrsouza/json2kml
+
+
+
+		https://en.wikipedia.org/wiki/File_descriptor
+
+		https://www.thestar.com/news/world/2017/04/01/truck-driver-that-hit-bus-killing-13-was-texting-while-driving-says-witness.html
+
+
+
+		----hardware improvements
+			-twist wires at the junction, so contact pads, doesnt fall off
+			-move circle down to middle
+			-make circle bigger
+
+
+		-get space, backspace, enter to work
+
+		-attach new toekeyboard to ear buds
+
+		-setup both laptops
+			-bring both laptops  (vga / hdmi)
+			-does not work on debian
+
+
+		-get apertium, surfraw searches, espeak to work
+
+
+
+		----alsa
+		----pyaudio
+		----portaudio
+			~$wajig search pyaudio
+			python-pyaudio - Python bindings for PortAudio v19
+			python-pyaudio-doc - Documentation for Python bindings for PortAudio v19
+			python3-pyaudio - Python3 bindings for PortAudio v19
+
+			~$wajig search portaudio
+			libportaudio2 - Portable audio I/O - shared library
+			portaudio19-dev - Portable audio I/O - development files
+			portaudio19-doc - Portable audio I/O - documentation
+			libportaudiocpp0 - Portable audio I/O C++ bindings - shared library
+			libportaudio-ocaml - OCaml bindings for the portaudio library
+			liquidsoap-plugin-portaudio - audio streaming language -- Portaudio plugin
+			libportaudio-ocaml-dev - OCaml bindings for the portaudio library
+
+
+			https://people.csail.mit.edu/hubert/pyaudio/
+			http://stackoverflow.com/questions/35344649/reading-input-sound-signal-using-python
+			pyaudio retask audio jack
+			http://stackoverflow.com/questions/4672457/pyaudio-trying-to-use-jack
+			http://stackoverflow.com/questions/28999267/open-audio-with-callback-using-alsa#29151230
+			https://duckduckgo.com/?q=access+alsa+audio+driver+from+python&t=canonical&ia=qa
+
+
+		-regardez a key_up
+			-look at key_up, to end first tap / keystroke
+		-commence a logging backspace
+			http://www.alterawiki.com/wiki/Timing_Constraints
+			https://en.wikipedia.org/wiki/Jitter
+
+
+		-draw pictures, to put on website
+			usage with person
+
+		-build toekeyboard / earbuds for die-goh
+
+
+		-improve toekeyboard cheatsheet
+			-hollow out feet (moin ink)
+			-tree with clear left and right, with arrows
+			-les poems arbre
+			-p.2   full morse breakdown des tous lettres   (comme morse code)
+
+			-avoir clipboard & pen
+
+
+
+
+		-write debian linux demo
+			-from scratch
+				-rewrite from scratch
+			-works in ubuntu
+
+			-make python work, with wireless mouse
+
+			--evdev
+				libevdev-dev - wrapper library for evdev devices - development files
+				libevdev-tools - wrapper library for evdev devices - tools
+				libevdev2 - wrapper library for evdev devices
+
+				pip install evdev
+
+			-run github morsecode demos
+
+
+		-get glt123 packaging to work
+			-add to path
+			~$.bashrc
+				export PATH=$PATH:./
+
+
+
+
+
+
+		-get file.kml mapping to work
+		-set locations
+			http://toekeyboard.github.io/toekeyboard/locations/index.html		(montre kml locations)
+			-mettre locations sur website
+
+		
+
+		-!get food/ to work
+
+		-setup snapd / eventbrite meetings
+			-giving away free toekeyboards		april 3
+
+
+		----error
+			-buffer temps entre les lettres, quand imprimer
+				-pareto principal	80:20
+					-si faire plus de 20% errors, relentir le buffer temps
+		----uses
+			-dance, typing out poetry / songs while dancing
+			
+
+		----bluetooth
+			bluez - Bluetooth tools and daemons
+			bluez-tools - Set of tools to manage Bluetooth devices for linux
+
+			hcitool scan
+			bt-device -l
+			bluetooth-wizard
+
+			http://unix.stackexchange.com/questions/96693/connect-to-a-bluetooth-device-via-terminal#101422
+			http://www.heatxsink.com/entry/how-to-pair-a-bluetooth-device-from-command-line-on-linux
+			https://wiki.archlinux.org/index.php/Bluetooth
+
+			-bluetooth headset
+				jabra n356 z302		12/10		dec 2010?		mini usb connector
+	
+
+
+
+
+
+		----ubuntu
+			https://bbs.archlinux.org/viewtopic.php?id=155759
+				$hcitool dev
+					Devices:
+						hci0	68:94:23:87:A5:3A
+					hcitool scan
+				$lsusb
+					Bus 001 Device 004: ID 1bcf:2c32 Sunplus Innovation Technology Inc. 
+					Bus 001 Device 003: ID 0489:e04e Foxconn / Hon Hai 
+				$rfkill list
+					0: hci0: Bluetooth
+						Soft blocked: no
+						Hard blocked: no
+					3: acer-bluetooth: Bluetooth
+						Soft blocked: no
+						Hard blocked: no
+				$sudo lsmod | grep blue
+					bluetooth             552960  32 btrtl,btintel,bnep,btbcm,rfcomm,ath3k,btusb
+				$systemctl enable bluetooth.service
+					$systemctl start bluetooth.service
+
+			http://unix.stackexchange.com/questions/96693/connect-to-a-bluetooth-device-via-terminal
+				$hciconfig scan
+					hci0:	Type: Primary  Bus: USB
+						BD Address: 68:94:23:87:A5:3A  ACL MTU: 1022:8  SCO MTU: 183:5
+						UP RUNNING 
+						RX bytes:1341 acl:0 sco:0 events:93 errors:0
+						TX bytes:3634 acl:0 sco:0 commands:83 errors:0
+				$bt-device -l
+					No devices found
+
+
+
+		-setup eventbrite, toekeyboard meeting
+
+
+
+
+
+
+
+
+		--wi-di  (wireless display)
+		--wifi display
+		--widi
+		--miracast
+			-use xiaomi?	for testing / demo'ing.  can it do wi-di / miracast
+
+			-voir si le mobile a wi-di
+			https://play.google.com/store/apps/collection/search_results_cluster_apps?clp=ggEHCgV3aS1kaQ%3D%3D:S:ANO1ljLbIAk
+
+			--uses
+				-chefs - pulling up recipes 	(fast forward in videos, rewind in videos)
+				-painters / artists - navigate the web while painting	(wi-di wireless display)
+
+
+
+		-make laptop demo with 3.5mm audio jack
+			-get hdajackretask to work
+			-make aperitum / freedict / dictd / espeak demo
+
+		-resolder audio jack. too flimsy
+			-couper autre headphone wires, avec solid audio jack
+		-make toekeyboard with regular pieces (earbud, lighter, tape), make sur it works
+			-!solder wires for toekeyboard and earbuds, and y-connector / TRRS connector
+				-so can make demo in waterloo
+				-not needed, bluetooth headset?
+
+		-write android studio 'hello world', on ubuntu. upload to htc mobile froyo 2.2
+			-doesnt work anymore on ubuntu?
+
+
+
+
+		http://www.android-x86.org/download
+			https://es.osdn.net/projects/android-x86/downloads/65890/android-x86_64-6.0-r1.iso/
+
+			http://distrowatch.com/table.php?distribution=androidx86
+
+
+
+
+		-find morse code example projects
+			github.com/morse
+
+			https://github.com/search?o=desc&q=morse&s=updated&type=Repositories&utf8=%E2%9C%93
+			https://github.com/search?o=desc&q=morse+code&s=updated&type=Repositories&utf8=%E2%9C%93
+
+
+
+
+
+
+
+
+		-faire seperate videos.html link
+
+
+		-setup jenkens, CI - continual integration
+
+		----Applications
+			hands free note taking
+				-text-to-speech
+			translation
+
+			-with bluetooth headset (for hearing)
+				https://en.wikipedia.org/wiki/Headset_%28audio%29#Bluetooth
+					https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles#Advanced_Audio_Distribution_Profile_.28A2DP.29
+					https://en.wikipedia.org/wiki/Apple_earbuds#Apple_AirPods
+
+
+		-cherche
+			----toe123 meetings
+			----toekeyboard meetings
+
+		-take pictures of every step, when cutting earbuds, and making toekeyboard
+			-follow steps, et prends les photo de exactement comment c'est fabriquer
+
+			http://www.kobakant.at/DIY/?p=5210	Light Touch Pressure Sensor
+				-textile button
+					http://www.kobakant.at/DIY/
+						http://www.kobakant.at/DIY/?p=6378	Textile Sensor Demo Station
+						http://www.kobakant.at/DIY/?p=6184	ohmGlove
+						http://www.kobakant.at/DIY/?p=6218	Tilt Sensor Demo
+						http://www.kobakant.at/DIY/?p=6239	Elastic Button Fabric
+						http://www.kobakant.at/DIY/?p=6063	Sensing with Textiles
+						http://www.kobakant.at/DIY/?p=5915	Flip-Dot Swatch Example
+						http://www.kobakant.at/DIY/?p=5647	Engineers for Social Impact workshop at Mumbai : e-Diwali
+						http://www.kobakant.at/DIY/?p=5415	Soft Sensors for Soft Bodies II
+						http://www.kobakant.at/DIY/?p=5509	Woven Speaker
+						http://www.kobakant.at/DIY/?p=5210	Light Touch Pressure Sensor
+						http://www.kobakant.at/DIY/?p=6396	Soft Interactive Technology 1 at KHB
+					
+
+		-make gnugo / chess / translation demo
+			-si mobile n'est pas assez fort, seulement ssh a un ordinateur portable avec linux, et faire les computations sur ca
+			-wifi connect.  besoid hostAP sur laptop, peut fonctioner comme hot spot
+
+
+
+
+
+
+
+		-print out toekeyboard insert card
+			ubuntu		toekeyboard/all_8.306.pdf
+
+			-design toekeyboard insert card
+				-minimum ink
+
+			github.com/toekeyboard/toekeyboard.github.io/images/typing/insert_card$
+
+			WxH
+			(8.5 /3) x (11 /5)
+			2.833 x 2.2
+			2.833 x 2.194
+
+			(8.5 /3) x (11 /6)
+			2.833 x 1.833
+			2.833 x 2.194
+
+			-gimp
+				https://docs.gimp.org/en/gimp-tool-free-select.html
+
+
+		----cutting aluminum sheets (18")
+			-couper, donc pas plus longue de blade du coupeur
+			-couper (7/8)"  (face plus de coups, donc moin de couper par main)
+			-couper 2 strips
+			-couper access, donc ca alligne avec 16
+			-couper (7/8)"
+
+		----cutting ethernet wire  (~82")
+			-headpohone / earphones / earbuds mod
+
+			-make wires 1ft / 
+			27.333"	82.0/3
+			20.5"	82.0/4
+			16.4"	82.0/5
+			13.666"	82.0/6			*use.	13"5/8'  (13.625")
+			12" - minimum for me.
+			11.714"	82.0/7	too small
+
+
+			--reality
+			1"1/4"
+			1.25/6 = 0.208"
+
+
+
+			-make more toekeyboards demo kits
+				-20 ethernet cables	(6ft10" = 82")
+				-1 cable:  (8 wires x 6 partitions) / (2 wires x 2 pads) = 12 toekeyboard kits
+				-20 cables x 12 toekeyboard demo kits = 240 toekeyboard demo kits
+
+
+
+
+		----img src alternative link
+			-changer img src to alternative link
+			-img src alternative link
+
+			http://stackoverflow.com/questions/980855/inputting-a-default-image-in-case-the-src-attribute-of-an-html-img-is-not-vali
+				  <object data="http://stackoverflow.com/does-not-exist.png" type="image/png">
+				    <img src="https://appharbor.com/assets/images/stackoverflow-logo.png" />
+				  </object>
+
+			http://stackoverflow.com/questions/10772346/display-alternate-image
+				<object data="foobar.png" width=200 height=200>
+				  <img src="test.png" alt="Just testing.">
+				</object>
+
+				<img class="avatar" src="img/one.jpg" alt="Not Found" onerror=this.src="img/undefined.jpg">
+
+			http://stackoverflow.com/questions/3984287/how-to-show-alternate-image-if-source-image-is-not-found-onerror-working-in-ie#9891041
+				<img src="imagenotfound.gif" alt="Image not found" onerror="this.src='imagefound.gif';" />
+				<img src="imagenotfound.gif" alt="Image not found" onerror="this.onerror=null;this.src='imagefound.gif';" />
+
+			http://stackoverflow.com/questions/8980563/showing-alternative-image-if-img-src-is-not-working-properly
+
+
+
+		----usb amplifier speaker
+		----amplifier speaker
+		----collar speaker
+			-piezo-electric speaker with a shirt clip
+				-usb powered, for audio amplifier
+					https://www.lelong.com.my/golf-2-1-lightning-micro-usb-mini-fan-android-iphone-iphonecase-176357951-2017-04-Sale-P.htm
+				-cherche		----amplifier
+							----set-up transformer
+							----voltage amplifier
+
+			https://www.youtube.com/watch?v=_o47RzCIQ8A	Talking Dog 1- New Collar
+			https://patents.google.com/?q=collar&q=speaker
+				https://patents.google.com/patent/US7035422B1/en?q=collar&q=speaker
+				https://patents.google.com/patent/US5212734A/en?q=collar&q=speaker
+				https://patents.google.com/patent/US5331119A/en?q=collar&q=speaker
+				https://patents.google.com/patent/US5563951A/en?q=collar&q=speaker
+				https://patents.google.com/patent/US20140070957A1/en?q=collar&q=speaker
+
+			https://www.youtube.com/watch?v=_o47RzCIQ8A	 Talking Dog 1- New Collar 
+			https://duckduckgo.com/?q=wiki+collar+speaker&t=ffab&ia=web	
+
+
+			http://www.dx.com/p/kp100-collar-bar-type-mini-bluetooth-v3-0-voice-prompt-stereo-speaker-black-226774
+			
+
+
+		-setup reddit page
+			https://www.reddit.com/toekeyboard
+
+		-publish on reddit
+			https://www.reddit.com/search
+			https://www.reddit.com/subreddits
+
+			https://www.reddit.com/subreddits/search?q=github
+
+			https://www.reddit.com/r/github/
+				https://www.reddit.com/r/github/comments/5y8gv4/need_help_with_idea_of_gitserver/
+
+			https://www.reddit.com/r/coolgithubprojects/
+
+			https://www.reddit.com/r/mildlyinfuriating/
+			https://www.reddit.com/r/CrappyDesign/
+
+
+		-fini python program premierement.  montre peut imprimer
+
+
+
+
+
+		-get android studio / oracle jdk to work
+			-load 'hello world'
+			-install ubuntu
+
+
+
+		-look at xoscope, see how they do it
+			debian/xoscope/xoscope-2.2
+
+		-hdajackretask
+			debian/alsa-tools-gui/alsa-tools-1.1.0/hdajackretask$
+
+		-github.com search 'morse'
+
+		-make more toekeyboard demo kits
+		-get a roll of plastic bags, from a grocery store
+
+
+		-goto sayal / creatronics, find cost
+			-bring laptop, with stock
+
+			-3.5mm audio connector		http://sayal.com/zinc/zinc_SEARCH.asp?txtSEARCH=3.5mm
+			-ethernet cable
+				-canadacomputers / ncix
+
+
+
+
+
+
+
+
+		-setup eventbrite / snapd "wearble computing - Toe keyboard" meetings
+			-change date time, does not overlap with wireless community network?  leave the same
+
+		-design toekeyboard demo kit info paper, into pdf.
+			-print with printer
+
+		-make more demo kits
+		-write python mouse program
+
+		-make video how toekeyboard works
+			-clip video de clairvoyant et reveal
+			-split screen, of typing and video
+
+			-faire les 'how-to' videos
+				-pour fabriquer
+
+
+		-draw CAD designs of toe keyboard
+			freecad, blender, solid works
+			cherche ----freecad
+				----qcad     	
+				----librecad
+				----openscad
+		--done
+			-put freecad jpg up
+
+			-put up chess / go boards
+			-put alpha go on website
+				-download alphago promotional video
+				Google DeepMind - Ground-breaking AlphaGo masters the game of Go-SUbqykXVx0A
+
+			-make demonstratable mockup product
+
+
+		----viral video
+			-make how to video
+				http://9gag.com/gag/aYxozAV	Lego Tape. Turns anything into a lego-friendly surface 
+
+			-make viral postings		9gag.com / imgur.com / funnyjunk.com / 
+				-make frontpage post on imgur
+					http://imgur.com/gallery/eAGgy	This f**ing guy
+
+				http://9gag.com/gag/avG7EXZ	I would drive this truck into my mouth
+
+				-make reddit, imgur, 9gag viral image for
+					-easy way to remember morse code
+
+				https://reddit.com/user/morsecodedichotomics
+				http://imgur.com/user/morsecodedichotomicsearch
+					http://imgur.com/user/morsecodedichotomicsearch/submitted
+
+
+
+
+		-break down clairvoyant with commentary
+			swing
+				ropes:  antennas
+				bench: laptop and wifi router
+					-translate morsecode-to-text, then text-to-speech
+			mouth of girl:  sound bite bone conduction wireless receiver
+			shoes of guy:  toe keyboard, transmitter in his clothes
+
+		-package projects with glt123
+			events.ics
+
+
+
+		-essayer referencing url pars relative path
+			/blob/master/images.jpg
+			-dont toekeyboard.github.io, fonction offline
+			-peut voir les images offline
+
+
+		-download alphago videos to laptop / bb playbook
+
+		-garder des wires longue.
+			-porter le sur les orteiles quand je departs
+
+
+		-get more plastic bags from supermarket
+			-chinese super market on kennedy / 407.  clear
+
+
+
+		-escribo wikipedia article
+			-https://en.wikipedia.org/wiki/Toe_Keyboard
+			-https://fr.wikipedia.org/wiki/Toe_Keyboard
+				 (smaller langages).wikipedia.org
+				pas bon monitoree
+
+
+		-make more toekeybard demo kits
+
+		-write python mouse demo
+		-write c hdajackretask/ audio jack demo
+			-github.com	search morse code, for demos
+			-write espeak text-to-speech demo
+			-ecire dictd / apertium translation demo
+			-ecrire soundclip / clipy / audio record demo
+
+
+
+
+		-setup 	eventbrite / snapd meetings
+			-just faire, toe keyboard
+			'----wearable computing'
+			-en espanol.  todos lengua
+			https://es.wikipedia.org/wiki/Computadora_corporal
+				https://en.wikipedia.org/wiki/Wearable_computer
+
+			-comme
+				https://www.eventbrite.ca/e/wireless-community-network-tickets-31221111184?aff=es2
+
+
+
+		-reduce image thumbnail sizes, so webpage loads faster.... 200kb max?
+			-click on will goto full size
+
+		-keep track of serial number, of demo kits
+			-which ones are going where
+
+		----manufacturing
+			-pars robotics
+			-looking for a hole puncher for plastic bags
+				-
+
+
+		----tot bags
+			-package in tot bags for hackathons, in conferences
+
+
+		----marketing video
+		----promotion video
+			-splice clairvoyant AGT performance, & REVEAL videos ensemble
+				-30s clip
+				-1min clip
+				-3min clip
+
+			ffmpeg cut clairvoyant video
+				put on blackberry
+			-put clairvoyant video up on site
+			-picture of product in ziploc sac
+			
+			-put in rotten robbie
+				-best of robbie rotten
+					http://www.tonvid.com/info.php?video_id=4BIpDIelf8s	Lazy Town: Best of Robbie Rotten
+
+			----distribution
+				-like 
+					aircanada, free headsets
+					cineplex, free 3d glasses
+
+				-stadiums
+					-pour la prochaine fois, viens a le stadium, porter le toekeyboard
+					-live tweet during a stadium game.  while eating a hotdog
+					-partner with twitter / kik
+
+				-original reason for me, was to cheat at chess.  write notes during committee meetings
+			
+
+
+
+
+		----android
+			/usr/lib/android-sdk/platforms/android-23$
+			/var/cache/google-android-platform-23-installer
+
+			----android-x86
+				-install on android-x86
+
+				https://en.wikipedia.org/wiki/Android-x86
+					http://www.android-x86.org/
+				https://en.wikipedia.org/wiki/Remix_OS
+
+				http://distrowatch.com/table.php?distribution=androidx86
+
+
+
+
+		
+
+			----htc aria
+				htc aria a6380
+				https://en.wikipedia.org/wiki/HTC_Aria
+
+
+
+
+				www.htc.com/aria
+				https://en.wikipedia.org/wiki/Android_Froyo
+
+				Settings-> About phone
+					Phone identity:  HTC Aria A6380
+					Software Information:  
+						Android version: 
+							2.2
+						Baseband version: 
+							47.54.35.20U_7.13.35.13
+						Kernel version:
+							2.6.32.21-g9c9b792
+							htc-kernel@and18-2 #1
+							Wed Oct 27 21:11:23 CST 2010
+						Build number:
+							2.37.707.5 CL279279 release-keys
+						Software number:
+							2.37.707.5
+						Browser version:
+							WebKit 3.1
+
+
+
+				SD & phone storage -> Factory data reset
+
+
+				https://duckduckgo.com/?q=htc+aria+a6380&t=ffab&ia=web
+				http://www.gsmarena.com/htc_aria-3392.php
+					http://www.gsmarena.com/htc_aria-review-506.php
+
+				https://duckduckgo.com/?q=reflash+htc+aria+a6380&t=ffab&ia=web
+				https://forum.xda-developers.com/showthread.php?t=719622
+				https://theunlockr.com/2010/08/02/how-to-root-the-htc-aria-unrevoked-method/
+
+				http://www.phonescoop.com/phones/phone.php?p=2804
+
+
+
+
+
+
+
+
+			http://www.hard-reset.com/htc-aria-hard-reset.html
+			https://www.youtube.com/watch?v=fh8wFrgm-K0	 HARD RESET your HTC ARIA (RESTORE to FACTORY condition) 
+			https://duckduckgo.com/?q=htc+aria+factory+default&t=ffab&ia=videos
+
+
+
+
+			https://en.wikipedia.org/wiki/Android_%28operating_system%29#Open-source_community
+
+			https://en.wikipedia.org/wiki/LineageOS
+			https://github.com/lineageos
+			http://lineageos.org/
+			http://lineageos.org/community/
+			https://www.reddit.com/r/LineageOS/
+			http://wiki.lineageos.org/
+			https://github.com/LineageOS/lineage_wiki
+
+
+			https://en.wikipedia.org/wiki/Android_%28operating_system%29
+			https://en.wikipedia.org/wiki/Android_Froyo
+
+			https://en.wikipedia.org/wiki/Android_version_history
+			https://en.wikipedia.org/wiki/Android_version_history#Hardware_requirements
+
+
+
+
+			~$wajig search android
+				android-sdk - Software development kit for Android platform
+				android-sdk-build-tools - Tools for building Android applications
+				android-sdk-build-tools-common - Tools for building Android applications - Common files
+				android-sdk-common - Common files of Android SDK base toolset
+				android-sdk-platform-tools - Tools for interacting with an Android platform
+				android-sdk-platform-tools-common - Tools for interacting with an Android platform - Common files
+
+
+
+				google-android-platform-8-installer - Google's Android SDK Platform 8 Installer
+					E: Unable to locate package android-sdk-platform-8
+				
+					android-sdk-platform-8
+
+					/var/cache/google-android-platform-8-installer
+						-rw-r--r-- 1 nobody nogroup 74652366 May 24  2016 android-2.2_r03.zip
+						-rw-r--r-- 1 root   root          61 Mar  6 13:08 android-2.2_r03.zip.sha1
+						-rw-r--r-- 1 root   root        1433 Mar  6 13:08 Makefile
+
+
+
+				google-android-platform-23-installer - Google's Android SDK Platform 23 Installer
+					Setting up google-android-platform-23-installer (23+r03) ...
+					make: Entering directory '/var/cache/google-android-platform-23-installer'
+					cd /var/cache/google-android-platform-23-installer && unzip -ou platform-23_r03.zip
+					Archive:  platform-23_r03.zip
+					install -d -m0755 /usr/share/doc/google-android-platform-23
+					find /usr/share/doc/google-android-platform-23 | sort >> /var/lib/dpkg/info/google-android-platform-23-installer.list
+					chmod -R a+rX /var/cache/google-android-platform-23-installer/android-6.0/
+					chmod -R go-w /var/cache/google-android-platform-23-installer/android-6.0/
+					install -d -m0755 /usr/lib/android-sdk/platforms/
+					/usr/lib/android-sdk/platforms/android-23 already exists.
+					Makefile:10: recipe for target 'install' failed
+					make: *** [install] Error 1
+					make: Leaving directory '/var/cache/google-android-platform-23-installer'
+					dpkg: error processing package google-android-platform-23-installer (--configure):
+					 subprocess installed post-installation script returned error exit status 2
+					Errors were encountered while processing:
+					 google-android-platform-23-installer
+					E: Sub-process /usr/bin/dpkg returned an error code (1)
+
+
+
+				android-sdk-platform-23 - Android SDK Platform for API Level 23 (6.0 Marshmallow)
+					/usr/lib/android-sdk/platforms/android-23
+
+
+
+
+					/var/cache/google-android-platform-23-installer# ls -l
+						drwxr-xr-x 6 root   root        4096 Mar 22  2016 android-6.0
+						-rw-r--r-- 1 root   root        1433 Mar  6 16:41 Makefile
+						-rw-r--r-- 1 nobody nogroup 70433421 Apr  1  2016 platform-23_r03.zip
+						-rw-r--r-- 1 root   root          61 Mar  6 16:41 platform-23_r03.zip.sha1
+
+
+
+				google-android-build-tools-installer - Google build tools for Android (aapt, aidl, dexdump, dx)
+					The following packages will be REMOVED:
+					  aapt android-sdk android-sdk-build-tools libzopfli1 zipalign
+					The following NEW packages will be installed:
+					  google-android-build-tools-installer:i386
+
+
+
+
+
+
+
+			android/android-studio/bin$./studio.sh
+				android$
+					-449372867 Mar  6 13:33 android-studio-ide-162.3764568-linux.zip
+
+
+
+				$wajig search jdk
+					openjdk-8-jdk - OpenJDK Development Kit (JDK)
+					default-jdk - Standard Java or Java compatible Development Kit
+
+					$JDK_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+					$JDK_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64/
+
+
+
+			http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+			https://duckduckgo.com/?q=oracle+java+sdk&ia=web
+
+			http://stackoverflow.com/questions/35555319/installing-android-studio-in-ubuntu-unable-to-run-mksdcard-sdk-tool
+				lib32stdc++6 - GNU Standard C++ Library v3 (32 bit Version)
+				apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6
+
+
+			http://stackoverflow.com/questions/28847151/unable-to-install-android-studio-in-ubuntu
+			https://devdheer.wordpress.com/2015/11/07/installing-android-studio-on-linux-64-bit-system-needs-linux-32-bit-libraries/
+			http://stackoverflow.com/questions/42404980/unable-to-create-android-virtual-device-in-android-studio-2-2-in-ubuntu
+			https://www.google.ca/?gfe_rd=cr&ei=fjnAWKOSDOzL8Aef3regBg&gws_rd=ssl#q=WARN+-+dea.updater.SdkComponentSource+-+java.io.FileNotFoundExceptfile+or+directory)ion:+%2Ftmp%2FStudioDownloaderaddon2-1.xml+(No+such&*
+			http://askubuntu.com/questions/639260/run-android-studio-after-installation-and-other-programs
+			http://askubuntu.com/questions/683618/android-studio-does-not-launch-in-ubuntu-14-04
+
+
+
+
+			.android/repositories.cfg could not be loaded
+				http://stackoverflow.com/questions/38448482/installing-android-studio-in-ubuntu-14-04-64-bit-android-repositories-cfg-could
+
+
+
+
+			https://developer.android.com/studio/install.html
+			https://developer.android.com/studio/intro/index.html
+			https://developer.android.com/training/basics/firstapp/index.html
+			https://developer.android.com/studio/index.html
+			https://duckduckgo.com/?q=android+sdk+on+android&ia=web
+
+			http://www.linuxtopia.org/online_books/android/devguide/guide/developing/other-ide.html
+			http://www.linuxtopia.org/online_books/android/devguide/guide/tutorials/hello-world.html
+			https://duckduckgo.com/?q=android+linux+hello+world&ia=qa
+
+			https://developer.android.com/studio/publish/preparing.html
+			https://developer.android.com/distribute/tools/open-distribution.html
+
+			https://play.google.com/store/apps/details?id=org.apertium.android
+
+			https://www.youtube.com/watch?v=y_vAFd7Uk5U	Linux Tip | How to Customize Your BASH Environment
+			http://www.tonvid.com/info.php?video_id=QCIGCrwaP0k	HTC ARIA A6366 INTRUDER UNLOCKED
+			http://www.tonvid.com/info.php?video_id=jLSUoaqWO2I	Forgot Password HTC Aria How To Hard Reset
+			htc aria a6380 unlock password
+			http://www.tonvid.com/info.php?video_id=JWGhi1J0gpQ	How To Unlock Android Pattern Or Password, No Software No Root Needed
+			how to flash a password android phone
+			http://www.tonvid.com/info.php?video_id=XcDX_Gm7bjg	 ￼How To Flash On Android / What Is Flash - Complete Guide On Flashing Android
+			how to reflash an android phone
+			http://www.tonvid.com/info.php?video_id=_bEMSRWupZc	Looking at Android_x86 Linux Distro
+			http://www.tonvid.com/info.php?video_id=ftHII66vJL8	Android-x86-6.0-rc1 on PC
+			http://www.tonvid.com/info.php?video_id=okF_50H-6c8	Android x86 Nougat 7.0 | Android 7 on PC
+
+
+			https://en.wikipedia.org/wiki/Android_version_history#Hardware_requirements
+			https://en.wikipedia.org/wiki/Android_%28operating_system%29#Hardware
+			https://en.wikipedia.org/wiki/Android_version_history#Android_2.2_Froyo_.28API_8.29
+			https://en.wikipedia.org/wiki/Android_version_history
+
+			https://duckduckgo.com/?q=android+retask+audio&t=ffab&ia=web
+			http://source.android.com/devices/audio/index.html
+
+
+			https://duckduckgo.com/?q=android+enter+incorect+password+multiple+times&t=ffab&ia=web
+			http://www.askmefast.com/How_to_unlock_phone_if_wrong_password_entered_too_many_times-qna2232863.html
+			http://androidforums.com/threads/what-happens-if-you-enter-wrong-pin-too-many-times.522179/
+			http://androidandme.com/2014/03/news/htc-one-m8-performs-factory-reset-if-you-get-the-password-wrong-10-times/
+			http://smallbusiness.chron.com/happens-enter-wrong-password-iphone-many-times-69874.html
+			http://androidforums.com/threads/phone-will-automatically-reset-to-factory-if-incorrect-pin-enter-10-times.863223/
+
+
+			https://duckduckgo.com/?q=android-sdk-platform-23&t=ffab&ia=web
+			https://developer.android.com/studio/releases/sdk-tools.html
+			http://stackoverflow.com/questions/7708847/which-android-api-to-use
+			https://duckduckgo.com/?q=android-sdk-platform-8&t=ffab&ia=web
+
+			https://en.wikipedia.org/wiki/HTC_Aria
+			https://en.wikipedia.org/wiki/CyanogenMod
+
+
+
+			https://developer.android.com/ndk/index.html
+			https://developer.android.com/ndk/guides/index.html
+				http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html
+			https://developer.android.com/ndk/downloads/index.html
+				https://dl.google.com/android/repository/android-ndk-r14-linux-x86_64.zip
+
+
+
+			https://developer.android.com/index.html
+			https://duckduckgo.com/?q=develop+android+on+android&t=ffab&ia=web
+			https://www.udacity.com/course/new-android-fundamentals--ud851
+			https://www.udacity.com/course/android-development-for-beginners--ud837
+			https://duckduckgo.com/?q=debian+linux+install+android&t=ffab&ia=web
+			https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#ApiLevels
+			https://developer.android.com/about/versions/android-2.2.html
+			https://developer.android.com/studio/intro/index.html
+			http://source.android.com/compatibility/overview.html
+			https://developer.android.com/guide/practices/compatibility.html
+			http://stackoverflow.com/questions/7708847/which-android-api-to-use
+			https://duckduckgo.com/?q=android-sdk-platform-8&t=ffab&ia=web
+			https://search.debian.org/cgi-bin/omega?DB=es&P=android-sdk-platform-8
+			https://developer.android.com/studio/install.html
+			https://developer.android.com/training/basics/firstapp/index.html
+			https://www.google.ca/?gfe_rd=cr&ei=8aW9WJGDMsnT8gedpoW4Bg&gws_rd=ssl#q=android+hello+world&*
+			http://stackoverflow.com/questions/14389326/cant-build-hello-world-kernel-module-on-android-jellybean
+			https://prezi.com/iqp7kai8rq0q/build-a-hello-world-android-app-on-linux/
+			https://trivedihardik.wordpress.com/2011/06/16/hello-world-example-using-ndk-in-android/
+			https://duckduckgo.com/?q=android+linux+hello+world&t=ffab&ia=qa
+
+
+
+
+			http://square.github.io/okhttp/#download
+			http://square.github.io/okhttp/
+			https://github.com/square/okhttp
+			https://github.com/Trinea/android-open-project
+			https://github.com/codepath/android_guides
+			https://github.com/wasabeef/awesome-android-ui
+			https://github.com/googlesamples/android-architecture
+			https://github.com/search?o=desc&p=2&q=android&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93
+			https://github.com/iBotPeaches/Apktool
+			https://github.com/kivy/python-for-android
+			http://opengapps.org/
+			https://github.com/opengapps/opengapps
+			https://github.com/search?o=desc&p=2&q=android+apk&s=stars&type=Repositories&utf8=%E2%9C%93
+			https://github.com/search?o=desc&q=android+apk&s=stars&type=Repositories&utf8=%E2%9C%93
+			https://github.com/search?o=desc&q=android&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93
+
+			https://developer.android.com/distribute/tools/open-distribution.html
+			https://duckduckgo.com/?q=can+i+distribute+android+apk+on+my+own&t=ffab&ia=web
+			https://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/publishing_an_application/part_3_-_publishing_an_application_on_google_play/
+			https://support.google.com/googleplay/android-developer/answer/113469?hl=en
+			https://www.google.ca/?gfe_rd=cr&ei=uM69WKHdHoXCqAWHuKHYCA&gws_rd=ssl#q=how+to+publish+to+google+play+store&*
+			https://www.quora.com/How-can-I-publish-an-Android-app-free-in-the-Google-Play-store?share=1
+			https://developer.android.com/distribute/googleplay/start.html
+			http://scarletcox.com/2014/01/17/publish-google-play/
+			https://duckduckgo.com/?q=how+to+publish+on+google+play+store&t=ffab&ia=web
+			http://www.techradar.com/news/phone-and-communications/mobile-phones/70-best-free-android-apps-2013-687252
+			https://duckduckgo.com/?q=coolest+free+android+apps&t=ffab&ia=web
+			http://stackoverflow.com/questions/4654878/how-to-play-youtube-video-in-my-android-application
+			https://www.androidpit.com/how-to-play-youtube-videos-in-the-background
+			https://duckduckgo.com/?q=android+youtube+player&t=ffab&ia=videos
+
+			https://play.google.com/store/apps/details?id=com.googlecode.eyesfree.espeak
+			https://play.google.com/store/apps/details?id=com.redzoc.ramees.tts.espeak
+			https://play.google.com/store/apps/details?id=com.reddit.frontpage
+			https://play.google.com/store/apps/collection/search_results_cluster_apps?clp=ggEICgZyZWRkaXQ%3D:S:ANO1ljL4qEo
+			https://play.google.com/store/search?q=espeak&c=apps
+
+			https://en.wikipedia.org/wiki/HTML5test
+			https://en.wikipedia.org/wiki/Dolphin_Browser
+			https://duckduckgo.com/?q=wiki+dolphin+browser&t=ffab&ia=web
+
+			https://play.google.com/store/apps/details?id=org.apertium.android
+			https://play.google.com/store/search?q=apertium
+
+			https://duckduckgo.com/?q=android+hello+world&t=ffab&ia=web
+			https://source.android.com/devices/audio/
+			https://www.google.ca/?gfe_rd=cr&ei=6nS9WOH1IdLT8gfkir_QAw&gws_rd=ssl#q=android+retask+audio&*
+			https://duckduckgo.com/?q=android+retask+audio&t=ffab&ia=web
+
+
+
+
+			https://github.com/googlesamples/android-architecture
+			https://github.com/googlesamples
+			https://github.com/googlesamples/google-services
+			https://github.com/search?utf8=%E2%9C%93&q=google+android+samples
+			https://developer.android.com/studio/index.html
+			http://techblogon.com/install-eclipse-android-sdk-adt-pluin/
+			https://duckduckgo.com/?q=eclipse+android+sdk&ia=web
+			http://www.makeuseof.com/tag/build-android-app-programming-languages/
+			https://www.androidpit.com/best-android-apps#personalizing
+			http://www.pcmag.com/article2/0,2817,2393097,00.asp#video
+			https://duckduckgo.com/?q=favorite+android+apps&ia=web
+			https://duckduckgo.com/?q=audio+jack+on+htc+aria&ia=web
+			http://askubuntu.com/questions/643756/openjdk-vs-oracle-jdk-for-android-studio#643761
+			http://askubuntu.com/questions/467870/how-to-set-the-jdk-for-android-studio
+			https://duckduckgo.com/?q=android+studio+openjdk&ia=qa
+			http://envyandroid.com/android-studio-does-not-start/
+			http://stackoverflow.com/questions/16580657/android-studio-does-not-run#16580845
+			https://duckduckgo.com/?q=android+studio+does+not+start&ia=qa
+			http://www.javaworld.com/article/3095406/android/android-studio-for-beginners-part-1-installation-and-setup.html
+			https://duckduckgo.com/?q=android+studio&ia=web
+			https://github.com/maldroid/adb_cheatsheet/blob/master/cheatsheet.pdf
+			https://github.com/maldroid/adb_cheatsheet
+			https://duckduckgo.com/?q=adb+android+cheatsheet&ia=software
+			https://play.google.com/store/search?q=accessibility&c=apps
+			http://www.androidcentral.com/android-201-10-basic-terminal-commands-you-should-know
+			https://www.google.ca/?gfe_rd=cr&ei=5AG-WPHFEJPM8Afsmam4Cw&gws_rd=ssl#q=android+from+command+line&*
+			https://developer.android.com/studio/intro/index.html
+			https://developer.android.com/studio/index.html#linux-bundle
+			https://developer.android.com/studio/index.html
+			https://duckduckgo.com/?q=android+studio+linux&ia=web
+			https://developer.android.com/design/index.html
+			https://developer.android.com/index.html
+			http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html
+			http://www.oracle.com/technetwork/java/javase/downloads/index.html
+			https://developer.android.com/studio/intro/update.html#sdk-manager
+			https://developer.android.com/ndk/guides/index.html
+			https://duckduckgo.com/?q=oracle+jdk&ia=web
+			https://android-developers.googleblog.com/2015/06/an-update-on-eclipse-android-developer.html
+			https://developer.android.com/studio/tools/sdk/eclipse-adt.html
+			https://developer.android.com/studio/intro/index.html
+			https://duckduckgo.com/?q=android+eclipse+adt&ia=web
+			http://www.tonvid.com/info.php?video_id=DfSL4KK4nzk	How to Install the Android SDK and Eclipse
+			eclipse android sdk
+
+
+
+
+
+
+			----ubuntu touch
+			----ubuntu phone
+				https://en.wikipedia.org/wiki/Ubuntu_Touch
+
+			----xiaomi
+			----miui
+				https://en.wikipedia.org/wiki/Google_Play
+				https://en.wikipedia.org/wiki/Android_software_development#SDK
+				https://en.wikipedia.org/wiki/Android_Studio
+					https://en.wikipedia.org/wiki/IntelliJ_IDEA
+					https://en.wikipedia.org/wiki/JetBrains
+						https://en.wikipedia.org/wiki/InfoWorld
+						https://en.wikipedia.org/wiki/Kotlin_%28programming_language%29
+				https://en.wikipedia.org/wiki/Android_application_package
+					https://en.wikipedia.org/wiki/JAR_%28file_format%29
+				https://en.wikipedia.org/wiki/Manifest_file
+				https://en.wikipedia.org/wiki/Sideloading
+				https://en.wikipedia.org/wiki/Android_software_development#Android_Debug_Bridge
+
+
+
+				https://en.wikipedia.org/wiki/Xiaomi#Mobile_phones
+				https://en.wikipedia.org/wiki/MIUI
+				https://en.wikipedia.org/wiki/Google_China#Google_vs._China
+					https://en.wikipedia.org/wiki/Operation_Aurora
+					https://en.wikipedia.org/wiki/PLA_Unit_61398
+						https://en.wikipedia.org/wiki/Advanced_persistent_threat
+
+				https://github.com/MiCode/mi2_kernel/commits/master
+				https://github.com/MiCode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		----fields
+		----industries	
+		----applications
+		----toe123 applications
+		----toe123 uses
+		----toe123 real-world epplications
+			--top:
+				-translator -  dictionary lookup, machine translation
+				-chefs - pulling up recipes 	(fast forward in videos, rewind in videos)
+				-musicians - page turning of electronic music sheets on tablets
+					piano player - play along with video.  practicing
+					buskers / open mic - playing with music in your head
+				-painters / artists - navigate the web while painting	(wi-di wireless display)
+
+
+
+			-industries with dirty hands, loud work environment.   factory workers
+			-environment:  ne peut pas parler, ne peut pas perdre concentration, ne peut pas utiliser les mains
+
+			--workplaces
+				-factory workers, loud environment.  wearing work gloves.
+				-gardeners, outdoors.  wearing work gloves
+				-construction workers.  wearing work gloves
+				-surgeon.  wearing gloves.  messy operating theatre
+				-military. holding weapon.  radio silence
+				-law enforcement
+					-holding weapon
+				-on stage:	 musical performers, actors, broadway, live performances, rappers, comedians
+				-virtual reality
+
+			-translators.  dictionary search / phrase translation
+				http://www.tonvid.com/info.php?video_id=m8xSZ9Fr4c0	What Putin thinks about gays - BBC NEWS
+
+			-camera opperator during tv recordings.   on set personnel
+			-on screen anchor, news
+
+			Typing
+			Emailing
+			Social Media
+			Search Engines / Web Search / Personal Search
+
+			Games:
+				-chess/go game cheating
+				Chess
+				Go
+				Checkers
+				Poker
+				Casino games (Roulette, Blackjack)   (Probability and chance)
+
+
+
+			-typing
+			-ubersetzung / apertium / diccionario
+			-music	
+
+
+			translation
+				-picking words
+			personal search
+				-accessing information
+			note taking
+			games
+				-chess / go
+
+			----fields
+				aerospace
+					-astronauts (typing in EVA)
+					-pilots (hands are on the control)
+				musical
+					-musical instruments
+					-musicians
+					-controlling (like effect pedals)
+					-singing (choosing music)
+				medical 
+					-surgeons 
+
+
+
+
+			----accessibility
+				my left foot (movie, no hands)	daniel day lewis
+				liz:  thalidomide friend's fiance.
+
+				----thalidomide
+				----phocomelia
+					https://en.wikipedia.org/wiki/Thalidomide
+						https://en.wikipedia.org/wiki/Phocomelia
+						https://en.wikipedia.org/wiki/Roberts_syndrome
+						https://en.wikipedia.org/wiki/Development_of_analogs_of_thalidomide
+
+					http://www.huffingtonpost.com/eileen-cronin/thalidomide_b_5669839.html
+
+
+
+
+				http://www.uhn.ca/KNC/PatientsFamilies/Clinics_Tests/Movement_Disorders
+					Toronto Western Hospital
+					The Edmond J. Safra Program in Parkinson's Disease and the Morton and Gloria Shulman Movement Disorders Centre are on​​
+					McLaughlin Pavilion - 7th Floor​
+					Hours & Contact                                                                            
+					Monday – Friday
+					9:00am – 4:00pm
+
+					https://en.wikipedia.org/wiki/Movement_disorders
+
+
+
+
+
+
+
+		-make more demo kits
+			-give demo kits out to hamradio
+		-write python demo for keys
+			-look at github.com, search 'morse'
+		-write c hdajackretask program
+			-working dictd / apertium  / espeak demo
+
+
+
+
+
+
+		-create http://www.reddit.com/r/toekeyboard
+
+
+
+		-write DIY page avec bill of materials  (house hold items), pics
+			DIY - toekeyboard
+
+			-make howto.html, for v2/ pictures
+				-bill of materials
+				-tools required
+
+
+		-solder toykeyboard
+
+		-make more demo kits
+			23 cables x 2 (cut in half) x 2 (kits per cable) = 92 kits
+		-write up kickstarter support page
+
+		https://twitter.com/search?f=tweets&q=toekeyboard&src=typd
+		https://duckduckgo.com/?q=%23toekeyboard&t=ffab&ia=web
+
+
+
+		--solder
+			-solder	/ desolder audio jacks
+				-get wifi mouse program to work / type
+					-write hdajackretask linux program
+			-make TRRS connector
+				-desolder female TRS jack from laptop
+				-soldered to toekeyboard & female TRS jack
+			-get bluetooth mouse demo working
+			-solder toekeyboard back together
+			-make more toekeyboard demo kits
+
+
+
+		--toekeyboard-fabrication
+			-sortir les images de github.com/toekeyboard/toekeyboard/
+			-package avec date; du -sh
+			
+			-briser dans deux partie.  400MB to 200MB
+				https://git-lfs.github.com/
+					https://github.com/git-lfs/git-lfs
+
+
+
+
+
+
+			----dropbox
+
+
+
+				https://www.dropbox.com/install
+					cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
+						Saving to: ‘STDOUT’
+						-then pipe to stdout
+
+
+				wajig install dropbox
+					dropbox start -i
+
+				192.168.1.63
+					~/.dropbox-dist/dropboxd
+					~/Dropbox
+						file:///Dropbox/
+					~/dropbox/headless$
+
+
+
+				----dropbox commandline
+				----dropbox terminal
+				----dropbox shell
+				https://duckduckgo.com/?q=using+dropbox+from+commandline&t=ffab&ia=web
+					http://www.dropboxwiki.com/tips-and-tricks/using-the-official-dropbox-command-line-interface-cli
+
+
+				-deactivated after 90 days no use
+				
+
+				-signup for account
+				https://en.wikipedia.org/wiki/Dropbox_%28service%29
+					https://en.wikipedia.org/wiki/GNOME_Filesa
+						https://en.wikipedia.org/wiki/Nemo_%28file_manager%29
+
+					~$wajig search nautilus
+					nautilus - file manager and graphical shell for GNOME
+					autilus-dropbox - Dropbox integration for Nautilus
+					dropbox - cloud synchronization engine - CLI and Nautilus extension
+					caja - file manager for the MATE desktop
+
+
+
+					----mc
+					----midnight commander
+					----midnightcommander
+						https://en.wikipedia.org/wiki/Midnight_Commander
+							https://github.com/MidnightCommander/mc
+							http://midnight-commander.org/
+						Ncurses or S-Lang
+
+
+						https://en.wikipedia.org/wiki/Miguel_de_Icaza
+							https://en.wikipedia.org/wiki/Xamarin
+								https://www.xamarin.com/
+
+			-recherchez ----toekeyboard manufacturing
+				   ----toekeyboard fabrication
+
+
+
+
+
+
+
+
+		-trabajo on toekeyboard, pret pour jan 01,2017 demo
+			dec 25,2017
+			-morse code hidden in border of window
+				-colored blinking window
+			-wear shorts underneath, so can take off pants
+
+			--demo
+			-'turing test'
+			-type in to talk with 'chat bot'?
+			-then just talk without writing anything
+
+
+
+
+
+
+
+
+		----receiving messages
+			1) vibrates phone in morse code
+			2) text-to-speech in phone, sends it to bluetooth headset
+				-)with TRRS adapter, sends it to ear buds
+
+
+
+
+		----toe123 advertising
+		----toe123 marketing
+
+			-leave around sport fields.
+				-baseball diamonds
+				-soccer posts
+
+
+
+
+
+		----toe123 manufacturing
+		----toe123 manufacturing
+		----toekeyboard manufacturing
+		----toekeyboard fabrication
+			https://en.wikipedia.org/wiki/Contract_manufacturer
+
+			https://en.wikipedia.org/wiki/Original_design_manufacturer
+				https://en.wikipedia.org/wiki/BlackBerry_PlayBook
+					https://en.wikipedia.org/wiki/Quanta_Computer
+
+			-upload 300MB to github
+
+			github.com/toekeyboard/manufacturing-fabrication
+			
+			https://git-lfs.github.com/
+				https://github.com/git-lfs/git-lfs
+				https://github.com/git-lfs/git-lfs/wiki/Tutorial
+				https://www.youtube.com/watch?v=_11d1ZsEZ8g	Git LFS 1.0 
+
+			----bill of materials
+			----Materials required
+				https://en.wikipedia.org/wiki/Bill_of_materials
+				-Wire (for leg connections): 
+					4ft / 122cm (longeur moyenne des jambres)		
+					-source:  ethernet wire / computer stores
+				-Aluminum foil (for contact pads): 
+					-1.5 square in / 4 square cm
+				-Plastic (for insulator between contact pads):
+					-1.5 square in / 4 square cm
+				-Tape (binding of contact pads)
+				-Audio phone connector / Audio jack (connection to cellphone):
+					-3.5mm audio jack (Tip-Ring-Sleeve, TRS connector)
+						https://en.wikipedia.org/wiki/Phone_connector_(audio)
+					-source:  headphones / earbuds
+
+			----Tools required
+				-soldering iron (to solder audio phone connector to wire)
+				-wire stripper
+				-scissors / exacto knife
+
+
+
+
+
+
+
 
 
 
@@ -4395,6 +6496,43 @@ https://en.wikipedia.org/wiki/Android_(operating_system)#Platform_usage
 https://blog.replicant.us/2017/02/replicant-6-0-development-updates/
 https://guardianproject.info/2017/03/13/build-android-apps-with-debian-apt-install-android-sdk/
 https://duckduckgo.com/?q=debian+android+update+project&t=ffab&ia=web
+
+
+
+----apple
+https://www.thestar.com/business/tech_news/2017/09/12/apples-releasing-a-new-iphone-and-heres-what-to-expect-at-the-launch-event.html
+https://www.thestar.com/business/tech_news/2017/09/12/microsoft-president-says-tech-company-views-vancouver-as-a-second-home.html
+https://en.wikipedia.org/wiki/IPhone_X
+https://en.wikipedia.org/wiki/Apple_Park#Auditorium
+https://en.wikipedia.org/wiki/IPhone_8
+https://en.wikipedia.org/wiki/Inductive_charging
+https://en.wikipedia.org/wiki/HomePod
+https://en.wikipedia.org/wiki/IOS_11
+https://en.wikipedia.org/wiki/Face_ID
+
+http://www.tonvid.com/info.php?video_id=K4wEI5zhHB0	iPhone X — Introducing iPhone X — Apple
+
+https://9gag.com/gag/anjRoXL	Apple vs Samsung 
+https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_8
+
+
+
+----docker
+https://en.wikipedia.org/wiki/Docker_(software)
+https://en.wikipedia.org/wiki/Docker,_Inc.
+	https://en.wikipedia.org/wiki/Unicorn_(finance)
+	https://en.wikipedia.org/wiki/Unicorn_(finance)#Staying_private
+	https://en.wikipedia.org/wiki/Economic_bubble
+https://www.docker.com/
+
+https://www.docker.com/docker-debian
+	https://store.docker.com/editions/community/docker-ce-server-debian
+
+
+ubuntu
+	docker.io - Linux container runtime
+
+	https://www.docker.com/docker-ubuntu
 
 
 

@@ -6518,6 +6518,8 @@ https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_8
 
 
 ----docker
+----docker.io
+----docker.com
 https://en.wikipedia.org/wiki/Docker_(software)
 https://en.wikipedia.org/wiki/Docker,_Inc.
 	https://en.wikipedia.org/wiki/Unicorn_(finance)
@@ -6533,6 +6535,29 @@ ubuntu
 	docker.io - Linux container runtime
 
 	https://www.docker.com/docker-ubuntu
+
+
+# wajig install docker.io
+	The following additional packages will be installed:
+	  bridge-utils cgroupfs-mount containerd dns-root-data dnsmasq-base runc ubuntu-fan
+	Suggested packages:
+	  aufs-tools btrfs-tools debootstrap docker-doc rinse zfs-fuse | zfsutils
+	The following NEW packages will be installed:
+	  bridge-utils cgroupfs-mount containerd dns-root-data dnsmasq-base docker.io runc ubuntu-fan
+
+~$ifconfig
+docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 172.17.0.1  netmask 255.255.0.0  broadcast 0.0.0.0
+        ether 02:42:5c:ba:b5:c6  txqueuelen 0  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+~$ls -l /etc/network
+-rw-r--r-- 1 root root 1463 Sep 13 14:59 fan
+
 
 
 

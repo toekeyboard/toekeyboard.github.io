@@ -5,6 +5,10 @@ Next Steps / To Do
 ---
 <pre>
 
+-if < iframe > is causing a problem, refresh screen by reloading webpage in browser.  pressing 'Enter' in url bar.
+	Ctrl-r does not refresh page properly
+
+
 
 -get xoscope to work, measure voltage
 	-solder probe to 3.5mm audio jack / cable
@@ -60,7 +64,33 @@ Next Steps / To Do
 
 
 ----gta-robotics / 3dbott / pickering ideas
+
+	----transitor
+	----mosfet
 	-use a transitor / MOSFET
+		-available transistors
+			modem card (small):	
+				S9014 C 331
+				KSP 42 606
+				KSP 92 606
+			modem card (with removed transformer): 
+				KSP 13 -047
+			car stereo:
+				A1150 O I J
+				A1048 Y I J
+				C2459 Y I E
+				M5236L 160I
+				C2458 LL IJ
+				D1468 S SD
+				280 A92
+				K435 C I K T
+				V99 1 K
+
+				
+
+				
+
+
 	-opamp
 
 	-build the oscilliscope / multimeter from alsa
@@ -2134,21 +2164,26 @@ https://en.wikipedia.org/wiki/Automatic_number_identification
 			-img src alternative link
 
 			http://stackoverflow.com/questions/980855/inputting-a-default-image-in-case-the-src-attribute-of-an-html-img-is-not-vali
+<!--
 				  <object data="http://stackoverflow.com/does-not-exist.png" type="image/png">
 				    <img src="https://appharbor.com/assets/images/stackoverflow-logo.png" />
 				  </object>
-
+-->
 			http://stackoverflow.com/questions/10772346/display-alternate-image
+<!--
 				<object data="foobar.png" width=200 height=200>
 				  <img src="test.png" alt="Just testing.">
 				</object>
 
 				<img class="avatar" src="img/one.jpg" alt="Not Found" onerror=this.src="img/undefined.jpg">
 
+-->
 			http://stackoverflow.com/questions/3984287/how-to-show-alternate-image-if-source-image-is-not-found-onerror-working-in-ie#9891041
+<!--
 				<img src="imagenotfound.gif" alt="Image not found" onerror="this.src='imagefound.gif';" />
 				<img src="imagenotfound.gif" alt="Image not found" onerror="this.onerror=null;this.src='imagefound.gif';" />
 
+-->
 			http://stackoverflow.com/questions/8980563/showing-alternative-image-if-img-src-is-not-working-properly
 
 
@@ -4008,7 +4043,7 @@ Fini / Done
 
 
 
-Softare Resource Links
+Software Resource Links
 ---
 
 ###Audio jack (3.5mm connector) hacking

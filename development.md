@@ -4,6 +4,83 @@
 Next Steps / To Do
 ---
 <pre>
+-install android studio on 32-bit machine (outside)
+	-ask on #ubuntu channel, if anyone has same problem of freezing
+
+	~/Android/android-studio/bin$./studio.sh 
+		Looking in classpath from com.intellij.util.lang.UrlClassLoader@2077d4de for /com/sun/jna/linux-x86-64/libjnidispatch.so
+		Found library resource at jar:file:/Android/android-studio/lib/jna.jar!/com/sun/jna/linux-x86-64/libjnidispatch.so
+		Trying /.AndroidStudio2.3/system/tmp/jna6021911500112156448.tmp
+		Found jnidispatch at /.AndroidStudio2.3/system/tmp/jna6021911500112156448.tmp
+		[  46420]   WARN - dea.updater.SdkComponentSource - java.io.FileNotFoundException: /tmp/StudioDownloadersys-img2-1.xml (No such file or directory) 
+		^C[  87355]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 130 
+
+
+----android studio java
+	https://developer.android.com/studio/intro/index.html?utm_source=android-studio
+
+	https://developer.android.com/sdk/index.html
+	https://developer.android.com/studio/install.html
+		sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+
+	https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
+		Installing Java
+		sudo add-apt-repository ppa:webupd8team/java
+		sudo apt-get update
+		sudo apt-get install oracle-java8-installer
+		After that
+		sudo apt-get install oracle-java8-set-default
+
+	
+		//or
+
+
+		sudo apt install ubuntu-make
+		sudo umake android --accept-license
+
+
+	http://www.webupd8.org/2014/03/how-to-install-oracle-java-8-in-debian.html
+		echo "deb http://ppa.launchpad.net/webupd8team/java/ubuntu xenial main" | tee /etc/apt/sources.list.d/webupd8team-java.list
+		echo "deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu xenial main" | tee -a /etc/apt/sources.list.d/webupd8team-java.list
+		apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys EEA14886
+		apt-get update
+		apt-get install oracle-java8-installer
+
+	http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html
+		sudo add-apt-repository ppa:webupd8team/java
+		sudo apt-get update
+		sudo apt-get install oracle-java8-installer
+
+
+	--log
+		/etc/apt# add-apt-repository ppa:webupd8team/java
+			 Oracle Java (JDK) Installer (automatically downloads and installs Oracle JDK7 / JDK8 / JDK9). There are no actual Java files in this PPA.
+
+			Important -> Why Oracle Java 7 And 6 Installers No Longer Work: http://www.webupd8.org/2017/06/why-oracle-java-7-and-6-installers-no.html
+
+			Ubuntu 16.10 Yakkety Yak is no longer supported by Canonical (and thus, Launchpad and this PPA). The PPA supports Ubuntu 17.10, 17.04, 16.04, 14.04 and 12.04.
+
+			More info (and Ubuntu installation instructions):
+			- for Oracle Java 7: http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
+			- for Oracle Java 8: http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html
+
+			Debian installation instructions:
+			- Oracle Java 7: http://www.webupd8.org/2012/06/how-to-install-oracle-java-7-in-debian.html
+			- Oracle Java 8: http://www.webupd8.org/2014/03/how-to-install-oracle-java-8-in-debian.html
+
+			Oracle Java 9 (for both Ubuntu and Debian): http://www.webupd8.org/2015/02/install-oracle-java-9-in-ubuntu-linux.html
+
+			For JDK9, the PPA uses standard builds from: http://jdk.java.net/9/ (and not the Jigsaw builds!).
+
+			Important!!! For now, you should continue to use Java 8 because Oracle Java 9 is available as an early access release! You should only use Oracle Java 9 if you explicitly need it, because it may contain bugs and it might not include the latest security patches! Also, some Java options were removed in JDK9, so you may encounter issues with various Java apps. More information and installation instructions (Ubuntu / Linux Mint / Debian): http://www.webupd8.org/2015/02/install-oracle-java-9-in-ubuntu-linux.html
+			 More info: https://launchpad.net/~webupd8team/+archive/ubuntu/java
+			Press [ENTER] to continue or ctrl-c to cancel adding it
+
+
+
+
+
+
 
 -if < iframe > is causing a problem, refresh screen by reloading webpage in browser.  pressing 'Enter' in url bar.
 	Ctrl-r does not refresh page properly

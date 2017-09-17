@@ -4,6 +4,19 @@
 Next Steps / To Do
 ---
 <pre>
+
+
+----board.net crash
+	http://board.net/p/toekeyboard
+	--log
+	-2017
+	sep 16 	-17:00	broken
+		-19:00	works
+
+
+
+
+
 -install android studio on 32-bit machine (outside)
 	-ask on #ubuntu channel, if anyone has same problem of freezing
 
@@ -932,8 +945,8 @@ xoscope - digital oscilloscope
 		
 
 
-	-trouver pourquoi <iframe> ne fonction pas
 <!--	
+	-trouver pourquoi <iframe> ne fonction pas
 	<br><iframe src="hello.txt" style="border:1; width:100%; height:450px;"></iframe>
 -->
 	
@@ -6241,6 +6254,13 @@ aug 29
 sep 10
 	-2
 		https://www.meetup.com/es/GTA-Robotics/events/243210592/
+sep 16
+	-12
+		-12-14h		Ward 41 Community Associations' BBQ
+		Woodside Square mall
+		1571 Sandhurst Cir, Scarborough	(5.8km.  Finch & McCowan)
+			https://scarborough.snapd.com/events/view/1088060
+		
 
 
 
@@ -6252,6 +6272,15 @@ sep 10
 ----toe123 distributors END
 ----toe distributor END
 ----toe end
+
+
+----people log
+--2017
+sep 10	-1 romanian
+sep 16	-4 cantonese
+	-3 mandarin
+	-3 hindi
+	-1 francais
 </pre>
 
 

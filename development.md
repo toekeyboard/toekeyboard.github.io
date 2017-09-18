@@ -6375,7 +6375,11 @@ https://www.semanticscholar.org/paper/Neural-Versus-Symbolic-Rap-Battle-Bots-Wu-
 https://github.com/robbiebarrat/rapping-neural-network
 
 
-
+----android sdk
+https://developer.android.com/training/basics/firstapp/index.html
+https://developer.android.com/studio/intro/index.html
+https://developer.android.com/studio/install.html
+https://developer.android.com/studio/intro/index.html?utm_source=android-studio
 
 
 android-sdk-platform-23 - Android SDK Platform for API Level 23 (6.0 Marshmallow)
@@ -6700,6 +6704,7 @@ docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
 
 ~$ls -l /etc/network
 -rw-r--r-- 1 root root 1463 Sep 13 14:59 fan
+
 
 
 

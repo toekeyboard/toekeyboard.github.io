@@ -6260,6 +6260,10 @@ sep 16
 		Woodside Square mall
 		1571 Sandhurst Cir, Scarborough	(5.8km.  Finch & McCowan)
 			https://scarborough.snapd.com/events/view/1088060
+sep 17
+	-2
+		https://www.meetup.com/es/GTA-Robotics/events/243306615/		
+
 		
 
 

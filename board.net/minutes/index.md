@@ -4,7 +4,7 @@ Meeting minutes
 <br><a href="https://maps.google.com/maps?f=q&hl=en&q=Denison+Centre+(Food+court+tables),+1661+Denison+St,+Markham" target='_blank'>Food court tables, Denison Centre, 1661 Denison St, Markham</a>
 <br><a href="http://www.openstreetmap.org/?mlat=43.8330&mlon=-79.3059">geo:43.8330,-79.3059</a>
 <br>
-<br>(Under tree, in front of Optical Shop.  Pictures of location: <a href="../../images/mall/index.html" target='_blank'>here</a>)
+<br>(Under tree, in front of Shoppers Drug Mart.  Pictures of location: <a href="../../images/mall/shoppersdrugmart/index.html" target='_blank'>here</a>)
 
 
 <hr>
@@ -22,12 +22,16 @@ Previous
 ---
 [2017-06-20](2017/06/20/2017-06-20.html) 1   
 [2017-07-18](2017/07/18/2017-07-18.html) 0  
-[2017-08-15](2017/08/15/2017-08-15.html) 1 [audio (1:00:02) (35M)](2017/08/15/2017-08-15.ogg) 
+[2017-08-15](2017/08/15/2017-08-15.html) 1 [audio (1:00:02) (35M)](2017/08/15/2017-08-15.ogg) premiere recording  
+[2017-09-19](2017/09/19/2017-09-19.html) 2 [audio (1:02:30) (37M)](2017/09/19/2017-09-19.ogg) wcn
+
+<!--
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+-->
 
 <span id="Upcoming" />	
 Upcoming
 ---
-2017-09-19  
 2017-10-17  
 2017-11-21  
 2017-12-19  
@@ -57,3 +61,7 @@ Upcoming
 2019-10-15  
 2019-11-19  
 2019-12-17  
+
+<!--
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+-->

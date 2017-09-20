@@ -6713,4 +6713,72 @@ docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
 
 
 
+
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Mouthguard
+https://en.wikipedia.org/wiki/Retainer_(orthodontics)
+https://en.wikipedia.org/wiki/Retainers_in_early_China_(social_group)
+
+
+
+
+----tiptalk
+----sgnl
+----innomdle lab
+http://www.mysgnl.com/
+https://www.youtube.com/watch?v=TZEYQUngEug	TipTalk - Innomdle Lab
+http://newatlas.com/samsung-three-experimental-devices-ces/41105/
+http://newatlas.com/sgnl-smart-strap/45190/
+https://duckduckgo.com/?q=tiptalk+vs+sgnl&t=ffab&ia=web
+http://www.businessinsider.in/This-gadget-will-let-you-take-phone-calls-with-your-finger-like-a-secret-agent/The-Sgnl-is-currently-undergoing-a-crowdfunding-campaign-on-Kickstarter-and-Innomdle-Lab-plans-on-shipping-units-by-February-2017-/slideshow/53986646.cms
+https://www.google.ca/search?dcr=0&q=body+conduction+unit&oq=body+conduction+unit&gs_l=psy-ab.3..0.21164.22234.0.23329.6.5.1.0.0.0.95.423.5.5.0....0...1.1.64.psy-ab..0.4.325...0i13k1j0i8i10i30k1.0.eI0_CPB_X-w
+https://www.google.ca/search?q=body+conduction+unit&dcr=0&tbm=isch&imgil=ZofZMMZ4OpRCWM%253A%253BDkPK2swOOCUxsM%253Bhttps%25253A%25252F%25252Fwww.kickstarter.com%25252Fprojects%25252Fsgnlstrap%25252Fsgnl-make-phone-calls-with-your-fingertip%25252Fposts%25252F1910561&source=iu&pf=m&fir=ZofZMMZ4OpRCWM%253A%252CDkPK2swOOCUxsM%252C_&usg=__56q996xOL751eK9ROX2I8q-JHoI%3D&biw=1278&bih=932&ved=0ahUKEwj1uIzA7a3WAhXp44MKHf_XAJEQyjcINA&ei=4EW_WfXIN-nHjwT_r4OICQ#imgrc=_
+
+
+
+https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip/posts/
+	https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip/posts/1910561		14 de jun de 2017
+		Post campaign update #11. Improvement of BCU (Body Conduction Unit) 
+		B&K 4930 Artificial Mastoid System.  
+			The B&K 4930 Artificial Mastoid System is the only BCU performance measurement instrument on the planet. 
+	https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip/posts/1733602
+		http://www.slush.org/
+https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip/community
+https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip/comments
+
+https://duckduckgo.com/?q=body+conducting+unit&t=ffab&ia=web
+http://www.tonvid.com/info.php?video_id=Jc4JbKVZYw0	TipTalk Smart Watchband at CES 2016
+http://www.tonvid.com/info.php?video_id=ImzCqG45w7o	CES 2016 Highlights - Day 3 - Tiptalk
+https://www.kickstarter.com/profile/sgnl/about
+https://www.kickstarter.com/profile/1974649089/about
+
+
+https://www.indiegogo.com/projects/sgnl-make-phone-calls-with-your-fingertip-watch#/
+innomdlelab.com
+http://www.mysgnl.com/
+	Innomdle Lab 2nd Floor,
+	 3, Eonnam 1-gil, Seocho-gu,
+	 Seoul, Postal Code 06778
+	 South Korea
+http/www.facebook.com/sgnlstrap
+https/www.youtube.com/channel/UCy9eiQhIUySRQT7nzq6Cdtg
+https/www.instagram.com/sgnlstrap
+https/twitter.com/sgnlstrap
+
+
+
+
+
+ifstat - InterFace STATistics Monitoring
+dstat - versatile resource statistics tool
+
+
+
+
+
 </pre>

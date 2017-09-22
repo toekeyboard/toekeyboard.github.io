@@ -6903,4 +6903,42 @@ https://developer.android.com/studio/index.html#downloads
 
 
 
+
+
+
+https://en.wikipedia.org/wiki/Special:Search?search=coil+drive+speaker&go=Go&searchToken=71m8rk1m1xeemga02dzt43hbq
+https://en.wikipedia.org/wiki/Voice_coil
+https://en.wikipedia.org/wiki/Speaker_driver
+https://en.wikipedia.org/wiki/Moving_iron_speaker
+https://en.wikipedia.org/wiki/Loudspeaker
+https://en.wikipedia.org/wiki/Rotary_woofer
+https://duckduckgo.com/?q=wiki+spiral+speaker+magnet&t=ffab&ia=web
+https://en.wikipedia.org/wiki/Speaker_driver
+https://duckduckgo.com/?q=ribbon+speaker&t=ffab&iax=1&ia=images
+https://en.wikipedia.org/wiki/Loudspeaker#Ribbon_and_planar_magnetic_loudspeakers
+https://www.engadget.com/2013/08/29/kyocera-piezoelectric-film-speaker/#continued
+https://en.wikipedia.org/wiki/Lorentz_force#Force_on_a_current-carrying_wire
+https://en.wikipedia.org/wiki/Electromagnetic_coil
+https://www.fibhornspeakers.com/
+https://en.wikipedia.org/wiki/Magnet
+https://en.wikipedia.org/wiki/Voice_coil
+https://en.wikipedia.org/wiki/Rare-earth_magnet
+
+
+
+
+https://getpocket.com/firefox_learnmore?s=ffi&t=learnmore&tv=panel_tryit&v=storyboard_lm_nonfxa
+https://en.wikipedia.org/wiki/Pocket_(service)
+	https://en.wikipedia.org/wiki/Instapaper
+	https://en.wikipedia.org/wiki/Pinboard_(website)
+		https://en.wikipedia.org/wiki/Maciej_Ceg%C5%82owski
+	https://en.wikipedia.org/wiki/IFTTT
+
+
+
+
+http://sci-toys.com/scitoys/scitoys/light/light.html#laser_communicator
+http://www.instructables.com/id/HOW-TO-Send-AudioYour-Voice-Over-a-Beam-of-Light/
+https://duckduckgo.com/?q=sending+audio+through+infrared&t=ffab&ia=web
+
 </pre>

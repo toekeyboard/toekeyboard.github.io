@@ -6,6 +6,51 @@ Next Steps / To Do
 <pre>
 
 
+
+
+	-solder toekeyboard pad to microphone input
+		-run audacity
+
+
+
+
+
+
+
+	-android studio
+		https://developer.android.com/studio/index.html#downloads
+		https://developer.android.com/studio/releases/sdk-tools.html
+
+
+
+
+$./studio.sh 
+Looking in classpath from com.intellij.util.lang.UrlClassLoader@2077d4de for /com/sun/jna/linux-x86-64/libjnidispatch.so
+Found library resource at jar:file:/home/yorlov/Android/android-studio/lib/jna.jar!/com/sun/jna/linux-x86-64/libjnidispatch.so
+Trying /home/yorlov/.AndroidStudio2.3/system/tmp/jna6496359881471757954.tmp
+Found jnidispatch at /home/yorlov/.AndroidStudio2.3/system/tmp/jna6496359881471757954.tmp
+[  45481]   WARN - dea.updater.SdkComponentSource - java.io.FileNotFoundException: /tmp/StudioDownloader1sys-img2-1.xml (No such file or directory) 
+[  45924]   WARN - dea.updater.SdkComponentSource - java.io.FileNotFoundException: /tmp/StudioDownloadersys-img2-1.xml (No such file or directory) 
+[  46391]   WARN - dea.updater.SdkComponentSource - java.io.FileNotFoundException: /tmp/StudioDownloadersys-img2-1.xml (No such file or directory) 
+[  48510]   WARN - dea.updater.SdkComponentSource - java.io.FileNotFoundException: /tmp/StudioDownloaderaddon2-1.xml (No such file or directory) 
+
+
+-install android-x86 i686 on 4GB usb stick
+-install ubuntu 16.04.3 LTS on SATA drive (40Gb where archlinux is)
+	https://www.ubuntu.com/download/desktop
+	Ubuntu 16.04.3 LTS
+
+
+
+
+
+
+
+
+
+
+
+
 ----board.net crash
 	http://board.net/p/toekeyboard
 	--log

@@ -9,7 +9,7 @@ Meeting minutes
 
 <hr>
 <br><b>Every April</b>
-<br>Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house
+<br>Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house  
 <br><https://en.wikipedia.org/wiki/Unconference>
 
 
@@ -31,7 +31,7 @@ Upcoming Meetings
 2018-01-16  
 2018-02-20  
 2018-03-20  
-2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  2018 Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house
+2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  2018 Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house  
 2018-05-15  
 2018-06-19  
 2018-07-17  
@@ -44,7 +44,7 @@ Upcoming Meetings
 2019-01-15  
 2019-02-19  
 2019-03-19  
-2019-04-16  &nbsp;&nbsp;&nbsp;&nbsp;  2019 Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house
+2019-04-16  &nbsp;&nbsp;&nbsp;&nbsp;  2019 Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house  
 2019-05-21  
 2019-06-18  
 2019-07-16  

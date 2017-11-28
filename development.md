@@ -6438,6 +6438,22 @@ oct 01 -3       Richmond Hill Education & Technology Meetup
 oct 04 -~10     TechConnex
 		https://www.eventbrite.ca/e/future-of-technology-investment-where-is-the-technology-industry-headed-tickets-38006246707?aff=es2
 
+oct 19  -evsociety
+		-~20 openwifi business cards            ttc bus shelters
+		-3 toekeyboard/openwifi bundle          ttc bus shelters
+oct 21  -gta-robotics           FIRST robotics high school competition
+		-~30 gtarobotics business cards         ttc bus shelters
+		-1 toekeyboard/openwifi bundle          Ross    (Robot operating system / ylab principal)
+		-1 toekeyboard/openwifi bundle          Creatronics
+oct 24 -markham community innovation hub
+		-8
+	-pitchit york
+		-~20		french delegation group
+nov 06-08 -15	CASCON IBM
+nov 09-10 -2	ESEM 2017	(business card package, no toekeyboard sample kit)
+nov 11 -2 Richmond Hill Education & Technology Meetup
+		(business card package, no toekeyboard sample kit)
+
 
 
 			

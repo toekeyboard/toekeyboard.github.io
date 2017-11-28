@@ -25,13 +25,12 @@ __[Year-Month-Day / YYYY-MM-DD] [Attendees] [[Audio file](https://en.wikipedia.o
 Upcoming Meetings
 ---
 
-2017-11-21  
 2017-12-19  
   
 2018-01-16  
 2018-02-20  
 2018-03-20  
-2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  2018 Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house  
+2018-04-17 &nbsp;&nbsp;&nbsp;&nbsp;  Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Pitch & Demo Day / Open house  
 2018-05-15  
 2018-06-19  
 2018-07-17  
@@ -44,7 +43,7 @@ Upcoming Meetings
 2019-01-15  
 2019-02-19  
 2019-03-19  
-2019-04-16  &nbsp;&nbsp;&nbsp;&nbsp;  2019 Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Demo Day / Open house  
+2019-04-16  &nbsp;&nbsp;&nbsp;&nbsp;  Annual General Meeting (AGM) / Mini-Conference / Unconference / Mini-Hackathon / Pitch & Demo Day / Open house  
 2019-05-21  
 2019-06-18  
 2019-07-16  
@@ -61,6 +60,7 @@ Upcoming Meetings
 <span id="Previous" />	
 Previous Meetings
 ---
+[2017-11-21](2017/11/21/index.html) 1 [audio (01:00:35) (50M)](2017/11/21/minutes.ogg) sous-marin  
 [2017-10-17](2017/10/17/2017-10-17.html) 1 [audio (00:59:33) (49M)](2017/10/17/2017-10-17.ogg) octobre  
 [2017-09-19](2017/09/19/2017-09-19.html) 2 [audio (1:02:30) (37M)](2017/09/19/2017-09-19.ogg) wcn  
 [2017-08-15](2017/08/15/2017-08-15.html) 1 [audio (1:00:02) (35M)](2017/08/15/2017-08-15.ogg) premiere recording  

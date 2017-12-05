@@ -6432,7 +6432,6 @@ sep 16
 sep 17
 	-2
 		https://www.meetup.com/es/GTA-Robotics/events/243306615/		
-
 sep 30 -1       HiGarden        105Gibson
 oct 01 -3       Richmond Hill Education & Technology Meetup
 oct 04 -~10     TechConnex
@@ -6453,6 +6452,10 @@ nov 06-08 -15	CASCON IBM
 nov 09-10 -2	ESEM 2017	(business card package, no toekeyboard sample kit)
 nov 11 -2 Richmond Hill Education & Technology Meetup
 		(business card package, no toekeyboard sample kit)
+nov 29 -~30
+                https://www.meetup.com/Wearable-Wednesday-Toronto/events/237220190/
+                -giving SHY/oowifi/foodcourtincubator/gtarobotics packages
+
 
 
 

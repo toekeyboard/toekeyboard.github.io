@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html>
+
+<!--
+<HEAD>
+	<meta HTTP-EQUIV="REFRESH" content="0; url=http://url">
+</HEAD>
+-->
+
+
+
+
+	<!-- https://github.com/Downsview/calendar-demo -->
+
+ <head>
+  <meta charset="utf-8" />
+  <title>
+#toekeyboard;
+toe klawerbord; keyboard toe;  Zehentastatur; ጣት ቁልፍ ሰሌዳ; لوحة المفاتيح اصبع القدم; քիթ ստեղնաշար; toe klaviatura; পদাঙ্গুলি কীবোর্ড; сыходжанне клавіятуры; ခြေချောင်းကီးဘုတ်; toe tastatura; петите клавиатура; ក្តារចុចម្រាមជើង; ಟೋ ಕೀಬೋರ್ಡ್;  teclat del dit del peu; toe keyboard; prst klávesnice; chala kiyibodi; 脚趾键盘; 腳趾鍵盤; ටුයි යතුරු පුවරුව; 발가락 키보드; Tastiera calcagnu;  zòtèy klavye; toe tipkovnica; tå tastatur; prst klávesnica;  toe tipkovnica; dedo del pie; piedfingro klavaro; varba klaviatuuri; toe näppäimistö; clavier d'orteil; Toe meur-chlàr;  bysellfwrdd blaen; teclado toe; toe კლავიატურის;  πληκτρολόγιο toe;  ટો કીબોર્ડ; kafana keyboard; manamananui eeaaeaoo; מקלדת הבוהן; पैर के अंगूठे कुंजीपटल; ntiv taw keyboard;  teen toetsenbord; toe billentyűzet; mkpịsị ụkwụ keyboard; Keyboard toe; keyboard tone; ton méarchlár; lyklaborð tón; tono tastiera; キーボードの音; muni keyboard; пернетақта үні; клавиатура обон; tone Klavyeya; ສຽງ keyboard; Keyboard tone; tastatūra tonis; klaviatūra tonas; touchscreen ervirhiewen; тастатура тон; കീബോർഡ് ടോൺ; tone keyboard; Keyboard feo; ton tastiera; oro papapātuhi; कीबोर्ड टोन; гарын ая; किबोर्ड टोन; tastatur tone; ਕੀ-ਬੋਰਡ ਟੋਨ; بورډ لهجه; تن صفحه کلید; ton klawiatury; som do teclado; ton de tastatură; тон клавиатуры; piano leo; тастатура тон; tastatur modumo o; kiibhodhi matauriro; ڪي بورڊ ڍنگ; midab keyboard; klaviaturton; nada keyboard; เสียงแป้นพิมพ์; விசைப்பலகை தொனி; оҳанги забонак; కీబోర్డ్ టోన్; klavye sesi; тон клавіатури; کی بورڈ کا سر; klaviatura ohang; teklatu tonua; giai điệu bàn phím; ithoni yezitshixo; קלאַוויאַטור טאָן; keyboard ohun orin; ikhibhodi ithoni
+  </title>
+  <style>
+   * {
+    margin: 0;
+    padding: 0;
+   }
+   
+   body {
+    font-family: "微软雅黑, arial, helvetica, sans-serif";
+    font-size: 1em;
+    //background: #ccc;
+   }
+   
+   table {
+    width: 360px;
+    margin: 50px auto;
+    background: #fff;
+    text-align: center;
+    border-width: 2px 0 0 2px;
+    border-color: #ccc;
+    border-style: solid;
+   }
+   
+   table tr td,
+   table tr th {
+    padding: 20px 40px;
+    text-align: center;
+    border-width: 0 2px 2px 0;
+    border-color: #ccc;
+    border-style: solid;
+   }
+   
+   table tr td.today {
+    background: green;
+    color: #fff;
+   }
+
+   table tr td.meet {
+    background: #f90;
+    color: #fff;
+   }
+  </style>
+ </head>
+
+
+
+
+
+
+ <body>
+
+
+
+
+<!--
+<a href="https://github.com/toekeyboard/toekeyboard"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/forkme_right_white_ffffff.png?raw=true" alt="Fork me on GitHub" data-canonical-src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/forkme_right_white_ffffff.png?raw=true"></a>
+-->
+
+
+<style>#forkongithub a{background:#000;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#c11;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#fff;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}</style><span id="forkongithub"><a href="https://github.com/toekeyboard">Source code</a></span>
+
+
+<hr>
+
+
+<br>
+
+<!--<a href="https://toekeyboard.github.io/">-->
+<a href="./index.html">
+	<img src="images/toekeyboard_black.png" height="70px" />
+</a>
+
+<a href="#C">
+	<img src="images/hanging-calendar-interface-tool-symbol_318-58238.png" height="70px" />
+</a>
+
+
+<!--
+<a href="#La">
+	<img src="images/lang/graphviz_dot/balanced/final/01-en.png" height="70px" width="70px" />
+</a>
+-->
+
+<!--
+<a href="#M">
+	<img src="images/eTMk4jx8c.png" height="70px" />
+</a>
+-->
+
+<a href="#L">
+	<img src="images/g1501_3.jpg" height="70px" />
+</a>
+
+<a href="#I">
+	<img src="images/FecMppXnMi.jpeg" height="70px" />
+</a>
+
+<a href="#B">
+	<img src="images/blog-comment-speech-bubble-symbol_318-64486.png" height="70px"/>
+</a>
+
+<a href="#S">
+	<img src="images/opensource-logo.jpeg" height="70px" />
+</a>
+
+<a href="#H">
+	<img src="images/oshw-logo-800-px.png" height="70px" />
+</a>
+
+<a href="#Vi">
+	<img src="images/play.png" height="70px" width="70px"/>
+</a>
+
+<a href="#La">
+	<img src="images/Picture+13.png" height="70px" />
+</a>
+
+<a href="#OM">
+	<img src="images/openmanufacturing.png" height="70px" />
+</a>
+
+<!--
+<a href="#SH">
+	<img src="images/shopping-cart-of-checkered-design_318-50865.jpg" height="70px" />
+</a>
+-->
+
+
+
+<!--
+<a href="#W">
+	<img src="images/whiteboard.png" height="70px" />
+</a>
+
+<a href="#V">
+	<img src="images/Photo-Video-Webcam-icon.png" height="70px" />
+</a>
+
+
+<a href="#K">
+	<img src="images/2F_318-9870.jpg" height="70px" />
+</a>
+
+<a href="#Lo">
+	<img src="images/576px-Open_Access_logo_PLoS_white.svg.png" height="70px" />
+</a>
+-->
+
+<br>
+<hr>
+<br>
+
+
+<!--
+<br>
+<img src="https://github.com/toekeyboard/toekeyboard.github.io/blob/master/images/toekeyboard_full.gif?raw=true" width="50%" />
+-->
+<br>
+<img src="images/toekeyboard_full.gif" width="50%" />
+<img src="images/DSC03747-reduire.JPG" width="49%" />
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<hr>
+<br>
+
+
+
+
+
+
+
+
+<span id="C" />
+<img src="images/hanging-calendar-interface-tool-symbol_318-58238.png" width="10%" />
+
+
+<span id="L" />
+<!--<a href="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson" target="_blank"> -->
+<a href="locations/shopping.html" target="_blank">
+<img src="images/g1501_3.jpg" width="10%" />
+</a>
+
+<!--
+<img src="images/eTMk4jx8c.png" width="250px" height="250px" />
+-->
+<span id="M" />
+<img src="images/eTMk4jx8c.png" width="10%" />
+<br>
+
+
+
+
+
+
+
+<script>
+   //判断当前年份是否是闰年(闰年2月份有29天，平年2月份只有28天)
+
+
+   function isLeap(year) {
+    return year % 4 == 0 ? (year % 100 != 0 ? 1 : (year % 400 == 0 ? 1 : 0)) : 0;
+   }
+
+
+    var i, k,
+    today = new Date(), //获取当前日期
+    //today = new Date(2016,10,23),
+    //today = new Date(2016,9,23),
+    //today = new Date(2016,9,18),
+    //today = new Date(2015,11,18),
+
+    //today = new Date(October 24, 2016 10:13:00),
+    //today = new Date(2016,9,23),
+    //today = new Date(2016,10,23,10,15,0),
+
+    y = today.getFullYear(), //获取日期中的年份
+    m = today.getMonth(), //获取日期中的月份(需要注意的是：月份是从0开始计算，获取的值比正常月份的值少1)
+    d = today.getDate(), //获取日期中的日(方便在建立日期表格时高亮显示当天)
+    firstday = new Date(y, m, 1), //获取当月的第一天
+    dayOfWeek = firstday.getDay(), //判断第一天是星期几(返回[0-6]中的一个，0代表星期天，1代表星期一，以此类推)
+    days_per_month = new Array(31, 28 + isLeap(y), 31, 30, 31, 30, 31, 31, 30, 31, 30, 31), //创建月份数组
+    str_nums = Math.ceil((dayOfWeek + days_per_month[m]) / 7); //确定日期表格所需的行数
+
+
+
+
+
+
+
+
+
+
+
+    //dayOfWeek == 
+
+    /*
+     if (dayOfWeek == 0) {
+	     document.write('<td class="today">' + date + '</td>')
+     } else if (date == 18) {
+	     document.write('<td class="meet">' + date + "<br>@7pm" + '</td>')
+     } else {
+	     document.write('<td>' + date + '</td>'); //高亮显示当天
+     }
+*/
+
+
+    function getTuesdays() {
+        //var d = new Date(),
+        var d = today,
+            month = d.getMonth(),
+            tuesdays= [];
+
+        d.setDate(1);
+    
+        // Get the first Tuesday in the month
+        while (d.getDay() !== 2) {
+            d.setDate(d.getDate() + 1);
+        }
+    
+        // Get all the other Tuesdays in the month
+        while (d.getMonth() === month) {
+            tuesdays.push(new Date(d.getTime()));
+            d.setDate(d.getDate() + 7);
+        }
+    
+        return tuesdays;
+        //http://www.java2s.com/Tutorial/JavaScript/0220__Array/Returnanarrayfromafunction.htm
+    }
+
+
+
+
+	//Print full month and year heading
+	//https://duckduckgo.com/?q=javascript+datetime+month+name&t=ffab&ia=qa
+	//https://stackoverflow.com/questions/1643320/get-month-name-from-date
+	//https://www.w3schools.com/jsref/jsref_obj_date.asp
+	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+	      "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+	      ];
+	//var monthNames = ["January", "February", "March", "April", "May", "June",
+	//      "July", "August", "September", "October", "November", "December"
+	//      ];
+  
+
+
+
+	//Next meeting 
+	//document.write('Next meeting:' + today.getMonth()");
+
+
+	//document.write("<table border='0'>"); //打印表格第一行(显示星期)
+	//document.write("<table border='1' cellspacing='0'>"); //打印表格第一行(显示星期)
+	document.write("<table cellspacing='0'>"); //打印表格第一行(显示星期)
+
+	m2 = monthNames[today.getMonth()]
+	document.write('<tr><td><h1>' + m2 + ' ' + y + '</h1></td></tr>');
+
+	document.write('</table>');
+
+
+
+
+
+
+    //document.write('<tr>' + today + '</tr>')
+    //document.write('<tr>' + today.getDay() + '</tr>')
+
+    //var thirdTues = getTuesdays()[2].getDate();
+
+    var gTues = getTuesdays();
+    var Tues = new Array(5);
+    Tues[0] = -1;
+    //Tues[0] = gTues[0].getDate();
+    
+    Tues[1] = -1;
+    //Tues[1] = gTues[1].getDate();
+    
+    //Tues[2] = -1;
+    Tues[2] = gTues[2].getDate();
+    
+    Tues[3] = -1;
+    //Tues[3] = gTues[3].getDate();
+    
+    Tues[4] = -1;
+    //if (gTues.length == 5) {
+    //Tues[4] = gTues[4].getDate();
+    //}
+    
+/*
+    	var Tues = new Array(5);
+	Tues[0] = getTuesdays()[0].getDate();
+	Tues[1] = getTuesdays()[1].getDate();
+	Tues[2] = getTuesdays()[2].getDate();
+	Tues[3] = getTuesdays()[3].getDate();
+	
+	if (getTuesdays().length == 5) {
+	Tues[4] = getTuesdays()[4].getDate();
+	}
+*/
+
+    //document.write('<tr>' + thirdTues + '</tr>');
+    //document.write('<tr>' + getTuesday().getDate() + '</tr>');
+    //document.write('<tr>' + getTuesday().getDate() + '</tr>');
+    //document.write('<tr>' + getTuesday().getDate() + '</tr>');
+
+   //document.write("<table cellspacing='0'><tr><th>日</th><th>一</th><th>二</th><th>三</th><th>四</th><th>五</th><th>六</th></tr>"); //打印表格第一行(显示星期)
+   document.write("<table cellspacing='0'><tr><th>Su</th><th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th></tr>"); //打印表格第一行(显示星期)
+   for (i = 0; i < str_nums; i += 1) { //二维数组创建日期表格
+    document.write('<tr>');
+    for (k = 0; k < 7; k++) {
+     var idx = 7 * i + k; //为每个表格创建索引,从0开始
+     var date = idx - dayOfWeek + 1; //将当月的1号与星期进行匹配
+     (date <= 0 || date > days_per_month[m]) ? date = '&nbsp;': date = idx - dayOfWeek + 1; //索引小于等于0或者大于月份最大值就用空表格代替
+
+     if ( 
+	//(date == d) && (date == thirdTues)
+	(date == d) && (date == Tues[0]) ||
+	(date == d) && (date == Tues[1]) ||
+	(date == d) && (date == Tues[2]) ||
+	(date == d) && (date == Tues[3]) ||
+	(date == d) && (date == Tues[4])
+		     ) {
+	     document.write('<td class="today">' + date + 
+			     //"<br><a href='https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson' target='_blank'>7pm/19h<img src='images/g1501_3.jpg' width='30px' /></a>" + 
+			     "<br><a href='locations/shopping.html' target='_blank'>7pm/19h<img src='images/g1501_3.jpg' width='30px' /></a>" + 
+			     "<br><a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard' target='_blank'><img src='images/FecMppXnMi.jpeg' width='30px' /></a>" +
+			     '</td>');
+     }
+     else if (date == d) {
+	     document.write('<td class="today">' + date + '</td>');
+     //} else if (date == "18") {
+     } else if ( 
+	       //(date == thirdTues)
+	       (date == Tues[0]) ||
+	       (date == Tues[1]) ||
+	       (date == Tues[2]) ||
+	       (date == Tues[3]) ||
+	       (date == Tues[4])
+	       ){
+     //} else if (date == getTuesday().getDate()) {
+	     //document.write('<td class="meet">' + date + "<br>@7pm" + '</td>');
+	     //document.write('<td class="meet">' + date + "<br><a href='images/mall/DSC03368.JPG' target='_blank'>@7pm</a>" + '</td>');
+
+	     document.write('<td class="meet">' + date + 
+			     //"<br><a href='https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson' target='_blank'>7pm/19h<img src='images/g1501_3.jpg' width='30px' /></a>" + 
+			     "<br><a href='locations/shopping.html' target='_blank'>7pm/19h<img src='images/g1501_3.jpg' width='30px' /></a>" + 
+			     "<br><a href='https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard' target='_blank'><img src='images/FecMppXnMi.jpeg' width='30px' /></a>" +
+			     '</td>');
+
+			     //<a href='images/mall/DSC03368.JPG' target='_blank'>
+
+
+	     //document.write('<td class="meet">' + date + "<br>3rd Tuesday of every month at 7pm.<br><a href='http://board.net/p/toekeyboard' target='_blank'>http://board.net/p/toekeyboard</a>" + '</td>');
+     } else {
+	     document.write('<td>' + date + '</td>'); //高亮显示当天
+     }
+
+     //date == d ? document.write('<td class="today">' + date + '</td>') : document.write('<td>' + date + '</td>'); //高亮显示当天
+     //date == 18 ? document.write('<td class="meet">' + date + '</td>'): 0; //高亮显示当天
+    }
+    document.write('</tr>');
+   }
+
+
+   //document.write('<tr><td><a href="events.ics" target="_blank">events.ics</a></td></tr>');
+
+   document.write('</table>');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<!--<br><b>Toe Keyboard User Group Meetings </b>
+<br>Food court tables, Denison Centre, 1661 Denison St, Markham
+-->
+<pre>
+<br><b>Meetings (When & Where):</b>
+	3rd Tuesday of every month at 7pm/19h.
+	<a href="https://maps.google.com/maps?f=q&hl=en&q=Denison+Centre+(Food+court+tables),+1661+Denison+St,+Markham" target='_blank'>Food court tables, Denison Centre, 1661 Denison St, Markham</a>
+	<a href="http://www.openstreetmap.org/?mlat=43.8330&mlon=-79.3059">geo:43.8330,-79.3059</a>
+
+	(Under tree, in front of Shoppers Drug Mart.  Pictures of location: <a href="images/mall/shoppersdrugmart/index.html" target='_blank'>here</a>)
+
+	All are welcome.
+
+<b>Meetings (Posted on other websites):</b>
+	<a href="https://www.eventbrite.ca/e/wearable-computing-toe-keyboard-tickets-32649835537" target='_blank'>Wearable Computing - Toe Keyboard</a> (Eventbrite page)
+	Search for "<a href="https://markham.snapd.com/search" target='_blank'>Wearable Computing - Toe Keyboard</a>" in Snapd - Markham. Or see it in the <a href="https://markham.snapd.com/calendar" target='_blank'>calendar</a>.
+
+<b>iCalendar:</b>
+	<a href="events.ics" target="_blank">events.ics</a>
+
+<b>Meeting minutes:</b>
+	<a href="board.net/minutes/index.html">Meeting minutes</a>
+
+<iframe src="board.net/minutes/index.html#Upcoming" style="border:1; width:80%; height:450px;"></iframe>
+
+</pre>
+
+<!-- <br><a href="http://www.openstreetmap.org/?mlat=43.83305&mlon=-79.30594" target="_blank">Food court in this mall</a> -->
+
+
+<!--
+<br><a href="http://www.openstreetmap.org/?mlat=43.83305&mlon=-79.30594" target="_blank"><img src="images/mall.png"></a>
+-->
+
+
+<!--
+<br>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-79.31145071983337%2C43.8296509054103%2C-79.30042147636414%2C43.83645380466885&amp;layer=mapnik&amp;marker=43.83305245197443%2C-79.30593609809875" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.83305&amp;mlon=-79.30594">View Larger Map</a></small>
+-->
+
+
+<!--
+	https://github.com/benbalter/dc-wifi-social/blob/master/bars.geojson
+	https://en.wikipedia.org/wiki/List_of_technology_centers
+-->
+
+
+
+<!--
+<br>
+<a href="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson" target="_blank">
+https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson
+</a>
+-->
+
+
+<!--
+<a href="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson" target="_blank">
+https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/l.geojson
+</a>
+-->
+
+
+<!--
+<br>
+<script src="https://embed.github.com/view/geojson/toekeyboard/toekeyboard.github.io/master/m.geojson"></script>
+
+<br>
+
+<br>
+
+<a href="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/m.geojson" target="_blank">
+<img src="images/mall/DSC03368.JPG" width="50%">
+</a>
+-->
+
+
+<!--
+<span id="SH" />
+<a href="locations/shopping.html" target="_blank">
+	<img src="images/shopping-cart-of-checkered-design_318-50865.jpg" width="10%" />
+</a>
+-->
+
+<br>
+<!--
+<iframe src="https://maps.google.com/maps?f=q&hl=en&q=Denison+Centre+(Food+court+tables),+1661+Denison+St,+Markham" style="border:1; width:50%; height:450px;"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.0881056250523!2d-79.30860388449645!3d43.83327107911549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d413d92703d3%3A0x90566a243a34d13a!2sDenison+Centre!5e0!3m2!1sen!2sus!4v1503265497142" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+-->
+
+<iframe src="locations/shopping.html" style="border:1; width:50%; height:450px;"></iframe>
+<!-- <script src="https://embed.github.com/view/geojson/toekeyboard/toekeyboard.github.io/master/locations/shopping.geojson"></script> -->
+<br>
+<a href="locations/shopping.html" target="_blank">
+	<!-- <img src="images/mall/shoppersdrugmart/DSC03369-reduire.JPG" width="49%" /> -->
+<img src="images/mall/shoppersdrugmart/DSC03363-reduire.JPG" width="49%" />
+</a>
+<!--
+<a href="images/mall/shoppersdrugmart/index.html" target="_blank">
+	<img src="images/mall/shoppersdrugmart/DSC03807-reduire.JPG" width="49%" />
+<img src="images/mall/shoppersdrugmart/IMG_00000189-reduire.jpg" width="49%" />
+</a>
+-->
+
+
+
+
+<br>
+<br>
+<!--<br><iframe src="locations/shopping.html" style="border:1; width:100%; height:450px;"></iframe>-->
+<iframe src="locations/meetings.html" style="border:1; width:50%; height:450px;"></iframe>
+<!-- <script src="https://embed.github.com/view/geojson/toekeyboard/toekeyboard.github.io/master/l.geojson"></script> -->
+<br>
+<a href="locations/meetings.html" target="_blank">
+Worldwide toekeyboard usergroup meetings (3rd Tuesday of every month at 7pm/19h, local time.  Food court tables)
+</a>
+<br>
+(From 
+<a href="https://en.wikipedia.org/wiki/List_of_technology_centers#Globally_Prominent_clusters_.28with_specific_dominant_markets_listed.29" target="_blank">
+List of technology centers
+</a>
+)
+<br>
+
+
+
+
+
+
+
+
+<br>
+<hr>
+<br>
+
+
+<span id="B" />
+<a href="http://board.net/p/toekeyboard" target="_blank">
+	<img src="images/blog-comment-speech-bubble-symbol_318-64486.png" width="10%" />
+</a>
+<br>
+
+
+
+
+<!--
+ne fonction pas.    boites vide
+
+<script src="http://pastebin.com/embed_js/Y035kwSC"></script>
+<iframe src="http://pastebin.com/embed_iframe/Y035kwSC" style="border:1; width:100%; height:450px;"></iframe>
+
+<iframe src='https://raw.githubusercontent.com/toekeyboard/toekeyboard.github.io/master/txt' style="border:1; width:100%; height:450px;"></iframe>
+
+<iframe src='http://board.net/p/1674927471' style='border:1; width:100%; height:450px;'></iframe>
+
+<iframe src='http://board.net/p/toekeyboard' style='border:1; width:100%; height:450px;'></iframe>
+<iframe src='http://board.net/p/toekeyboard?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false' style='border:1; width:100%; height:450px;'></iframe>
+
+<iframe name='embed_readwrite' src='http://board.net/p/toekeyboard?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false' style='border:1; width:100%; height:450px;'></iframe>
+-->
+
+<br><a href="http://board.net/p/toekeyboard" target="_blank">http://board.net/p/toekeyboard</a>
+<!-- <br><a href="http://board.net/p/toekeyboard" target="_blank">http://board.net/p/toekeyboard</a> -->
+
+
+
+<br>(Download text, <a href="http://board.net/p/toekeyboard/export/txt">here</a>, or <a href="board.net/txt">here</a>)
+<br>
+
+
+<iframe src="board.net/txt.html#Latest" style="border:1; width:80%; height:450px;"></iframe>
+
+<!--
+<br><iframe src="./board.net/txt" style="border:1; width:100%; height:450px;"></iframe>
+<br><iframe width="33%" height="315" src="./board.net/txt.html" frameborder="0" allowfullscreen></iframe>
+-->
+
+<!--<a href="board.net/txt">(Download text)</a>-->
+
+<!-- 
+<iframe src='http://board.net/p/toekeyboard' style='border:1; width:100%; height:450px;'></iframe>
+
+<iframe src='board.net/txt' style="border:1; width:100%; height:450px;"></iframe>
+	#on github.io, webpage tries to save txt file, automatically opens dialogue box.  not user friendly
+
+<iframe src='http://board.net/p/toekeyboard?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false' style='border:1; width:100%; height:450px;'></iframe>
+<iframe name='embed_readwrite' src='http://board.net/p/toekeyboard?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false' style='border:1; width:100%; height:450px;'></iframe>
+-->
+
+
+
+
+
+
+
+<br>
+<hr>
+<br>
+
+<span id="I" />
+<a href="https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard" target="_blank">
+	<img src="images/FecMppXnMi.jpeg" width="10%" />
+</a>
+
+
+
+<pre>
+
+<br><iframe src="https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard" style="border:1; width:80%; height:450px;"></iframe>
+<!--<br><iframe src="https://riot.im/app/#/room/#toekeyboard:matrix.org" style="border:1; width:100%; height:450px;"></iframe>-->
+3rd Tuesday of every month at 7pm/19h. 
+
+<a href="irc://irc.freenode.net/toekeyboard" target="_blank">IRC channel: #toekeyboard on freenode</a>
+
+<a href="https://kiwiirc.com/client/irc.freenode.net/?nick=.?#toekeyboard" target="_blank">https://kiwiirc.com/client/irc.freenode.net/?nick=.?#toekeyboard</a>
+
+<a href="http://webchat.freenode.net/?channels=toekeyboard&nick=." target="_blank">http://webchat.freenode.net/?channels=toekeyboard&nick=.</a>
+
+<a href="toekeyboard_irc.html" target="_blank">IRC logs</a> (Download text <a href="toekeyboard.txt" target="_blank">here</a>)
+
+<iframe src="toekeyboard_irc.html#End" style="border:1; width:80%; height:450px;"></iframe>
+
+<!--<a href="https://riot.im/app/#/room/#toekeyboard:matrix.org" target="_blank">https://riot.im/app/#/room/#toekeyboard:matrix.org</a>-->
+</pre>
+<!--
+<br>
+<br><a href="https://twitter.com/search?f=tweets&q=%23toekeyboard&src=typd" target="_blank">#toekeyboard</a>
+-->
+
+
+<!--
+<br><iframe src="http://webchat.freenode.net/?channels=toekeyboard&nick=a." style="border:1; width:100%; height:450px;"></iframe>
+
+<hr>
+-->
+
+
+
+
+
+
+<br>
+<hr>
+<br>
+
+
+
+
+
+
+
+<br>
+<span id="S" />
+<a href="https://github.com/toekeyboard/toekeyboard" target="_blank">
+	<img src="images/opensource-logo.jpeg" width="10%" />
+</a>
+
+<pre>
+<a href="development.html" target="_blank">Development</a>
+
+<iframe src="development.html" style="border:1; width:80%; height:450px;"></iframe>
+
+<a href="https://github.com/toekeyboard/toekeyboard/tree/master/software/linux" target="_blank">Download demo (Python)</a>
+
+<a href="https://github.com/toekeyboard/toekeyboard" target="_blank">https://github.com/toekeyboard/toekeyboard</a>
+
+Platforms to be supported:
+<img src="images/mobile/platforms.jpg" width="30%" />
+
+</pre>
+
+<br>
+<hr>
+<br>
+
+
+
+<!--
+<br>
+<a href="https://toekeyboard.github.io/toekeyboard/hardware/index.html" target="_blank">Hardware</a>
+<br>
+<a href="https://toekeyboard.github.io/toekeyboard/hardware/index.html" target="_blank">
+	<img src="images/5447817841_ea7b51c9b2.jpg" width="10%" />
+</a>
+
+<br>
+-->
+
+
+<span id="H" />
+<a href="https://github.com/toekeyboard/toekeyboard-fabrication" target="_blank">
+	<img src="images/oshw-logo-800-px.png" width="10%" />
+</a>
+
+<pre>
+<a href="fabrication.html" target="_blank">Fabrication</a>
+
+<a href="https://github.com/toekeyboard/toekeyboard-fabrication" target="_blank">https://github.com/toekeyboard/toekeyboard-fabrication</a>
+</pre>
+<!--<a href="fabrication_DIY.html" target="_blank">Fabrication (DIY - Do it yourself)</a>-->
+
+
+<br>
+<hr>
+<br>
+
+<span id="Vi" />
+<a href="videos.html" target="_blank">
+	<img src="images/play.png" width="10%" />
+</a>
+
+
+<br>
+<!--
+<iframe width="33%" height="315" src="https://www.youtube.com/embed/ILOjUHn39qM" frameborder="0" allowfullscreen></iframe>
+-->
+<iframe width="33%" height="315" src="https://www.youtube.com/embed/n6UdC31UswQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="33%" height="315" src="https://www.youtube.com/embed/6wWkH13HN24" frameborder="0" allowfullscreen></iframe>
+<iframe width="33%" height="315" src="https://www.youtube.com/embed/ExTSW5Ogat4" frameborder="0" allowfullscreen></iframe>
+<br>
+
+<pre>
+<b>----Applications</b>
+	Coupled with a cellphone, bluetooth headset, and using text-to-speech (TTS) software:
+		Hands-free, voice-free text messaging
+		Hands-free, voice-free note taking
+		Hands-free, voice-free music player control
+		Search engine searches (acquire information discreetly)
+
+<b>----Uses</b>
+	Professions where hands are dirty, or using work gloves.  
+		Auto mechanics
+		Chefs, in the kitchen during food preparations. (pulling up recipes / next orders, on electronic displays.  Waiters / Waitresses
+		Gardeners/Landscapers
+		Wood-working / Machine / Tool-setter workshops
+		Construction workers, factory workers
+		Medical personnel / staff: 
+			paramedics, nurses, doctors, surgeons, pharmacists, psychiatrists (discreet notetaking, to put patients at ease during observation)
+		Garbage / waste removal, janitors
+	Business:
+		Powerpoint presentation control (next slide / previous slide)
+		Discreet messaging among business partners
+		Note taking during meetings, without appearing distracted.  (Secretaries)
+	Journalism:
+		Reporters / Journalists during live interviews (discreet note taking)
+		Writers
+	Entertainment:
+		Musicians, musical performers, buskering, street performers
+			-while playing instruments (page turning of electronic music sheets on tablets)
+			-controlling of background / accompanying / percussion music
+		DJ'ing (disk jockey) / VJ'ing (video disk jokey) - next track.  effect pedal.  Simulated scratching of vinyl record (rotate forward / backward)
+		Entertainers, Vocal performers:   singers, rappers, comedians
+			Rappers - discreetly feed yourself vocabulary / words during freestyling  
+					-in conjunction with a bone conduction hearing system.  
+					-ie. bone conduction hearing glasses.  bluetooth earbuds
+		Acting / On stage / Live performances: actors / actress, broadway
+		Television studio sets: News anchors, interviewers, camera operators
+		Magicians 
+			-mentalist (mind reading acts)	https://en.wikipedia.org/wiki/Mentalism
+			-ventriloquists (talking puppet) https://en.wikipedia.org/wiki/Ventriloquism
+	Sports:  
+		Baseball, Cricket (communicating amongst players and coaches)
+		Sailing
+		Dancing (virtual dance trainer)
+	Mobile Gaming:
+		Driving simulators (gas & break pedals)
+		Effect pedals (audio synthesizers)
+		Virtual reality users (texting while in a virtual world)
+		Go / Chess assistant
+	Accessibility: 
+		Blind / Visually impaired
+			<a href="http://www.cnib.ca">CNIB</a>
+				<a href="https://en.wikipedia.org/wiki/CNIB">CNIB (wikipedia)</a>
+			<a href="https://nfb.org/">NFB</a>
+				<a href="https://en.wikipedia.org/wiki/National_Federation_of_the_Blind">NFB (wikipedia)</a>
+			<a href="https://en.wikipedia.org/wiki/Braille_technology">Mobile phone input when full keyboard is unavailable</a> 
+			<a href="https://en.wikipedia.org/wiki/Chorded_keyboard">Chorded_keyboard</a>
+			<a href="https://en.wikipedia.org/wiki/Keyer">Keyer</a>
+			<a href="http://www.humanware.com">Humanware</a>
+		Arm amputees
+			<a href="https://en.wikipedia.org/wiki/Phocomelia">Phocomelia</a> (<a href="https://en.wikipedia.org/wiki/Thalidomide">Thalidomide</a> / <a href="https://en.wikipedia.org/wiki/Development_of_analogs_of_thalidomide">Development of analogs of thalidomide</a>)
+			<a href="https://en.wikipedia.org/wiki/Roberts_syndrome">Roberts syndrome</a>
+	Aerospace:  
+		Stewards / Stewardesses, Ground crew
+		Astronaunts (Extra-Vehicular Activity).  Raising suit temperature, typing notes.
+	Translators:
+		Word translations (dictionary look-ups), during mid-conversations
+		Become a self-ventriloquist.  Puppet yourself to speak a translated word / sentence
+
+</pre>
+
+
+
+
+<br>
+<hr>
+<br>
+
+
+
+
+
+<span id="La" />
+<a href="languages.html" target="_blank">
+	<img src="images/Picture+13.png" width="10%" />
+</a>
+
+<br>
+<a href="languages.html" target="_blank">
+	<img src="images/typing/cheatsheet/toekeyboard_full_extended.png" width="50%" />
+</a>
+
+
+<br><a href="languages.html" target="_blank">Other languages (trees)</a>
+<br><a href="images/lang/graphviz_dot/balanced/orthography.txt" target="_blank">Other languages (texts)</a>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<hr>
+<br>
+
+<span id="OM" />
+<a href="locations/index.html" target="_blank">
+	<img src="images/openmanufacturing.png" width="10%" />
+</a>
+
+
+<br>
+<!-- <script src="https://embed.github.com/view/geojson/toekeyboard/toekeyboard.github.io/master/locations/locations.geojson"></script> -->
+<iframe src="locations/index.html" style="border:1; width:50%; height:450px;"></iframe>
+<!--<br><iframe src="locations/index.html" style="border:1; width:100%; height:450px;"></iframe>-->
+
+<!--
+<pre>
+<a href="interested_parties.html" target="_blank">Interested parties</a>
+</pre>
+-->
+
+<br>
+<hr>
+
+<br><b>Hashtags:</b>
+<br>#toekeyboard #43n79w #43n079w #438n0793w #4383n07930w #43833n079305w #438330n0793059w
+<br><a href="http://www.openstreetmap.org/?mlat=43.8330&mlon=-79.3059">geo:43.8330,-79.3059</a>
+<br>
+
+<br>
+<br>
+
+
+<hr>
+
+
+
+
+<!--
+
+<br>
+<hr>
+<br>
+
+<span id="W" />
+<a href="https://www.twiddla.com/123456" target="_blank">
+	<img src="images/whiteboard.png" width="10%" />
+</a>
+
+<br><a href="https://www.twiddla.com/123456" target="_blank">https://www.twiddla.com/123456</a>
+<br><a href="https://awwapp.com/b/umnz03klu/" target="_blank">https://awwapp.com/b/umnz03klu/</a>
+
+<br>
+<br>
+
+<span id="V" />
+<a href="https://getaroom.io/591f3b" target="_blank">
+	<img src="images/Photo-Video-Webcam-icon.png" width="10%" />
+</a>
+
+<br><a href="https://getaroom.io/591f3b" target="_blank">https://getaroom.io/591f3b</a>
+<br><a href="https://talky.io/toekeyboard" target="_blank">https://talky.io/toekeyboard</a>
+<br><a href="https://apprtc.appspot.com/r/toekeyboard" target="_blank">https://apprtc.appspot.com/r/toekeyboard</a>
+
+
+<br>
+<hr>
+<br>
+
+
+<span id="K" />
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/tree/master/ssh" target="_blank">
+	<img src="images/2F_318-9870.jpg" width="10%" />
+</a>
+<br>
+
+<span id="Lo" />
+<a href="https://github.com/toekeyboard/toekeyboard.github.io/tree/master/ssh" target="_blank">
+	<img src="images/576px-Open_Access_logo_PLoS_white.svg.png" width="10%" />
+</a>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
